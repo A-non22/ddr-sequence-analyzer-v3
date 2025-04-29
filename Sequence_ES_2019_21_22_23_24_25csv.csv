@@ -1,0 +1,1522 @@
+Date ,Day,High / Low,High / Low,Start Point,End point,ADR Model,Broken/Intact ADR,ODR Model,Broken/Intact ODR,RDR Model,ODR Broke ADR,TRN Broke ADR,Start Point with session,End Point with session
+02/01/2019,Wednesday,Low ODR,High RDR,Max+ Red,Zero Min Green,UXP,Broken by RDR,DXP,Broken by ODR,UX,No,,ODR Max+ Red,RDR Zero Min Green
+03/01/2019,Thursday,High RDR,Low RDR,Zero Min Green,Zero Min Red,RC,Broken by ADR,RX,Broken by RDR,RX,No,,RDR Zero Min Green,RDR Zero Min Red
+04/01/2019,Friday,,,,,,,,,,,,,
+07/01/2019,Monday,Low ODR,High RDR,Min Med Red,Max+ Green,UXP,Intact,DXP,Broken by ODR,RX,No,,ODR Min Med Red,RDR Max+ Green
+08/01/2019,Tuesday,High RDR,Low RDR,Med Max Green,Med Max Red,UXP,Broken by ADR,UXP,Broken by RDR,RX,No,,RDR Med Max Green,RDR Med Max Red
+09/01/2019,Wednesday,,,,,,,,,,,,,
+10/01/2019,Thursday,,,,,,,,,,,,,
+11/01/2019,Friday,,,,,,,,,,,,,
+14/01/2019,Monday,Low ODR,High RDR,Min Med Red,Med Max Green,RC,Intact,DXP,Broken by ODR,RX,No,,ODR Min Med Red,RDR Med Max Green
+15/01/2019,Tuesday,,,,,,,,,,,,,
+16/01/2019,Wednesday,,,,,,,,,,,,,
+17/01/2019,Thursday,Low ODR,High RDR,Min Med Red,Max+ Green,DXP,Broken by RDR,DXP,Intact,UXP,No,,ODR Min Med Red,RDR Max+ Green
+18/01/2019,Friday,,,,,,,,,,,,,
+21/01/2019,Monday,High ODR,Low RDR,Zero Min Green,Zero Min Red,UXP,Broken by ADR,DX,Broken by ODR,DXP,No,,ODR Zero Min Green,RDR Zero Min Red
+22/01/2019,Tuesday,,,,,,,,,,,,,
+23/01/2019,Wednesday,High RDR,Low RDR,Med Max Green,Min Med Green,DXP,Broken by ADR,DX,Broken by RDR,UX,No,,RDR Med Max Green,RDR Min Med Green
+24/01/2019,Thursday,High RDR,Low RDR,Min Med Green,Med Max Red,DX,Broken by ODR,D,Broken by ODR,U,No,,RDR Min Med Green,RDR Med Max Red
+25/01/2019,Friday,Low ODR,High RDR,Zero Min Red,Med Max Green,RC,Intact,UXP,Intact,UXP,No,,ODR Zero Min Red,RDR Med Max Green
+28/01/2019,Monday,High ODR,Low RDR,Zero Min Green,Med Max Red,DX,Intact,DXP,Intact,DXP,No,,ODR Zero Min Green,RDR Med Max Red
+29/01/2019,Tuesday,High RDR,Low RDR,Min Med Green,Med Max Red,RC,Broken by RDR,UXP,Broken by RDR,UXP,No,,RDR Min Med Green,RDR Med Max Red
+30/01/2019,Wednesday,,,,,,,,,,,,,
+31/01/2019,Thursday,Low TRN,High RDR,Min Med Red,Med Max Green,UXP,Broken by ODR,UXP,Broken by RDR,RX,Yes,,TRN Min Med Red,RDR Med Max Green
+01/02/2019,Friday,,,,,,,,,,,,,
+04/02/2019,Monday,Low RDR,High RDR,Min Med Red,Med Max Green,RC,Broken by ODR,DXP,Broken by ODR,RX,Yes,,RDR Min Med Red,RDR Med Max Green
+05/02/2019,Tuesday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ADR,U,Intact,UXP,No,,ODR Zero Min Red,RDR Med Max Green
+06/02/2019,Wednesday,High RDR,Low RDR,Min Med Green,Zero Min Red,UX,Broken by ADR,DXP,Broken by RDR,RX,No,,RDR Min Med Green,RDR Zero Min Red
+07/02/2019,Thursday,High ODR,Low RDR,Zero Min Green,Max+ Red,DX,Broken by ODR,DX,Intact,DXP,Yes,,ODR Zero Min Green,RDR Max+ Red
+08/02/2019,Friday,Low RDR,High RDR,Min Med Red,Med Max Green,DXP,Broken by ODR,D,Broken by RDR,DX,No,,RDR Min Med Red,RDR Med Max Green
+11/02/2019,Monday,High ODR,Low RDR,Min Med Green,Min Med Red,UXP,Broken by ADR,UX,Broken by RDR,RC,No,,ODR Min Med Green,RDR Min Med Red
+12/02/2019,Tuesday,,,,,,,,,,,,,
+13/02/2019,Wednesday,,,,,,,,,,,,,
+14/02/2019,Thursday,,,,,,,,,,,,,
+15/02/2019,Friday,Low ODR,High RDR,Zero Min Red,Max+ Green,RC,Broken by ODR,DXP,Intact,UXP,Yes,,ODR Zero Min Red,RDR Max+ Green
+18/02/2019,Monday,Low ODR,High RDR,Zero Min Red,Zero Min Green,UXP,Broken by ODR,RC,Broken by ODR,U,No,,ODR Zero Min Red,RDR Zero Min Green
+19/02/2019,Tuesday,Low TRN,High RDR,Zero Min Red,Med Max Green,D,Broken by ADR,DX,Broken by RDR,D,No,,TRN Zero Min Red,RDR Med Max Green
+20/02/2019,Wednesday,,,,,,,,,,,,,
+21/02/2019,Thursday,High ODR,Low RDR,Zero Min Green,Med Max Red,UX,Broken by ODR,UX,Intact,DXP,Yes,,ODR Zero Min Green,RDR Med Max Red
+22/02/2019,Friday,Low ODR,High RDR,Min Med Red,Min Med Green,RC,Broken by ADR,UXP,Broken by RDR,UX,No,,ODR Min Med Red,RDR Min Med Green
+25/02/2019,Monday,High RDR,Low RDR,Min Med Green,Min Med Red,UXP,Broken by ADR,RX,Broken by RDR,UXP,No,,RDR Min Med Green,RDR Min Med Red
+26/02/2019,Tuesday,,,,,,,,,,,,,
+27/02/2019,Wednesday,,,,,,,,,,,,,
+28/02/2019,Thursday,Low ODR,High RDR,Zero Min Red,Zero Min Green,UX,Broken by ODR,DXP,Broken by RDR,UX,No,Yes,ODR Zero Min Red,RDR Zero Min Green
+01/03/2019,Friday,High RDR,Low RDR,Min Med Green,Med Max Red,RC,Broken by RDR,UX,Broken by RDR,U,No,,RDR Min Med Green,RDR Med Max Red
+04/03/2019,Monday,High RDR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by ADR,DX,Broken by RDR,RX,No,,RDR Min Med Green,RDR Max+ Red
+05/03/2019,Tuesday,High ODR,Low RDR,Zero Min Green,Min Med Red,DXP,Intact,UXP,Broken by ODR,DXP,No,,ODR Zero Min Green,RDR Min Med Red
+06/03/2019,Wednesday,High RDR,Low RDR,Zero Min Green,Med Max Red,DX,Broken by ODR,UXP,Broken by ODR,RX,No,Yes,RDR Zero Min Green,RDR Med Max Red
+07/03/2019,Thursday,High TRN,Low RDR,Min Med Green,Med Max Red,DXP,Broken by ODR,DXP,Broken by RDR,D,Yes,,TRN Min Med Green,RDR Med Max Red
+08/03/2019,Friday,,,,,,,,,,,,,
+11/03/2019,Monday,,,,,,,,,,,,,
+12/03/2019,Tuesday,,,,,,,,,,,,,
+13/03/2019,Wednesday,,,,,,,,,,,,,
+14/03/2019,Thursday,High ODR,Low RDR,Med Max Green,Zero Min Red,UXP,Broken by ADR,DXP,Broken by ODR,DX,No,,ODR Med Max Green,RDR Zero Min Red
+15/03/2019,Friday,Low TRN,High RDR,Min Med Red,Min Med Green,RC,Intact,UXP,Broken by ODR,UX,No,,TRN Min Med Red,RDR Min Med Green
+18/03/2019,Monday,Low RDR,High RDR,Zero Min Red,Min Med Green,UXP,Intact,UXP,Broken by ODR,U,No,,RDR Zero Min Red,RDR Min Med Green
+19/03/2019,Tuesday,High RDR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by RDR,UX,Broken by RDR,UXP,No,,RDR Min Med Green,RDR Med Max Red
+20/03/2019,Wednesday,,,,,,,,,,,,,
+21/03/2019,Thursday,Low TRN,High RDR,Min Med Red,Max+ Green,U,Broken by RDR,DXP,Broken by RDR,UXP,No,,TRN Min Med Red,RDR Max+ Green
+22/03/2019,Friday,,,,,,,,,,,,,
+25/03/2019,Monday,High RDR,Low RDR,Min Med Green,Min Med Red,DXP,Broken by ODR,DXP,Broken by RDR,RX,Yes,,RDR Min Med Green,RDR Min Med Red
+26/03/2019,Tuesday,High RDR,Low RDR,Med Max Green,Zero Min Red,RC,Intact,UX,Broken by RDR,UXP,No,,RDR Med Max Green,RDR Zero Min Red
+27/03/2019,Wednesday,High ODR,Low RDR,Min Med Green,Med Max Green,DXP,Broken by ODR,UXP,Broken by RDR,DXP,Yes,,ODR Min Med Green,RDR Med Max Green
+28/03/2019,Thursday,High RDR,Low RDR,Min Med Green,Zero Min Red,DXP,Broken by ADR,UX,Broken by RDR,UXP,No,,RDR Min Med Green,RDR Zero Min Red
+29/03/2019,Friday,Low ODR,High RDR,Zero Min Red,Zero Min Green,UXP,Broken by ODR,D,Broken by RDR,UXP,No,,ODR Zero Min Red,RDR Zero Min Green
+01/04/2019,Monday,Low TRN,High RDR,Zero Min Red,Min Med Green,UXP,Intact,UX,Broken by ODR,U,No,,TRN Zero Min Red,RDR Min Med Green
+02/04/2019,Tuesday,Low RDR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,DXP,Broken by RDR,UXP,Yes,,RDR Zero Min Red,RDR Min Med Green
+03/04/2019,Wednesday,High RDR,Low RDR,Min Med Green,Min Med Red,DX,Intact,UXP,Broken by RDR,D,No,,RDR Min Med Green,RDR Min Med Red
+04/04/2019,Thursday,High RDR,Low RDR,Max+ Green,Zero Min Red,RC,Broken by ODR,DX,Broken by RDR,UXP,Yes,,RDR Max+ Green,RDR Zero Min Red
+05/04/2019,Friday,,,,,,,,,,,,,
+08/04/2019,Monday,Low RDR,High RDR,Min Med Red,Zero Min Green,UXP,Broken by RDR,DXP,Broken by ODR,DXP,No,,RDR Min Med Red,RDR Zero Min Green
+09/04/2019,Tuesday,High ODR,Low RDR,Min Med Green,Min Med Red,UXP,Intact,DXP,Intact,DXP,No,,ODR Min Med Green,RDR Min Med Red
+10/04/2019,Wednesday,,,,,,,,,,,,,
+11/04/2019,Thursday,,,,,,,,,,,,,
+12/04/2019,Friday,Low ODR,High RDR,Zero Min Red,Med Max Green,D,Broken by ODR,UX,Intact,UXP,No,,ODR Zero Min Red,RDR Med Max Green
+15/04/2019,Monday,High ODR,Low RDR,Min Med Green,Min Med Red,RC,Broken by ADR,DX,Broken by RDR,RX,No,,ODR Min Med Green,RDR Min Med Red
+16/04/2019,Tuesday,,,,,,,,,,,,,
+17/04/2019,Wednesday,,,,,,,,,,,,,
+18/04/2019,Thursday,Low ODR,High RDR,Min Med Red,Min Med Green,DXP,Broken by ODR,DXP,Intact,UXP,Yes,,ODR Min Med Red,RDR Min Med Green
+19/04/2019,Friday,,,,,,,,,,,,,
+22/04/2019,Monday,Low TRN,High RDR,Zero Min Red,Med Max Green,UXP,Broken by RDR,DXP,Broken by RDR,RX,No,,TRN Zero Min Red,RDR Med Max Green
+23/04/2019,Tuesday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ODR,DX,Intact,UXP,No,,ODR Zero Min Red,RDR Med Max Green
+24/04/2019,Wednesday,,,,,,,,,,,,,
+25/04/2019,Thursday,High TRN,Low RDR,Min Med Green,Med Max Red,DXP,Broken by ODR,DXP,Broken by ODR,DXP,No,,TRN Min Med Green,RDR Med Max Red
+26/04/2019,Friday,Low RDR,High RDR,Min Med Red,Min Med Green,RC,Broken by ODR,RC,Broken by RDR,U,No,,RDR Min Med Red,RDR Min Med Green
+29/04/2019,Monday,Low ODR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,UX,Broken by ODR,UX,No,,ODR Zero Min Red,RDR Min Med Green
+30/04/2019,Tuesday,Low RDR,High RDR,Med Max Red,Zero Min Green,DXP,Broken by ODR,D,Broken by ODR,DX,No,,RDR Med Max Red,RDR Zero Min Green
+01/05/2019,Wednesday,,,,,,,,,,,,,
+02/05/2019,Thursday,High RDR,Low RDR,Min Med Green,Med Max Red,DXP,Broken by ODR,UXP,Broken by RDR,RX,No,Yes,RDR Min Med Green,RDR Med Max Red
+03/05/2019,Friday,,,,,,,,,,,,,
+06/05/2019,Monday,Low ODR,High RDR,Min Med Red,Max+ Green,DXP,Broken by ADR,DX,Broken by RDR,UXP,No,,ODR Min Med Red,RDR Max+ Green
+07/05/2019,Tuesday,High ODR,Low RDR,Min Med Green,Max+ Red,U,Broken by ODR,UXP,Intact,DXP,Yes,,ODR Min Med Green,RDR Max+ Red
+08/05/2019,Wednesday,High ODR,Low ODR,Min Med Green,Med Max Red,DXP,Broken by ODR,UXP,Broken by RDR,DXP,Yes,,ODR Min Med Green,ODR Med Max Red
+09/05/2019,Thursday,,,,,,,,,,,,,
+10/05/2019,Friday,,,,,,,,,,,,,
+13/05/2019,Monday,High ODR,Low RDR,Zero Min Green,Med Max Red,RC,Intact,DXP,Intact,DXP,No,,ODR Zero Min Green,RDR Med Max Red
+14/05/2019,Tuesday,Low ODR,High RDR,Zero Min Green,Max+ Green,DXP,Intact,UXP,Broken by ODR,UX,No,,ODR Zero Min Green,RDR Max+ Green
+15/05/2019,Wednesday,,,,,,,,,,,,,
+16/05/2019,Thursday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ODR,DX,Intact,UXP,Yes,,ODR Zero Min Red,RDR Max+ Green
+17/05/2019,Friday,Low RDR,High RDR,Min Med Red,Med Max Green,RC,Broken by RDR,DXP,Broken by RDR,DX,No,,RDR Min Med Red,RDR Med Max Green
+20/05/2019,Monday,High ODR,Low RDR,Min Med Green,Med Max Red,UX,Intact,DXP,Intact,DXP,No,,ODR Min Med Green,RDR Med Max Red
+21/05/2019,Tuesday,,,,,,,,,,,,,
+22/05/2019,Wednesday,,,,,,,,,,,,,
+23/05/2019,Thursday,High ODR,Low RDR,Zero Min Red,Med Max Red,DXP,Intact,DXP,Intact,DXP,No,,ODR Zero Min Red,RDR Med Max Red
+24/05/2019,Friday,High RDR,Low RDR,Min Med Green,Med Max Red,U,Broken by RDR,UXP,Broken by ODR,U,No,,RDR Min Med Green,RDR Med Max Red
+27/05/2019,Monday,High ODR,Low RDR,Zero Min Green,Min Med Red,DX,Broken by ADR,UXP,Intact,DXP,No,,ODR Zero Min Green,RDR Min Med Red
+28/05/2019,Tuesday,High RDR,Low RDR,Med Max Green,Med Max Red,UXP,Broken by ADR,D,Broken by ODR,U,No,,RDR Med Max Green,RDR Med Max Red
+29/05/2019,Wednesday,High RDR,Low RDR,Zero Min Green,Med Max Red,DXP,Intact,DXP,Broken by ODR,RX,No,,RDR Zero Min Green,RDR Med Max Red
+30/05/2019,Thursday,High RDR,Low RDR,Min Med Green,Min Med Red,RC,Broken by RDR,UXP,Broken by ODR,UXP,No,,RDR Min Med Green,RDR Min Med Red
+31/05/2019,Friday,High RDR,Low RDR,Zero Min Green,Min Med Red,DXP,Intact,DXP,Broken by ODR,DXP,No,,RDR Zero Min Green,RDR Min Med Red
+03/06/2019,Monday,High RDR,Low RDR,Med Max Green,Min Med Red,DXP,Broken by ODR,RX,Broken by RDR,UXP,No,,RDR Med Max Green,RDR Min Med Red
+04/06/2019,Tuesday,Low ODR,High RDR,Zero Min Red,Max+ Green,RC,Broken by ADR,U,Intact,UXP,No,,ODR Zero Min Red,RDR Max+ Green
+05/06/2019,Wednesday,Low RDR,High RDR,Min Med Red,Min Med Green,UXP,Broken by ODR,RX,Broken by ODR,U,No,,RDR Min Med Red,RDR Min Med Green
+06/06/2019,Thursday,Low RDR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ADR,UX,Broken by ODR,D,No,,RDR Zero Min Red,RDR Med Max Green
+07/06/2019,Friday,,,,,,,,,,,,,
+10/06/2019,Monday,Low ODR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,D,Intact,UXP,No,,ODR Zero Min Red,RDR Min Med Green
+11/06/2019,Tuesday,High RDR,Low RDR,Min Med Green,Med Max Red,DXP,Broken by RDR,UXP,Broken by ODR,UXP,No,,RDR Min Med Green,RDR Med Max Red
+12/06/2019,Wednesday,,,,,,,,,,,,,
+13/06/2019,Thursday,Low ODR,High RDR,Med Max Red,Zero Min Green,UX,Broken by ADR,RX,Broken by RDR,UX,No,,ODR Med Max Red,RDR Zero Min Green
+14/06/2019,Friday,Low RDR,High RDR,Min Med Red,Med Max Green,RC,Broken by ADR,D,Broken by ODR,DXP,No,,RDR Min Med Red,RDR Med Max Green
+17/06/2019,Monday,High RDR,Low RDR,Min Med Green,Zero Min Red,UXP,Broken by ODR,D,Broken by ODR,RX,No,,RDR Min Med Green,RDR Zero Min Red
+18/06/2019,Tuesday,Low ODR,High RDR,Zero Min Red,Max+ Green,RC,Broken by ODR,DXP,Intact,UXP,Yes,,ODR Zero Min Red,RDR Max+ Green
+19/06/2019,Wednesday,,,,,,,,,,,,,
+20/06/2019,Thursday,High TRN,Low RDR,Min Med Green,Med Max Red,UXP,Broken by RDR,UXP,Broken by RDR,UXP,No,,TRN Min Med Green,RDR Med Max Red
+21/06/2019,Friday,,,,,,,,,,,,,
+24/06/2019,Monday,High ODR,Low RDR,Zero Min Green,Min Med Red,U,Broken by ODR,UXP,Broken by RDR,D,Yes,,ODR Zero Min Green,RDR Min Med Red
+25/06/2019,Tuesday,,,,,,,,,,,,,
+26/06/2019,Wednesday,High ODR,Low RDR,Min Med Green,Med Max Red,DXP,Broken by RDR,UX,Broken by RDR,UX,,,ODR Min Med Green,RDR Med Max Red
+27/06/2019,Thursday,High ODR,Low ODR,Med Max Green,Zero Min Red,DXP,Broken by ODR,UXP,Broken by RDR,DX,Yes,,ODR Med Max Green,ODR Zero Min Red
+28/06/2019,Friday,Low RDR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,RC,Broken by RDR,RX,,,RDR Zero Min Red,RDR Min Med Green
+01/07/2019,Monday,High RDR,Low RDR,Min Med Green,Min Med Red,UXP,Broken by RDR,UXP,Broken by ODR,RX,,,RDR Min Med Green,RDR Min Med Red
+02/07/2019,Tuesday,Low RDR,High RDR,Zero Min Green,Med Max Green,DXP,Broken by ODR,U,Broken by ODR,RX,,,RDR Zero Min Green,RDR Med Max Green
+03/07/2019,Wednesday,Low ODR,High RDR,Min Med Red,Med Max Green,UXP,Broken by ADR,UX,Intact,UX,,,ODR Min Med Red,RDR Med Max Green
+04/07/2019,Thursday,Low ODR,High RDR,Zero Min Red,Zero Min Green,UXP,Broken by ODR,D,Intact,UXP,,,ODR Zero Min Red,RDR Zero Min Green
+05/07/2019,Friday,,,,,,,,,,,,,
+08/07/2019,Monday,High ODR,Low RDR,Zero Min Green,Min Med Red,UXP,Intact,DXP,Intact,DXP,,,ODR Zero Min Green,RDR Min Med Red
+09/07/2019,Tuesday,,,,,,,,,,,,,
+10/07/2019,Wednesday,,,,,,,,,,,,,
+11/07/2019,Thursday,,,,,,,,,,,,,
+12/07/2019,Friday,,,,,,,,,,,,,
+15/07/2019,Monday,,,,,,,,,,,,,
+16/07/2019,Tuesday,,,,,,,,,,,,,
+17/07/2019,Wednesday,,,,,,,,,,,,,
+18/07/2019,Thursday,Low RDR,High RDR,Zero Min Red,Med Max Green,DXP,Broken by ODR,DX,Broken by RDR,UXP,,,RDR Zero Min Red,RDR Med Max Green
+19/07/2019,Friday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ODR,UXP,Broken by ODR,D,Yes,,ODR Zero Min Green,RDR Med Max Red
+22/07/2019,Monday,Low RDR,High RDR,Zero Min Red,Zero Min Green,DXP,Broken by RDR,UX,Broken by RDR,UX,,,RDR Zero Min Red,RDR Zero Min Green
+23/07/2019,Tuesday,Low RDR,High RDR,Zero Min Red,Min Med Green,UX,Broken by ADR,UX,Broken by RDR,U,,,RDR Zero Min Red,RDR Min Med Green
+24/07/2019,Wednesday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ODR,D,Broken by ODR,U,,,ODR Zero Min Red,RDR Max+ Green
+25/07/2019,Thursday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ODR,UX,Broken by ODR,DXP,,,ODR Zero Min Green,RDR Med Max Red
+26/07/2019,Friday,Low ODR,High RDR,Min Med Red,Min Med Green,RC,Intact,UXP,Broken by ODR,UXP,,,ODR Min Med Red,RDR Min Med Green
+29/07/2019,Monday,High ODR,Low RDR,Zero Min Green,Min Med Red,UXP,Broken by ODR,RX,Broken by RDR,D,,,ODR Zero Min Green,RDR Min Med Red
+30/07/2019,Tuesday,High ODR,Low RDR,Min Med Green,Min Med Red,UXP,Intact,DXP,Intact,DXP,,,ODR Min Med Green,RDR Min Med Red
+31/07/2019,Wednesday,,,,,,,,,,,,,
+01/08/2019,Thursday,High RDR,Low RDR,Med Max Green,Max+ Red,DXP,Broken by ADR,UXP,Broken by ODR,UXP,,,RDR Med Max Green,RDR Max+ Red
+02/08/2019,Friday,,,,,,,,,,,,,
+05/08/2019,Monday,High ODR,Low RDR,Min Med Red,Max+ Red,RC,Intact,DXP,Intact,DXP,,,ODR Min Med Red,RDR Max+ Red
+06/08/2019,Tuesday,Low ODR,High RDR,Max+ Red,Max+ Green,DXP,Intact,UXP,Intact,UXP,,,ODR Max+ Red,RDR Max+ Green
+07/08/2019,Wednesday,Low RDR,High RDR,Med Max Red,Med Max Green,RC,Broken by ADR,UX,Broken by RDR,DXP,,,RDR Med Max Red,RDR Med Max Green
+08/08/2019,Thursday,Low ODR,High RDR,Zero Min Green,Max+ Green,UXP,Intact,UXP,Broken by ODR,UXP,,,ODR Zero Min Green,RDR Max+ Green
+09/08/2019,Friday,High RDR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by ADR,RC,Broken by ODR,RX,,,RDR Min Med Green,RDR Med Max Red
+12/08/2019,Monday,High ODR,Low ODR,Min Med Green,Max+ Red,RC,Broken by ODR,UXP,Intact,DXP,Yes,,ODR Min Med Green,ODR Max+ Red
+13/08/2019,Tuesday,,,,,,,,,,,,,
+14/08/2019,Wednesday,,,,,,,,,,,,,
+15/08/2019,Thursday,Low ODR,High ODR,Med Max Red,Med Max Green,DXP,Broken by ODR,UXP,Broken by ODR,DX,Yes,,ODR Med Max Red,ODR Med Max Green
+16/08/2019,Friday,Low ODR,High RDR,Zero Min Red,Med Max Green,UX,Intact,UXP,Broken by ODR,UXP,No,,ODR Zero Min Red,RDR Med Max Green
+19/08/2019,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Intact,UXP,Broken by RDR,U,No,,ODR Zero Min Red,RDR Med Max Green
+20/08/2019,Tuesday,High ODR,Low RDR,Min Med Green,Med Max Red,RC,Broken by ODR,UXP,Broken by ODR,DXP,No,Yes,ODR Min Med Green,RDR Med Max Red
+21/08/2019,Wednesday,,,,,,,,,,,,,
+22/08/2019,Thursday,High RDR,Low RDR,Med Max Green,Med Max Red,UXP,Broken by ODR,D,Broken by RDR,RX,No,,RDR Med Max Green,RDR Med Max Red
+23/08/2019,Friday,,,,,,,,,,,,,
+26/08/2019,Monday,High ODR,Low RDR,Max+ Green,Min Med Green,DXP,Intact,UXP,Broken by ODR,RX,No,,ODR Max+ Green,RDR Min Med Green
+27/08/2019,Tuesday,High RDR,Low RDR,Med Max Green,Med Max Red,UXP,Broken by ADR,DXP,Broken by RDR,UXP,No,,RDR Med Max Green,RDR Med Max Red
+28/08/2019,Wednesday,Low RDR,High RDR,Min Med Red,Med Max Green,DXP,Broken by ADR,DXP,Broken by RDR,DXP,No,,RDR Min Med Red,RDR Med Max Green
+29/08/2019,Thursday,Low ODR,High RDR,Max+ Red,Max+ Green,UXP,Broken by ADR,RX,Intact,UXP,No,,ODR Max+ Red,RDR Max+ Green
+30/08/2019,Friday,High ODR,Low RDR,Med Max Green,Med Max Red,UX,Broken by ADR,UX,Broken by RDR,UX,No,,ODR Med Max Green,RDR Med Max Red
+02/09/2019,Monday,High ODR,Low RDR,Min Med Green,Max+ Red,DXP,Broken by RDR,UXP,Broken by ODR,D,No,,ODR Min Med Green,RDR Max+ Red
+03/09/2019,Tuesday,High RDR,Low RDR,Min Med Green,Med Max Red,DXP,Broken by ADR,DX,Broken by RDR,RX,No,,RDR Min Med Green,RDR Med Max Red
+04/09/2019,Wednesday,Low RDR,High RDR,Min Med Green,Max+ Green,RC,Intact,UXP,Broken by ODR,DX,No,,RDR Min Med Green,RDR Max+ Green
+05/09/2019,Thursday,Low ODR,High RDR,Zero Min Green,Max+ Green,UXP,Intact,UXP,Intact,UXP,No,,ODR Zero Min Green,RDR Max+ Green
+06/09/2019,Friday,,,,,,,,,,,,,
+09/09/2019,Monday,High ODR,Low RDR,Zero Min Red,Max+ Red,UX,Broken by RDR,UXP,Broken by RDR,DXP,No,,ODR Zero Min Red,RDR Max+ Red
+10/09/2019,Tuesday,Low RDR,High RDR,Min Med Red,Min Med Green,D,Intact,DX,Broken by ODR,DXP,No,,RDR Min Med Red,RDR Min Med Green
+11/09/2019,Wednesday,Low RDR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ODR,UXP,Broken by ODR,RX,No,,RDR Zero Min Red,RDR Med Max Green
+12/09/2019,Thursday,,,,,,,,,,,,,
+13/09/2019,Friday,High ODR,Low RDR,Zero Min Red,Med Max Red,RC,Broken by RDR,UXP,Broken by ODR,DXP,No,,ODR Zero Min Red,RDR Med Max Red
+16/09/2019,Monday,Low ODR,High RDR,Zero Min Red,Min Med Green,DXP,Intact,UX,Broken by RDR,UXP,No,,ODR Zero Min Red,RDR Min Med Green
+17/09/2019,Tuesday,Low TRN,High RDR,Zero Min Red,Zero Min Green,U,Broken by RDR,DXP,Broken by ODR,RC,No,,TRN Zero Min Red,RDR Zero Min Green
+18/09/2019,Wednesday,,,,,,,,,,,,,
+19/09/2019,Thursday,Low ODR,High RDR,Min Med Red,Med Max Green,UXP,Broken by ODR,DXP,Intact,UXP,Yes,,ODR Min Med Red,RDR Med Max Green
+20/09/2019,Friday,High RDR,Low RDR,Zero Min Green,Max+ Red,DXP,Broken by ADR,UX,Broken by ODR,UXP,,,RDR Zero Min Green,RDR Max+ Red
+23/09/2019,Monday,High ODR,Low ODR,Zero Min Green,Min Med Red,DXP,Broken by ADR,D,Broken by RDR,DX,,,ODR Zero Min Green,ODR Min Med Red
+24/09/2019,Tuesday,High ODR,Low RDR,Zero Min Green,Max+ Red,UXP,Broken by ODR,DXP,Broken by ODR,RX,Yes,,ODR Zero Min Green,RDR Max+ Red
+25/09/2019,Wednesday,Low RDR,High RDR,Min Med Red,Max+ Green,DXP,Broken by ADR,DXP,Broken by ODR,RX,,,RDR Min Med Red,RDR Max+ Green
+26/09/2019,Thursday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ADR,RX,Broken by ODR,DXP,,,ODR Zero Min Green,RDR Med Max Red
+27/09/2019,Friday,High ODR,Low RDR,Zero Min Green,Max+ Red,U,Broken by RDR,UXP,Broken by RDR,D,,,ODR Zero Min Green,RDR Max+ Red
+30/09/2019,Monday,Low TRN,High RDR,Min Med Red,Med Max Green,DXP,Broken by ODR,UXP,Broken by RDR,RX,Yes,,TRN Min Med Red,RDR Med Max Green
+01/10/2019,Tuesday,High ODR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by ODR,UXP,Broken by RDR,RX,Yes,,ODR Min Med Green,RDR Max+ Red
+02/10/2019,Wednesday,High ODR,Low RDR,Zero Min Green,Max+ Red,DXP,Intact,DXP,Intact,DXP,,,ODR Zero Min Green,RDR Max+ Red
+03/10/2019,Thursday,Low RDR,High RDR,Max+ Red,Med Max Green,DXP,Broken by ADR,UXP,Broken by RDR,DX,,,RDR Max+ Red,RDR Med Max Green
+04/10/2019,Friday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ADR,D,Broken by ODR,UXP,,,ODR Zero Min Red,RDR Max+ Green
+07/10/2019,Monday,,,,,,,,,,,,,
+08/10/2019,Tuesday,,,,,,,,,,,,,
+09/10/2019,Wednesday,,,,,,,,,,,,,
+10/10/2019,Thursday,,,,,,,,,,,,,
+11/10/2019,Friday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Intact,UXP,Intact,UXP,,,ODR Zero Min Red,RDR Max+ Green
+14/10/2019,Monday,High ODR,Low ODR,Zero Min Green,Min Med Red,RC,Intact,DXP,Broken by RDR,D,,,ODR Zero Min Green,ODR Min Med Red
+15/10/2019,Tuesday,,,,,,,,,,,,,
+16/10/2019,Wednesday,,,,,,,,,,,,,
+17/10/2019,Thursday,Low ODR,High RDR,Zero Min Red,Min Med Green,RC,Broken by ODR,U,Intact,UXP,,,ODR Zero Min Red,RDR Min Med Green
+18/10/2019,Friday,High ODR,Low RDR,Zero Min Green,Med Max Red,DXP,Broken by ODR,DXP,Broken by ODR,U,Yes,,ODR Zero Min Green,RDR Med Max Red
+21/10/2019,Monday,Low ODR,High RDR,Zero Min Red,Min Med Green,DX,Broken by ODR,U,Intact,UXP,,,ODR Zero Min Red,RDR Min Med Green
+22/10/2019,Tuesday,High RDR,Low RDR,Zero Min Green,Min Med Red,UXP,Broken by ADR,D,Broken by RDR,DXP,,,RDR Zero Min Green,RDR Min Med Red
+23/10/2019,Wednesday,Low ODR,High RDR,Zero Min Red,Med Max Green,DXP,Broken by ODR,UX,Broken by RDR,UXP,Yes,,ODR Zero Min Red,RDR Med Max Green
+24/10/2019,Thursday,High RDR,Low RDR,Zero Min Green,Min Med Red,UXP,Broken by ADR,UX,Broken by RDR,D,,,RDR Zero Min Green,RDR Min Med Red
+25/10/2019,Friday,Low TRN,High RDR,Zero Min Red,Med Max Green,DX,Broken by ODR,UXP,Broken by RDR,U,,,TRN Zero Min Red,RDR Med Max Green
+28/10/2019,Monday,Low ODR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ADR,U,Intact,UXP,,,ODR Zero Min Red,RDR Min Med Green
+29/10/2019,Tuesday,Low ODR,High RDR,Zero Min Red,Med Max Green,RC,Broken by ADR,DX,Broken by RDR,RX,,,ODR Zero Min Red,RDR Med Max Green
+30/10/2019,Wednesday,,,,,,,,,,,,,
+31/10/2019,Thursday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ODR,D,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+01/11/2019,Friday,,,,,,,,,,,,,
+04/11/2019,Monday,Low ODR,High TRN,Min Med Red,Zero Min Red,UXP,Intact,UXP,Broken by RDR,UXP,,,ODR Min Med Red,TRN Zero Min Red
+05/11/2019,Tuesday,High ODR,Low RDR,Zero Min Red,Med Max Red,U,Broken by ADR,UX,Broken by ODR,DXP,,,ODR Zero Min Red,RDR Med Max Red
+06/11/2019,Wednesday,High TRN,Low RDR,Zero Min Green,Min Med Red,DXP,Broken by ADR,UXP,Broken by ODR,D,,,TRN Zero Min Green,RDR Min Med Red
+07/11/2019,Thursday,High RDR,Low RDR,Min Med Green,Zero Min Red,UX,Broken by ADR,UXP,Broken by ODR,UX,,,RDR Min Med Green,RDR Zero Min Red
+08/11/2019,Friday,Low RDR,High RDR,Med Max Red,Min Med Green,DXP,Broken by ODR,RC,Broken by ODR,D,,,RDR Med Max Red,RDR Min Med Green
+11/11/2019,Monday,Low RDR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by RDR,DXP,Broken by RDR,D,,,RDR Zero Min Red,RDR Min Med Green
+12/11/2019,Tuesday,High RDR,Low RDR,Min Med Green,Zero Min Red,UXP,Broken by RDR,UXP,Broken by ODR,UX,,,RDR Min Med Green,RDR Zero Min Red
+13/11/2019,Wednesday,,,,,,,,,,,,,
+14/11/2019,Thursday,,,,,,,,,,,,,
+15/11/2019,Friday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ODR,RC,Broken by ODR,U,,,ODR Zero Min Red,RDR Med Max Green
+18/11/2019,Monday,High ODR,Low RDR,Min Med Green,Min Med Red,UXP,Broken by ODR,UXP,Intact,DXP,,Yes,ODR Min Med Green,RDR Min Med Red
+19/11/2019,Tuesday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by RDR,UXP,Broken by RDR,DXP,,,ODR Zero Min Green,RDR Med Max Red
+20/11/2019,Wednesday,,,,,,,,,,,,,
+21/11/2019,Thursday,High ODR,Low RDR,Min Med Green,Min Med Red,DXP,Broken by RDR,UX,Broken by RDR,RX,,,ODR Min Med Green,RDR Min Med Red
+22/11/2019,Friday,High ODR,Low RDR,Zero Min Green,Min Med Red,UX,Broken by ODR,UXP,Broken by ODR,DX,Yes,,ODR Zero Min Green,RDR Min Med Red
+25/11/2019,Monday,Low ODR,High RDR,Zero Min Green,Max+ Green,UXP,Broken by ADR,DX,Broken by ODR,UXP,,,ODR Zero Min Green,RDR Max+ Green
+26/11/2019,Tuesday,,,,,,,,,,,,,
+27/11/2019,Wednesday,Low RDR,High RDR,Min Med Red,Zero Min Red,UXP,Broken by RDR,UXP,Broken by ODR,DXP,,,RDR Min Med Red,RDR Zero Min Red
+28/11/2019,Thursday,Low ODR,High RDR,Zero Min Red,Zero Min Green,D,Broken by ODR,U,Intact,UXP,,,ODR Zero Min Red,RDR Zero Min Green
+29/11/2019,Friday,High RDR,Low RDR,Zero Min Green,Zero Min Red,U,Broken by ODR,DXP,Broken by RDR,UXP,,Yes,RDR Zero Min Green,RDR Zero Min Red
+02/12/2019,Monday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ADR,UX,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+03/12/2019,Tuesday,High ODR,Low RDR,Zero Min Green,Max+ Red,DXP,Broken by ADR,UX,Intact,DXP,,,ODR Zero Min Green,RDR Max+ Red
+04/12/2019,Wednesday,Low ODR,High RDR,Min Med Red,Med Max Green,UXP,Broken by ADR,DX,Intact,UXP,,,ODR Min Med Red,RDR Med Max Green
+05/12/2019,Thursday,High ODR,Low RDR,Zero Min Green,Med Max Red,RC,Broken by RDR,UXP,Broken by RDR,DX,,,ODR Zero Min Green,RDR Med Max Red
+06/12/2019,Friday,,,,,,,,,,,,,
+09/12/2019,Monday,High ODR,Low RDR,Zero Min Green,Min Med Red,RC,Broken by ODR,UXP,Broken by RDR,RX,Yes,,ODR Zero Min Green,RDR Min Med Red
+10/12/2019,Tuesday,Low ODR,High RDR,Min Med Red,Med Max Green,DXP,Broken by ODR,D,Broken by ODR,U,No,,ODR Min Med Red,RDR Med Max Green
+11/12/2019,Wednesday,,,,,,,,,,,,,
+12/12/2019,Thursday,Low TRN,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ODR,UX,Broken by RDR,RX,Yes,,TRN Zero Min Red,RDR Max+ Green
+13/12/2019,Friday,High ODR,Low ODR,Zero Min Green,Med Max Red,UXP,Broken by ADR,RC,Broken by RDR,D,,,ODR Zero Min Green,ODR Med Max Red
+16/12/2019,Monday,Low ODR,High RDR,Min Med Red,Min Med Green,RC,Intact,UXP,Intact,UXP,,,ODR Min Med Red,RDR Min Med Green
+17/12/2019,Tuesday,Low ODR,High RDR,Zero Min Red,Zero Min Green,RC,Broken by ODR,UXP,Broken by RDR,U,Yes,,ODR Zero Min Red,RDR Zero Min Green
+18/12/2019,Wednesday,,,,,,,,,,,,,
+19/12/2019,Thursday,Low TRN,High RDR,Zero Min Red,Min Med Green,RC,Broken by ODR,DX,Broken by RDR,UX,,,TRN Zero Min Red,RDR Min Med Green
+20/12/2019,Friday,Low ODR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,D,Intact,UXP,,,ODR Zero Min Red,RDR Min Med Green
+23/12/2019,Monday,High ODR,Low RDR,Zero Min Green,Min Med Red,UXP,Broken by ODR,RC,Broken by ODR,RX,,,ODR Zero Min Green,RDR Min Med Red
+24/12/2019,Tuesday,High ODR,Low RDR,Zero Min Red,Min Med Red,RC,Broken by RDR,UX,Broken by RDR,DXP,,,ODR Zero Min Red,RDR Min Med Red
+25/12/2019,Wednesday,,,,,,,,,,,,,
+26/12/2019,Thursday,Low RDR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ADR,D,Broken by ODR,UXP,,,RDR Zero Min Red,RDR Min Med Green
+27/12/2019,Friday,High ODR,Low RDR,Zero Min Red,Med Max Red,UXP,Broken by RDR,UXP,Broken by ODR,DXP,,,ODR Zero Min Red,RDR Med Max Red
+30/12/2019,Monday,High ODR,Low RDR,Zero Min Red,Med Max Red,RC,Broken by ADR,UXP,Broken by ODR,DXP,,,ODR Zero Min Red,RDR Med Max Red
+31/12/2019,Tuesday,High ODR,Low RDR,Zero Min Green,Min Med Red,RC,Broken by ADR,DX,Broken by RDR,D,,,ODR Zero Min Green,RDR Min Med Red
+01/01/2021,Friday,,,,,,,,,,,,,
+04/01/2021,Monday,High ODR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by RDR,UXP,Broken by ODR,DXP,,,ODR Min Med Green,RDR Max+ Red
+05/01/2021,Tuesday,Low TRN,High RDR,Max+ Red,Max+ Green,DXP,Broken by ADR,D,Broken by ODR,UX,,,TRN Max+ Red,RDR Max+ Green
+06/01/2021,Wednesday,,,,,,,,,,,,,
+07/01/2021,Thursday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ODR,UX,Broken by ODR,UXP,Yes,,ODR Zero Min Red,RDR Max+ Green
+08/01/2021,Friday,,,,,,,,,,,,,
+11/01/2021,Monday,Low TRN,High RDR,Min Med Red,Med Max Green,RC,Broken by RDR,DXP,Broken by RDR,D,,,TRN Min Med Red,RDR Med Max Green
+12/01/2021,Tuesday,High ODR,Low ODR,Zero Min Green,Max+ Red,U,Broken by ADR,RC,Broken by ODR,D,,,ODR Zero Min Green,ODR Max+ Red
+13/01/2021,Wednesday,,,,,,,,,,,,,
+14/01/2021,Thursday,,,,,,,,,,,,,
+15/01/2021,Friday,High RDR,Low RDR,Min Med Green,Med Max Red,DXP,Intact,DXP,Broken by RDR,DX,,,RDR Min Med Green,RDR Med Max Red
+18/01/2021,Monday,Low ODR,High RDR,Zero Min Red,Min Med Green,RC,Broken by ADR,RC,Intact,UXP,,,ODR Zero Min Red,RDR Min Med Green
+19/01/2021,Tuesday,Low RDR,High RDR,Med Max Red,Min Med Green,UXP,Broken by RDR,UXP,Broken by ODR,DX,,,RDR Med Max Red,RDR Min Med Green
+20/01/2021,Wednesday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ODR,UX,Intact,UXP,,,ODR Zero Min Red,RDR Max+ Green
+21/01/2021,Thursday,,,,,,,,,,,,,
+22/01/2021,Friday,Low ODR,High RDR,Min Med Red,Med Max Green,D,Broken by RDR,DXP,Broken by ODR,UX,,,ODR Min Med Red,RDR Med Max Green
+25/01/2021,Monday,High ODR,Low RDR,Zero Min Green,Max+ Red,UXP,Broken by ODR,U,Broken by RDR,RX,,,ODR Zero Min Green,RDR Max+ Red
+26/01/2021,Tuesday,Low ODR,High RDR,Min Med Red,Med Max Green,DX,Broken by ODR,DX,Intact,UXP,,,ODR Min Med Red,RDR Med Max Green
+27/01/2021,Wednesday,,,,,,,,,,,,,
+28/01/2021,Thursday,Low ODR,High RDR,Med Max Red,Max+ Green,DXP,Broken by ADR,D,Intact,UXP,,,ODR Med Max Red,RDR Max+ Green
+29/01/2021,Friday,High TRN,Low RDR,Min Med Green,Max+ Red,DX,Broken by ODR,DXP,Broken by RDR,UX,,Yes,TRN Min Med Green,RDR Max+ Red
+01/02/2021,Monday,Low RDR,High RDR,Min Med Green,Max+ Green,DXP,Intact,UXP,Broken by RDR,RX,,,RDR Min Med Green,RDR Max+ Green
+02/02/2021,Tuesday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Intact,UXP,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+03/02/2021,Wednesday,High ODR,Low RDR,Min Med Green,Min Med Red,UXP,Broken by ADR,U,Broken by RDR,DXP,,,ODR Min Med Green,RDR Min Med Red
+04/02/2021,Thursday,Low ODR,High RDR,Zero Min Red,Max+ Green,RC,Broken by ODR,RX,Intact,UXP,,,ODR Zero Min Red,RDR Max+ Green
+05/02/2021,Friday,,,,,,,,,,,,,
+08/02/2021,Monday,Low ODR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,DXP,Broken by RDR,UXP,,,ODR Zero Min Red,RDR Min Med Green
+09/02/2021,Tuesday,Low RDR,High RDR,Min Med Red,Zero Min Green,UXP,Broken by ADR,RC,Broken by RDR,DX,,,RDR Min Med Red,RDR Zero Min Green
+10/02/2021,Wednesday,,,,,,,,,,,,,
+11/02/2021,Thursday,High RDR,Low RDR,Min Med Green,Med Max Red,RC,Broken by RDR,UXP,Broken by RDR,U,,,RDR Min Med Green,RDR Med Max Red
+12/02/2021,Friday,Low ODR,High RDR,Min Med Red,Med Max Green,DX,Broken by RDR,DXP,Intact,UX,,,ODR Min Med Red,RDR Med Max Green
+15/02/2021,Monday,Low ODR,High RDR,Zero Min Red,Zero Min Green,UXP,Broken by ODR,U,Intact,UX,,,ODR Zero Min Red,RDR Zero Min Green
+16/02/2021,Tuesday,High ODR,Low ODR,Zero Min Green,Max+ Red,UXP,Broken by ADR,DX,Intact,DXP,,,ODR Zero Min Green,ODR Max+ Red
+17/02/2021,Wednesday,,,,,,,,,,,,,
+18/02/2021,Thursday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Intact,DXP,Broken by RDR,DXP,,,ODR Zero Min Green,RDR Med Max Red
+19/02/2021,Friday,High TRN,Low RDR,Min Med Green,Min Med Red,UX,Broken by ADR,U,Broken by RDR,UXP,,,TRN Min Med Green,RDR Min Med Red
+22/02/2021,Monday,Low ODR,High RDR,Med Max Red,Zero Min Green,DXP,Intact,DXP,Broken by ODR,UX,,,ODR Med Max Red,RDR Zero Min Green
+23/02/2021,Tuesday,,,,,,,,,,,,,
+24/02/2021,Wednesday,,,,,,,,,,,,,
+25/02/2021,Thursday,High ODR,Low RDR,Zero Min Green,Max+ Red,UXP,Intact,DX,Intact,DX,,,ODR Zero Min Green,RDR Max+ Red
+26/02/2021,Friday,Low RDR,High RDR,Med Max Red,Max+ Green,DXP,Broken by ADR,U,Broken by ODR,D,,,RDR Med Max Red,RDR Max+ Green
+01/03/2021,Monday,Low ODR,High RDR,Zero Min Red,Max+ Green,RC,Broken by ADR,UXP,Broken by ODR,UXP,,,ODR Zero Min Red,RDR Max+ Green
+02/03/2021,Tuesday,Low ODR,High RDR,Med Max Red,Zero Min Green,UXP,Broken by RDR,DXP,Broken by RDR,U,,,ODR Med Max Red,RDR Zero Min Green
+03/03/2021,Wednesday,High ODR,Low RDR,Min Med Green,Max+ Red,DX,Broken by ODR,UXP,Intact,DXP,Yes,,ODR Min Med Green,RDR Max+ Red
+04/03/2021,Thursday,High RDR,Low RDR,Max+ Green,Max+ Red,DXP,Broken by ADR,UX,Broken by ODR,RX,,,RDR Max+ Green,RDR Max+ Red
+05/03/2021,Friday,,,,,,,,,,,,,
+08/03/2021,Monday,Low ODR,High RDR,Med Max Red,Med Max Green,UXP,Broken by ODR,DXP,Intact,UXP,,Yes,ODR Med Max Red,RDR Med Max Green
+09/03/2021,Tuesday,Low ODR,High RDR,Zero Min Red,Med Max Green,DX,Broken by ADR,UXP,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+10/03/2021,Wednesday,,,,,,,,,,,,,
+11/03/2021,Thursday,Low TRN,High RDR,Zero Min Green,Med Max Green,RC,Intact,UXP,Broken by ODR,RX,,,TRN Zero Min Green,RDR Med Max Green
+12/03/2021,Friday,Low ODR,High RDR,Min Med Red,Min Med Green,UXP,Broken by RDR,DXP,Broken by ODR,UX,,,ODR Min Med Red,RDR Min Med Green
+15/03/2021,Monday,Low RDR,High RDR,Med Max Red,Med Max Green,UXP,Broken by ODR,DXP,Broken by ODR,U,Yes,,RDR Med Max Red,RDR Med Max Green
+16/03/2021,Tuesday,High RDR,Low RDR,Min Med Green,Min Med Red,UXP,Intact,UXP,Broken by ODR,UX,,,RDR Min Med Green,RDR Min Med Red
+17/03/2021,Wednesday,,,,,,,,,,,,,
+18/03/2021,Thursday,,,,,,,,,,,,,
+19/03/2021,Friday,High ODR,Low RDR,Zero Min Green,Max+ Red,DXP,Broken by ODR,UX,Broken by ODR,DXP,,,ODR Zero Min Green,RDR Max+ Red
+22/03/2021,Monday,,,,,,,,,,,,,
+23/03/2021,Tuesday,High RDR,Low RDR,Med Max Green,Med Max Red,UXP,Broken by RDR,DXP,Broken by ODR,UX,,,RDR Med Max Green,RDR Med Max Red
+24/03/2021,Wednesday,High RDR,Low RDR,Med Max Green,Med Max Red,DXP,Broken by ADR,RX,Broken by RDR,UXP,,,RDR Med Max Green,RDR Med Max Red
+25/03/2021,Thursday,Low RDR,High RDR,Med Max Red,Med Max Green,DXP,Broken by ADR,U,Broken by RDR,DXP,,,RDR Med Max Red,RDR Med Max Green
+26/03/2021,Friday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ODR,UXP,Broken by RDR,U,Yes,,ODR Zero Min Red,RDR Max+ Green
+29/03/2021,Monday,High RDR,Low RDR,Med Max Red,Min Med Green,UXP,Broken by ODR,D,Broken by ODR,RX,,,RDR Med Max Red,RDR Min Med Green
+30/03/2021,Tuesday,High ODR,Low RDR,Zero Min Green,Min Med Red,UXP,Broken by ADR,D,Intact,DXP,,,ODR Zero Min Green,RDR Min Med Red
+31/03/2021,Wednesday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ODR,DX,Intact,UXP,Yes,,ODR Zero Min Red,RDR Med Max Green
+01/04/2021,Thursday,Low ODR,High RDR,Min Med Red,Med Max Green,UXP,Broken by ADR,UXP,Intact,UXP,,,ODR Min Med Red,RDR Med Max Green
+02/04/2021,Friday,,,,,,,,,,,,,
+05/04/2021,Monday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ODR,DXP,Intact,UXP,Yes,,ODR Zero Min Red,RDR Max+ Green
+06/04/2021,Tuesday,Low ODR,High RDR,Min Med Red,Min Med Green,UXP,Broken by RDR,DXP,Intact,UX,,,ODR Min Med Red,RDR Min Med Green
+07/04/2021,Wednesday,,,,,,,,,,,,,
+08/04/2021,Thursday,,,,,,,,,,,,,
+09/04/2021,Friday,Low TRN,High RDR,Min Med Red,Med Max Green,UXP,Broken by RDR,DXP,Broken by ODR,RC,,,TRN Min Med Red,RDR Med Max Green
+12/04/2021,Monday,,,,,,,,,,,,,
+13/04/2021,Tuesday,,,,,,,,,,,,,
+14/04/2021,Wednesday,,,,,,,,,,,,,
+15/04/2021,Thursday,Low ODR,High RDR,Zero Min Red,Med Max Green,DXP,Intact,UXP,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+16/04/2021,Friday,Low ODR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,D,Intact,UXP,,,ODR Zero Min Red,RDR Min Med Green
+19/04/2021,Monday,High ODR,Low RDR,Zero Min Green,Med Max Red,DX,Broken by ODR,UXP,Broken by RDR,DX,Yes,,ODR Zero Min Green,RDR Med Max Red
+20/04/2021,Tuesday,,,,,,,,,,,,,
+21/04/2021,Wednesday,Low TRN,High RDR,Med Max Red,Med Max Green,DXP,Broken by ADR,UXP,Broken by RDR,RX,,,TRN Med Max Red,RDR Med Max Green
+22/04/2021,Thursday,High RDR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by RDR,UXP,Broken by ODR,DXP,,,RDR Min Med Green,RDR Med Max Red
+23/04/2021,Friday,Low TRN,High RDR,Zero Min Red,Max+ Green,DXP,Broken by ADR,UX,Broken by RDR,U,,,TRN Zero Min Red,RDR Max+ Green
+26/04/2021,Monday,Low ODR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,UXP,Broken by ODR,UXP,Yes,,ODR Zero Min Red,RDR Min Med Green
+27/04/2021,Tuesday,High ODR,Low RDR,Zero Min Green,Min Med Red,RC,Broken by ODR,UX,Broken by RDR,DXP,Yes,,ODR Zero Min Green,RDR Min Med Red
+28/04/2021,Wednesday,,,,,,,,,,,,,
+29/04/2021,Thursday,High RDR,Low RDR,Zero Min Green,Max+ Red,UX,Broken by RDR,UXP,Broken by RDR,RX,,,RDR Zero Min Green,RDR Max+ Red
+30/04/2021,Friday,High ODR,Low RDR,Zero Min Green,Min Med Red,RC,Intact,DX,Intact,DXP,,,ODR Zero Min Green,RDR Min Med Red
+03/05/2021,Monday,,,,,,,,,,,,,
+04/05/2021,Tuesday,High ODR,Low RDR,Zero Min Green,Med Max Red,DXP,Broken by ADR,RX,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+05/05/2021,Wednesday,Low RDR,High RDR,Med Max Red,Zero Min Green,RC,Broken by RDR,UXP,Broken by RDR,RX,,,RDR Med Max Red,RDR Zero Min Green
+06/05/2021,Thursday,Low RDR,High RDR,Med Max Red,Med Max Green,RC,Broken by ODR,UXP,Broken by RDR,DXP,Yes,,RDR Med Max Red,RDR Med Max Green
+07/05/2021,Friday,,,,,,,,,,,,,
+10/05/2021,Monday,High ODR,Low RDR,Zero Min Green,Max+ Red,UXP,Broken by ADR,DXP,Broken by RDR,D,,,ODR Zero Min Green,RDR Max+ Red
+11/05/2021,Tuesday,High ODR,Low RDR,Zero Min Green,Med Max Red,DXP,Intact,DXP,Intact,DX,,,ODR Zero Min Green,RDR Med Max Red
+12/05/2021,Wednesday,,,,,,,,,,,,,
+13/05/2021,Thursday,Low ODR,High RDR,Med Max Red,Max+ Green,DXP,Broken by ADR,DX,Intact,UXP,,,ODR Med Max Red,RDR Max+ Green
+14/05/2021,Friday,Low ODR,High RDR,Zero Min Red,Max+ Green,RC,Intact,UXP,Broken by ODR,UXP,,,ODR Zero Min Red,RDR Max+ Green
+17/05/2021,Monday,High ODR,Low RDR,Min Med Green,Min Med Red,UXP,Broken by ADR,D,Broken by RDR,D,,,ODR Min Med Green,RDR Min Med Red
+18/05/2021,Tuesday,High ODR,Low RDR,Min Med Green,Med Max Red,UX,Broken by ODR,UXP,Intact,DXP,Yes,,ODR Min Med Green,RDR Med Max Red
+19/05/2021,Wednesday,Low RDR,High RDR,Med Max Red,Min Med Green,DXP,Intact,DXP,Broken by RDR,DXP,,,RDR Med Max Red,RDR Min Med Green
+20/05/2021,Thursday,Low ODR,High RDR,Min Med Red,Max+ Green,UXP,Broken by ODR,RC,Broken by ODR,UXP,Yes,,ODR Min Med Red,RDR Max+ Green
+21/05/2021,Friday,High RDR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by ADR,UX,Broken by RDR,UXP,,,RDR Min Med Green,RDR Med Max Red
+24/05/2021,Monday,Low ODR,High RDR,Zero Min Red,Max+ Green,DXP,Intact,UXP,Intact,UXP,,,ODR Zero Min Red,RDR Max+ Green
+25/05/2021,Tuesday,High ODR,Low RDR,Zero Min Green,Min Med Red,UXP,Broken by RDR,UXP,Broken by ODR,DX,,,ODR Zero Min Green,RDR Min Med Red
+26/05/2021,Wednesday,High ODR,Low RDR,Zero Min Green,Max+ Red,DX,Broken by ADR,UX,Broken by ODR,DXP,,,ODR Zero Min Green,RDR Max+ Red
+27/05/2021,Thursday,Low ODR,High RDR,Zero Min Red,Min Med Green,RC,Broken by ODR,DXP,Intact,UXP,,,ODR Zero Min Red,RDR Min Med Green
+28/05/2021,Friday,High ODR,Low RDR,Zero Min Green,Zero Min Red,UXP,Broken by ODR,DXP,Broken by ODR,D,Yes,,ODR Zero Min Green,RDR Zero Min Red
+31/05/2021,Monday,High ODR,Low RDR,Zero Min Green,Min Med Red,RC,Broken by ODR,RC,Intact,DXP,,,ODR Zero Min Green,RDR Min Med Red
+01/06/2021,Tuesday,High RDR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by RDR,UXP,Broken by RDR,RX,,,RDR Min Med Green,RDR Med Max Red
+02/06/2021,Wednesday,Low ODR,High RDR,Zero Min Red,Min Med Green,DXP,Broken by ADR,RX,Broken by RDR,UX,,,ODR Zero Min Red,RDR Min Med Green
+03/06/2021,Thursday,High ODR,Low RDR,Zero Min Green,Min Med Red,RC,Broken by ADR,DXP,Broken by RDR,DXP,,,ODR Zero Min Green,RDR Min Med Red
+04/06/2021,Friday,,,,,,,,,,,,,
+07/06/2021,Monday,High TRN,Low RDR,Min Med Green,Zero Min Red,UXP,Broken by ODR,DXP,Broken by RDR,U,Yes,,TRN Min Med Green,RDR Zero Min Red
+08/06/2021,Tuesday,High ODR,Low ODR,Med Max Green,Zero Min Red,UX,Broken by ADR,DXP,Broken by RDR,RX,,,ODR Med Max Green,ODR Zero Min Red
+09/06/2021,Wednesday,High RDR,Low TRN,Zero Min Red,Med Max Red,RC,Broken by ADR,U,Broken by RDR,UX,,,RDR Zero Min Red,TRN Med Max Red
+10/06/2021,Thursday,,,,,,,,,,,,,
+11/06/2021,Friday,High ODR,Low RDR,Zero Min Green,Min Med Red,DX,Broken by ADR,RC,Broken by RDR,U,,,ODR Zero Min Green,RDR Min Med Red
+14/06/2021,Monday,High ODR,Low RDR,Zero Min Green,Min Med Red,UXP,Broken by ADR,UX,Broken by RDR,DXP,,,ODR Zero Min Green,RDR Min Med Red
+15/06/2021,Tuesday,,,,,,,,,,,,,
+16/06/2021,Wednesday,,,,,,,,,,,,,
+17/06/2021,Thursday,High RDR,Low RDR,Min Med Green,Min Med Red,DXP,Broken by ADR,UX,Broken by ODR,UXP,,,RDR Min Med Green,RDR Min Med Red
+18/06/2021,Friday,High ODR,Low RDR,Zero Min Green,Med Max Red,RC,Broken by ADR,D,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+21/06/2021,Monday,Low ODR,High RDR,Zero Min Red,Max+ Green,DXP,Broken by ADR,U,Intact,UX,,,ODR Zero Min Red,RDR Max+ Green
+22/06/2021,Tuesday,,,,,,,,,,,,,
+23/06/2021,Wednesday,High ODR,Low RDR,Zero Min Green,Zero Min Red,UXP,Broken by ODR,UX,Broken by RDR,D,,,ODR Zero Min Green,RDR Zero Min Red
+24/06/2021,Thursday,Low ODR,High RDR,Min Med Red,Zero Min Green,DX,Intact,UXP,Intact,UXP,,,ODR Min Med Red,RDR Zero Min Green
+25/06/2021,Friday,Low ODR,High RDR,Zero Min Red,Med Max Green,UX,Broken by ADR,DXP,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+28/06/2021,Monday,High TRN,Low RDR,Min Med Green,Zero Min Red,UXP,Broken by ADR,D,Broken by ODR,D,,,TRN Min Med Green,RDR Zero Min Red
+29/06/2021,Tuesday,Low ODR,High RDR,Med Max Red,Zero Min Green,UX,Broken by ADR,UXP,Broken by ODR,UXP,,,ODR Med Max Red,RDR Zero Min Green
+30/06/2021,Wednesday,Low ODR,High RDR,Min Med Red,Min Med Green,U,Broken by RDR,DX,Broken by RDR,DX,,,ODR Min Med Red,RDR Min Med Green
+01/07/2021,Thursday,Low ODR,High RDR,Min Med Red,Min Med Green,UXP,Broken by ODR,UXP,Broken by ODR,D,Yes,,ODR Min Med Red,RDR Min Med Green
+02/07/2021,Friday,,,,,,,,,,,,,
+05/07/2021,Monday,Low ODR,High RDR,Zero Min Red,Zero Min Green,UXP,Broken by ODR,DX,Intact,UXP,Yes,,ODR Zero Min Red,RDR Zero Min Green
+06/07/2021,Tuesday,High RDR,Low RDR,Zero Min Green,Med Max Red,UXP,Intact,DXP,Broken by ODR,DX,,,RDR Zero Min Green,RDR Med Max Red
+07/07/2021,Wednesday,,,,,,,,,,,,,
+08/07/2021,Thursday,High ODR,Low ODR,Zero Min Red,Med Max Red,UXP,Intact,DXP,Broken by RDR,DXP,,,ODR Zero Min Red,ODR Med Max Red
+09/07/2021,Friday,Low ODR,High RDR,Min Med Red,Med Max Green,UXP,Broken by ADR,UXP,Intact,UXP,,,ODR Min Med Red,RDR Med Max Green
+12/07/2021,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by RDR,DXP,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+13/07/2021,Tuesday,,,,,,,,,,,,,
+14/07/2021,Wednesday,,,,,,,,,,,,,
+15/07/2021,Thursday,,,,,,,,,,,,,
+16/07/2021,Friday,High TRN,Low RDR,Zero Min Green,Max+ Red,DXP,Broken by RDR,UXP,Broken by RDR,RX,,,TRN Zero Min Green,RDR Max+ Red
+19/07/2021,Monday,High ODR,Low RDR,Zero Min Green,Max+ Red,DXP,Broken by ADR,DX,Intact,DXP,,,ODR Zero Min Green,RDR Max+ Red
+20/07/2021,Tuesday,Low RDR,High RDR,Min Med Red,Max+ Green,RC,Broken by ADR,UXP,Broken by RDR,RX,,,RDR Min Med Red,RDR Max+ Green
+21/07/2021,Wednesday,Low ODR,High RDR,Min Med Red,Min Med Green,UXP,Broken by ODR,U,Broken by ODR,UX,,,ODR Min Med Red,RDR Min Med Green
+22/07/2021,Thursday,Low RDR,High RDR,Zero Min Red,Zero Min Green,UXP,Broken by ADR,U,Broken by RDR,DXP,,,RDR Zero Min Red,RDR Zero Min Green
+23/07/2021,Friday,Low ODR,High RDR,Min Med Red,Min Med Green,UXP,Intact,UXP,Broken by RDR,UX,,,ODR Min Med Red,RDR Min Med Green
+26/07/2021,Monday,Low ODR,High RDR,Min Med Red,Med Max Green,UXP,Broken by RDR,DXP,Intact,UXP,,,ODR Min Med Red,RDR Med Max Green
+27/07/2021,Tuesday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Intact,DXP,Intact,D,,,ODR Zero Min Green,RDR Med Max Red
+28/07/2021,Wednesday,,,,,,,,,,,,,
+29/07/2021,Thursday,Low ODR,High RDR,Min Med Red,Min Med Green,RC,Intact,UXP,Intact,UXP,,,ODR Min Med Red,RDR Min Med Green
+30/07/2021,Friday,Low ODR,High RDR,Min Med Red,Min Med Green,DXP,Broken by ODR,DXP,Intact,UXP,Yes,,ODR Min Med Red,RDR Min Med Green
+02/08/2021,Monday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ODR,UXP,Intact,DXP,Yes,,ODR Zero Min Green,RDR Med Max Red
+03/08/2021,Tuesday,Low RDR,High RDR,Min Med Red,Med Max Green,DXP,Broken by ODR,UX,Broken by RDR,DXP,,,RDR Min Med Red,RDR Med Max Green
+04/08/2021,Wednesday,High ODR,Low RDR,Zero Min Green,Min Med Red,UXP,Broken by ODR,UXP,Intact,DXP,,,ODR Zero Min Green,RDR Min Med Red
+05/08/2021,Thursday,Low ODR,High RDR,Min Med Red,Min Med Green,D,Broken by ADR,RC,Intact,UXP,,,ODR Min Med Red,RDR Min Med Green
+06/08/2021,Friday,,,,,,,,,,,,,
+09/08/2021,Monday,High RDR,Low RDR,Zero Min Green,Min Med Red,DXP,Intact,UXP,Broken by ODR,D,,,RDR Zero Min Green,RDR Min Med Red
+10/08/2021,Tuesday,Low ODR,High RDR,Zero Min Red,Zero Min Green,UX,Broken by ODR,RC,Broken by ODR,UXP,,,ODR Zero Min Red,RDR Zero Min Green
+11/08/2021,Wednesday,,,,,,,,,,,,,
+12/08/2021,Thursday,,,,,,,,,,,,,
+13/08/2021,Friday,Low RDR,High RDR,Min Med Red,Zero Min Red,UXP,Intact,UXP,Broken by RDR,UX,,,RDR Min Med Red,RDR Zero Min Red
+16/08/2021,Monday,Low RDR,High RDR,Min Med Red,Med Max Green,DX,Broken by ODR,D,Broken by RDR,DXP,,,RDR Min Med Red,RDR Med Max Green
+17/08/2021,Tuesday,,,,,,,,,,,,,
+18/08/2021,Wednesday,,,,,,,,,,,,,
+19/08/2021,Thursday,Low ODR,High RDR,Med Max Red,Med Max Green,DXP,Broken by RDR,DXP,Broken by ODR,UXP,,,ODR Med Max Red,RDR Med Max Green
+20/08/2021,Friday,Low ODR,High RDR,Zero Min Red,Max+ Green,UX,Broken by ODR,DXP,Intact,UXP,,Yes,ODR Zero Min Red,RDR Max+ Green
+23/08/2021,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Intact,UXP,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+24/08/2021,Tuesday,High ODR,Low TRN,Zero Min Green,Min Med Red,UXP,Broken by ODR,UXP,Broken by RDR,DX,,,ODR Zero Min Green,TRN Min Med Red
+25/08/2021,Wednesday,Low ODR,High RDR,Zero Min Red,Min Med Green,RC,Broken by ADR,U,Broken by ODR,U,,,ODR Zero Min Red,RDR Min Med Green
+26/08/2021,Thursday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ODR,DX,Broken by ODR,RX,,,ODR Zero Min Green,RDR Med Max Red
+27/08/2021,Friday,,,,,,,,,,,,,
+30/08/2021,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ODR,RC,Intact,UXP,Yes,,ODR Zero Min Red,RDR Med Max Green
+31/08/2021,Tuesday,High ODR,Low RDR,Zero Min Green,Min Med Red,UXP,Broken by ODR,UXP,Intact,DXP,Yes,,ODR Zero Min Green,RDR Min Med Red
+01/09/2021,Wednesday,High ODR,Low RDR,Zero Min Green,Min Med Red,UXP,Broken by RDR,UXP,Intact,DXP,,,ODR Zero Min Green,RDR Min Med Red
+02/09/2021,Thursday,High RDR,Low RDR,Min Med Green,Zero Min Green,DX,Broken by ADR,UX,Broken by RDR,UXP,,,RDR Min Med Green,RDR Zero Min Green
+03/09/2021,Friday,,,,,,,,,,,,,
+06/09/2021,Monday,Low ODR,High RDR,Zero Min Red,Zero Min Green,RC,Intact,UXP,Intact,UXP,,,ODR Zero Min Red,RDR Zero Min Green
+07/09/2021,Tuesday,High ODR,Low RDR,Zero Min Green,Med Max Red,DXP,Broken by ADR,DX,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+08/09/2021,Wednesday,High ODR,Low RDR,Zero Min Green,Med Max Red,RC,Broken by ADR,DX,Broken by RDR,U,,,ODR Zero Min Green,RDR Med Max Red
+09/09/2021,Thursday,Low ODR,High RDR,Min Med Red,Med Max Green,DX,Broken by ODR,DXP,Broken by RDR,UXP,Yes,,ODR Min Med Red,RDR Med Max Green
+10/09/2021,Friday,,,,,,,,,,,,,
+13/09/2021,Monday,High RDR,Low RDR,Zero Min Green,Max+ Red,DXP,Broken by ADR,UXP,Broken by RDR,RX,,,RDR Zero Min Green,RDR Max+ Red
+14/09/2021,Tuesday,,,,,,,,,,,,,
+15/09/2021,Wednesday,,,,,,,,,,,,,
+16/09/2021,Thursday,Low RDR,High RDR,Med Max Red,Zero Min Red,UXP,Broken by ODR,D,Broken by RDR,D,,,RDR Med Max Red,RDR Zero Min Red
+17/09/2021,Friday,High ODR,Low RDR,Min Med Green,Max+ Red,RC,Broken by ODR,UXP,Intact,,Yes,,ODR Min Med Green,RDR Max+ Red
+20/09/2021,Monday,High ODR,Low RDR,Min Med Red,Max+ Red,DXP,Intact,DXP,Intact,DXP,,,ODR Min Med Red,RDR Max+ Red
+21/09/2021,Tuesday,High ODR,Low RDR,Med Max Green,Med Max Red,D,Broken by RDR,UXP,Broken by RDR,D,,,ODR Med Max Green,RDR Med Max Red
+22/09/2021,Wednesday,,,,,,,,,,,,,
+23/09/2021,Thursday,Low TRN,High RDR,Min Med Red,Med Max Green,UXP,Intact,UXP,Broken by ODR,U,,,TRN Min Med Red,RDR Med Max Green
+24/09/2021,Friday,,,,,,,,,,,,,
+27/09/2021,Monday,High ODR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by ODR,UX,Intact,DXP,Yes,,ODR Min Med Green,RDR Med Max Red
+28/09/2021,Tuesday,,,,,,,,,,,,,
+29/09/2021,Wednesday,,,,,,,,,,,,,
+30/09/2021,Thursday,,,,,,,,,,,,,
+01/10/2021,Friday,Low ODR,High RDR,Med Max Red,Max+ Green,DXP,Broken by ODR,DXP,Intact,UX,Yes,,ODR Med Max Red,RDR Max+ Green
+04/10/2021,Monday,High RDR,Low RDR,Zero Min Red,Max+ Red,UXP,Intact,DXP,Broken by RDR,RX,,,RDR Zero Min Red,RDR Max+ Red
+05/10/2021,Tuesday,Low ODR,High RDR,Min Med Red,Max+ Green,DXP,Broken by ADR,U,Intact,UXP,,,ODR Min Med Red,RDR Max+ Green
+06/10/2021,Wednesday,Low ODR,High RDR,Med Max Red,Max+ Green,RC,Broken by RDR,DXP,Broken by ODR,RX,,,ODR Med Max Red,RDR Max+ Green
+07/10/2021,Thursday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Intact,UXP,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+08/10/2021,Friday,,,,,,,,,,,,,
+11/10/2021,Monday,High RDR,Low RDR,Max+ Green,Zero Min Red,DXP,Broken by ODR,UX,Broken by ODR,UXP,Yes,,RDR Max+ Green,RDR Zero Min Red
+12/10/2021,Tuesday,Low ODR,High ODR,Med Max Red,Min Med Green,DXP,Broken by ODR,DX,Intact,UXP,Yes,,ODR Med Max Red,ODR Min Med Green
+13/10/2021,Wednesday,,,,,,,,,,,,,
+14/10/2021,Thursday,,,,,,,,,,,,,
+15/10/2021,Friday,Low ODR,High RDR,Min Med Red,Min Med Green,UXP,Intact,UXP,Intact,UXP,,,ODR Min Med Red,RDR Min Med Green
+18/10/2021,Monday,Low TRN,High RDR,Min Med Red,Med Max Green,RC,Broken by ADR,DXP,Broken by RDR,RX,,,TRN Min Med Red,RDR Med Max Green
+19/10/2021,Tuesday,Low ODR,High RDR,Min Med Red,Min Med Green,UXP,Intact,UXP,Intact,UXP,,,ODR Min Med Red,RDR Min Med Green
+20/10/2021,Wednesday,,,,,,,,,,,,,
+21/10/2021,Thursday,Low ODR,High RDR,Zero Min Green,Max+ Green,RC,Broken by ODR,DXP,Broken by ODR,UX,,Yes,ODR Zero Min Green,RDR Max+ Green
+22/10/2021,Friday,,,,,,,,,,,,,
+25/10/2021,Monday,Low RDR,High RDR,Min Med Red,Min Med Green,DXP,Intact,UXP,Broken by RDR,RX,,,RDR Min Med Red,RDR Min Med Green
+26/10/2021,Tuesday,High RDR,Low RDR,Min Med Green,Min Med Red,UXP,Broken by ADR,UX,Broken by RDR,UXP,,,RDR Min Med Green,RDR Min Med Red
+27/10/2021,Wednesday,,,,,,,,,,,,,
+28/10/2021,Thursday,Low ODR,High RDR,Min Med Red,Med Max Green,DXP,Broken by ODR,D,Intact,UXP,,,ODR Min Med Red,RDR Med Max Green
+29/10/2021,Friday,Low ODR,High RDR,Zero Min Green,Max+ Green,RC,Broken by RDR,DXP,Broken by ODR,UX,,,ODR Zero Min Green,RDR Max+ Green
+01/11/2021,Monday,High ODR,Low RDR,Zero Min Green,Min Med Red,UXP,Broken by ODR,DXP,Broken by ODR,RX,Yes,,ODR Zero Min Green,RDR Min Med Red
+02/11/2021,Tuesday,Low ODR,High RDR,Zero Min Red,Zero Min Green,RC,Broken by ADR,RX,Intact,UXP,,,ODR Zero Min Red,RDR Zero Min Green
+03/11/2021,Wednesday,,,,,,,,,,,,,
+04/11/2021,Thursday,Low ODR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,DX,Broken by RDR,UX,Yes,,ODR Zero Min Red,RDR Min Med Green
+05/11/2021,Friday,,,,,,,,,,,,,
+08/11/2021,Monday,,,,,,,,,,,,,
+09/11/2021,Tuesday,,,,,,,,,,,,,
+10/11/2021,Wednesday,,,,,,,,,,,,,
+11/11/2021,Thursday,High ODR,Low RDR,Zero Min Green,Min Med Red,DXP,Broken by ODR,U,Broken by RDR,U,,,ODR Zero Min Green,RDR Min Med Red
+12/11/2021,Friday,Low ODR,High RDR,Zero Min Red,Med Max Green,UX,Broken by ODR,DXP,Broken by RDR,U,,Yes,ODR Zero Min Red,RDR Med Max Green
+15/11/2021,Monday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ODR,D,Broken by RDR,U,,,ODR Zero Min Green,RDR Med Max Red
+16/11/2021,Tuesday,Low ODR,High RDR,Min Med Red,Min Med Green,DX,Broken by ODR,DX,Broken by ODR,UXP,,,ODR Min Med Red,RDR Min Med Green
+17/11/2021,Wednesday,,,,,,,,,,,,,
+18/11/2021,Thursday,Low RDR,High RDR,Max+ Red,Zero Min Green,RC,Broken by RDR,UXP,Broken by ODR,DXP,,,RDR Max+ Red,RDR Zero Min Green
+19/11/2021,Friday,High ODR,Low ODR,Zero Min Green,Min Med Red,UXP,Broken by ODR,UXP,Intact,DXP,Yes,,ODR Zero Min Green,ODR Min Med Red
+22/11/2021,Monday,High RDR,Low RDR,Med Max Green,Med Max Red,RC,Broken by ODR,UXP,Broken by ODR,UXP,Yes,,RDR Med Max Green,RDR Med Max Red
+23/11/2021,Tuesday,High RDR,Low RDR,Min Med Green,Med Max Red,DXP,Broken by RDR,DXP,Broken by RDR,UX,,,RDR Min Med Green,RDR Med Max Red
+24/11/2021,Wednesday,,,,,,,,,,,,,
+25/11/2021,Thursday,High ODR,Low TRN,Zero Min Green,Min Med Red,UXP,Broken by ODR,UXP,Intact,DXP,Yes,,ODR Zero Min Green,TRN Min Med Red
+26/11/2021,Friday,High RDR,Low RDR,Med Max Red,Max+ Red,DXP,Intact,DXP,Broken by RDR,RX,,,RDR Med Max Red,RDR Max+ Red
+29/11/2021,Monday,Low ODR,High RDR,Zero Min Red,Max+ Green,RC,Broken by ODR,RX,Broken by RDR,UX,,,ODR Zero Min Red,RDR Max+ Green
+30/11/2021,Tuesday,,,,,,,,,,,,,
+01/12/2021,Wednesday,,,,,,,,,,,,,
+02/12/2021,Thursday,Low TRN,High RDR,Med Max Red,Max+ Green,DXP,Broken by ODR,UX,Broken by RDR,RX,,,TRN Med Max Red,RDR Max+ Green
+03/12/2021,Friday,,,,,,,,,,,,,
+06/12/2021,Monday,Low ODR,High RDR,Min Med Red,Max+ Green,RC,Broken by ADR,UX,Broken by ODR,RX,,,ODR Min Med Red,RDR Max+ Green
+07/12/2021,Tuesday,Low ODR,High RDR,Min Med Green,Max+ Green,UXP,Intact,UXP,Intact,UXP,,,ODR Min Med Green,RDR Max+ Green
+08/12/2021,Wednesday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ADR,U,Broken by RDR,DXP,,,ODR Zero Min Green,RDR Med Max Red
+09/12/2021,Thursday,High ODR,Low RDR,Med Max Green,Min Med Red,UXP,Broken by ADR,DXP,Broken by RDR,D,,,ODR Med Max Green,RDR Min Med Red
+10/12/2021,Friday,,,,,,,,,,,,,
+13/12/2021,Monday,High ODR,Low RDR,Zero Min Green,Max+ Red,UXP,Broken by ADR,DX,Broken by ODR,DXP,,,ODR Zero Min Green,RDR Max+ Red
+14/12/2021,Tuesday,,,,,,,,,,,,,
+15/12/2021,Wednesday,,,,,,,,,,,,,
+16/12/2021,Thursday,High ODR,Low RDR,Min Med Green,Max+ Red,UXP,Intact,UXP,Broken by ODR,DXP,,,ODR Min Med Green,RDR Max+ Red
+17/12/2021,Friday,High ODR,Low RDR,Zero Min Green,Med Max Red,DXP,Broken by ODR,DX,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+20/12/2021,Monday,High ODR,Low RDR,Zero Min Red,Med Max Red,DXP,Intact,DXP,Broken by RDR,RX,,,ODR Zero Min Red,RDR Med Max Red
+21/12/2021,Tuesday,Low RDR,High RDR,Min Med Red,Med Max Green,UXP,Intact,UXP,Broken by RDR,RX,,,RDR Min Med Red,RDR Med Max Green
+22/12/2021,Wednesday,Low ODR,High RDR,Min Med Red,Max+ Green,UXP,Broken by ADR,DXP,Broken by ODR,UXP,,,ODR Min Med Red,RDR Max+ Green
+23/12/2021,Thursday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ADR,RX,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+24/12/2021,Friday,,,,,,,,,,,,,
+27/12/2021,Monday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ADR,DX,Intact,UXP,,,ODR Zero Min Red,RDR Max+ Green
+28/12/2021,Tuesday,High RDR,Low RDR,Min Med Green,Min Med Red,UXP,Broken by ADR,U,Broken by RDR,U,,,RDR Min Med Green,RDR Min Med Red
+29/12/2021,Wednesday,Low RDR,High RDR,Min Med Red,Min Med Green,RC,Broken by ADR,UX,Broken by RDR,D,,,RDR Min Med Red,RDR Min Med Green
+30/12/2021,Thursday,High RDR,Low RDR,Zero Min Green,Med Max Red,RC,Broken by ADR,UXP,Broken by RDR,UXP,,,RDR Zero Min Green,RDR Med Max Red
+31/12/2021,Friday,Low RDR,High RDR,Min Med Red,Min Med Green,DXP,Broken by ODR,UXP,Broken by ODR,RX,Yes,,RDR Min Med Red,RDR Min Med Green
+03/01/2022,Monday,High ODR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by ODR,DX,Broken by ODR,RX,Yes,,ODR Min Med Green,RDR Med Max Red
+04/01/2022,Tuesday,High RDR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by RDR,UXP,Broken by RDR,UXP,,,RDR Zero Min Green,RDR Med Max Red
+05/01/2022,Wednesday,,,,,,,,,,,,,
+06/01/2022,Thursday,Low RDR,High RDR,Med Max Red,Min Med Green,DXP,Broken by ADR,DX,Broken by ODR,RX,,,RDR Med Max Red,RDR Min Med Green
+07/01/2022,Friday,,,,,,,,,,,,,
+10/01/2022,Monday,High ODR,Low RDR,Med Max Green,Max+ Red,DXP,Broken by ODR,U,Intact,DXP,,,ODR Med Max Green,RDR Max+ Red
+11/01/2022,Tuesday,,,,,,,,,,,,,
+12/01/2022,Wednesday,,,,,,,,,,,,,
+13/01/2022,Thursday,,,,,,,,,,,,,
+14/01/2022,Friday,High ODR,Low RDR,Min Med Green,Med Max Red,DXP,Broken by ODR,U,Broken by RDR,DX,,,ODR Min Med Green,RDR Med Max Red
+17/01/2022,Monday,Low ODR,High ODR,Zero Min Red,Zero Min Green,RC,Broken by ADR,U,Broken by RDR,,,,ODR Zero Min Red,ODR Zero Min Green
+18/01/2022,Tuesday,High ODR,Low RDR,Zero Min Red,Med Max Red,UX,Intact,DXP,Intact,DXP,,,ODR Zero Min Red,RDR Med Max Red
+19/01/2022,Wednesday,,,,,,,,,,,,,
+20/01/2022,Thursday,High RDR,Low RDR,Med Max Green,Max+ Red,DXP,Broken by RDR,UXP,Broken by RDR,UXP,,,RDR Med Max Green,RDR Max+ Red
+21/01/2022,Friday,High RDR,Low RDR,Med Max Green,Med Max Red,DXP,Broken by ADR,UX,Broken by RDR,RX,,,RDR Med Max Green,RDR Med Max Red
+24/01/2022,Monday,High ODR,Low RDR,Min Med Green,Max+ Red,DXP,Broken by ADR,D,Intact,DXP,,,ODR Min Med Green,RDR Max+ Red
+25/01/2022,Tuesday,,,,,,,,,,,,,
+26/01/2022,Wednesday,,,,,,,,,,,,,
+27/01/2022,Thursday,Low ODR,High RDR,Med Max Red,Max+ Green,DXP,Broken by ODR,DX,Broken by RDR,UXP,,,ODR Med Max Red,RDR Max+ Green
+28/01/2022,Friday,Low ODR,High RDR,Med Max Red,Max+ Green,DXP,Broken by ADR,D,Broken by ODR,DX,,,ODR Med Max Red,RDR Max+ Green
+31/01/2022,Monday,Low ODR,High RDR,Min Med Red,Max+ Green,UXP,Broken by ODR,UXP,Broken by RDR,U,,,ODR Min Med Red,RDR Max+ Green
+01/02/2022,Tuesday,Low RDR,High RDR,Med Max Red,Med Max Green,UXP,Broken by ODR,UXP,Broken by ODR,D,Yes,,RDR Med Max Red,RDR Med Max Green
+02/02/2022,Wednesday,Low RDR,High RDR,Med Max Red,Min Med Green,UXP,Broken by ODR,RX,Broken by RDR,RX,,,RDR Med Max Red,RDR Min Med Green
+03/02/2022,Thursday,High ODR,Low RDR,Zero Min Green,Max+ Red,DXP,Broken by ADR,UXP,Intact,DXP,,,ODR Zero Min Green,RDR Max+ Red
+04/02/2022,Friday,,,,,,,,,,,,,
+07/02/2022,Monday,High RDR,Low RDR,Min Med Green,Med Max Red,UX,Broken by ODR,RX,Broken by RDR,UX,,,RDR Min Med Green,RDR Med Max Red
+08/02/2022,Tuesday,Low RDR,High RDR,Min Med Red,Med Max Green,DXP,Broken by ADR,RX,Broken by RDR,DXP,,,RDR Min Med Red,RDR Med Max Green
+09/02/2022,Wednesday,Low ODR,High RDR,Min Med Red,Med Max Green,UXP,Intact,UXP,Intact,UXP,,,ODR Min Med Red,RDR Med Max Green
+10/02/2022,Thursday,,,,,,,,,,,,,
+11/02/2022,Friday,High RDR,Low RDR,Med Max Green,Max+ Red,DXP,Broken by ODR,RX,Broken by RDR,UXP,,,RDR Med Max Green,RDR Max+ Red
+14/02/2022,Monday,,,,,,,,,,,,,
+15/02/2022,Tuesday,,,,,,,,,,,,,
+16/02/2022,Wednesday,,,,,,,,,,,,,
+17/02/2022,Thursday,High ODR,Low RDR,Zero Min Green,Max+ Red,UXP,Broken by ADR,RX,Intact,DXP,,,ODR Zero Min Green,RDR Max+ Red
+18/02/2022,Friday,High ODR,Low RDR,Med Max Green,Max+ Red,DXP,Broken by ODR,UXP,Intact,DXP,Yes,,ODR Med Max Green,RDR Max+ Red
+21/02/2022,Monday,High ODR,Low RDR,Max+ Green,Max+ Red,DX,Broken by ODR,UX,Intact,DXP,Yes,,ODR Max+ Green,RDR Max+ Red
+22/02/2022,Tuesday,Low ODR,High RDR,Med Max Red,Max+ Green,DXP,Broken by ADR,RX,Broken by RDR,UXP,,,ODR Med Max Red,RDR Max+ Green
+23/02/2022,Wednesday,High ODR,Low RDR,Min Med Green,Max+ Red,RC,Broken by ADR,UXP,Broken by ODR,D,,,ODR Min Med Green,RDR Max+ Red
+24/02/2022,Thursday,Low ODR,High RDR,Max+ Red,Max+ Green,DXP,Broken by RDR,DXP,Broken by RDR,RX,,,ODR Max+ Red,RDR Max+ Green
+25/02/2022,Friday,Low ODR,High RDR,Med Max Red,Max+ Green,UXP,Broken by ODR,DXP,Intact,UXP,Yes,,ODR Med Max Red,RDR Max+ Green
+28/02/2022,Monday,Low ODR,High RDR,Min Med Red,Max+ Green,D,Broken by ADR,U,Broken by ODR,UXP,,,ODR Min Med Red,RDR Max+ Green
+01/03/2022,Tuesday,High ODR,Low RDR,Med Max Green,Max+ Red,UXP,Broken by ODR,U,Intact,DX,,,ODR Med Max Green,RDR Max+ Red
+02/03/2022,Wednesday,,,,,,,,,,,,,
+03/03/2022,Thursday,,,,,,,,,,,,,
+04/03/2022,Friday,,,,,,,,,,,,,
+07/03/2022,Monday,High TRN,Low RDR,Max+ Green,Max+ Red,DXP,Broken by ADR,D,Broken by RDR,UX,,,TRN Max+ Green,RDR Max+ Red
+08/03/2022,Tuesday,Low RDR,High RDR,Max+ Red,Max+ Green,DXP,Broken by ODR,RX,Broken by ODR,D,,,RDR Max+ Red,RDR Max+ Green
+09/03/2022,Wednesday,Low ODR,High RDR,Zero Min Green,Max+ Green,RC,Intact,UXP,Intact,UXP,,,ODR Zero Min Green,RDR Max+ Green
+10/03/2022,Thursday,,,,,,,,,,,,,
+11/03/2022,Friday,High ODR,Low RDR,Max+ Green,Max+ Red,UX,Broken by ODR,RC,Broken by RDR,U,,,ODR Max+ Green,RDR Max+ Red
+14/03/2022,Monday,High ODR,Low RDR,Min Med Green,Max+ Red,DXP,Broken by ADR,RX,Broken by RDR,D,,,ODR Min Med Green,RDR Max+ Red
+15/03/2022,Tuesday,,,,,,,,,,,,,
+16/03/2022,Wednesday,,,,,,,,,,,,,
+17/03/2022,Thursday,Low ODR,High RDR,Med Max Green,Max+ Green,UXP,Broken by ADR,RX,Broken by RDR,D,,,ODR Med Max Green,RDR Max+ Green
+18/03/2022,Friday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ADR,RX,Broken by ODR,U,,,ODR Zero Min Red,RDR Max+ Green
+21/03/2022,Monday,,,,,,,,,,,,,
+22/03/2022,Tuesday,Low ODR,High RDR,Min Med Red,Med Max Green,RC,Broken by ADR,U,Intact,UXP,,,ODR Min Med Red,RDR Med Max Green
+23/03/2022,Wednesday,,,,,,,,,,,,,
+24/03/2022,Thursday,Low RDR,High RDR,Min Med Red,Med Max Green,DXP,Intact,UXP,Broken by ODR,RX,,,RDR Min Med Red,RDR Med Max Green
+25/03/2022,Friday,High RDR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by ODR,UXP,Broken by RDR,U,Yes,,RDR Min Med Green,RDR Med Max Red
+28/03/2022,Monday,Low RDR,High RDR,Med Max Red,Med Max Green,RC,Broken by ODR,RX,Broken by ODR,UX,,,RDR Med Max Red,RDR Med Max Green
+29/03/2022,Tuesday,Low ODR,High RDR,Min Med Red,Med Max Green,UXP,Intact,UXP,Intact,UXP,,,ODR Min Med Red,RDR Med Max Green
+30/03/2022,Wednesday,High ODR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by ADR,DX,Broken by ODR,RX,,,ODR Min Med Green,RDR Med Max Red
+31/03/2022,Thursday,High ODR,Low RDR,Min Med Green,Max+ Red,DXP,Broken by ADR,UX,Intact,DXP,,,ODR Min Med Green,RDR Max+ Red
+01/04/2022,Friday,,,,,,,,,,,,,
+04/04/2022,Monday,Low ODR,High RDR,Zero Min Red,Max+ Green,RC,Broken by ODR,U,Broken by RDR,U,,,ODR Zero Min Red,RDR Max+ Green
+05/04/2022,Tuesday,High RDR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by ADR,UX,Broken by RDR,D,,,RDR Min Med Green,RDR Med Max Red
+06/04/2022,Wednesday,,,,,,,,,,,,,
+07/04/2022,Thursday,Low RDR,High RDR,Max+ Red,Med Max Green,RC,Broken by ADR,UXP,Broken by RDR,D,,,RDR Max+ Red,RDR Med Max Green
+08/04/2022,Friday,High ODR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by ODR,UXP,Broken by RDR,DXP,,Yes,ODR Min Med Green,RDR Med Max Red
+11/04/2022,Monday,High ODR,Low RDR,Min Med Green,Med Max Red,D,Broken by ODR,D,Intact,DXP,,,ODR Min Med Green,RDR Med Max Red
+12/04/2022,Tuesday,,,,,,,,,,,,,
+13/04/2022,Wednesday,,,,,,,,,,,,,
+14/04/2022,Thursday,High RDR,Low RDR,Med Max Green,Max+ Red,UXP,Broken by ODR,RC,Broken by ODR,RX,,,RDR Med Max Green,RDR Max+ Red
+15/04/2022,Friday,,,,,,,,,,,,,
+18/04/2022,Monday,Low ODR,High RDR,Min Med Red,Med Max Green,DXP,Intact,UXP,Broken by RDR,UXP,,,ODR Min Med Red,RDR Med Max Green
+19/04/2022,Tuesday,Low ODR,High RDR,Min Med Red,Max+ Green,UX,Broken by ADR,DX,Broken by RDR,U,,,ODR Min Med Red,RDR Max+ Green
+20/04/2022,Wednesday,,,,,,,,,,,,,
+21/04/2022,Thursday,,,,,,,,,,,,,
+22/04/2022,Friday,High ODR,Low RDR,Min Med Green,Max+ Red,DXP,Broken by ADR,RX,Broken by ODR,DXP,,,ODR Min Med Green,RDR Max+ Red
+25/04/2022,Monday,Low RDR,High RDR,Med Max Red,Med Max Green,DXP,Broken by ODR,DX,Broken by ODR,DX,,Yes,RDR Med Max Red,RDR Med Max Green
+26/04/2022,Tuesday,High ODR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by ADR,DXP,Broken by ODR,DXP,,,ODR Min Med Green,RDR Max+ Red
+27/04/2022,Wednesday,,,,,,,,,,,,,
+28/04/2022,Thursday,Low RDR,High RDR,Max+ Red,Max+ Green,RC,Broken by RDR,UXP,Broken by ODR,DXP,,,RDR Max+ Red,RDR Max+ Green
+29/04/2022,Friday,High ODR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by ODR,UXP,Intact,DX,Yes,,ODR Min Med Green,RDR Max+ Red
+02/05/2022,Monday,High RDR,Low RDR,Med Max Green,Max+ Red,DXP,Broken by ODR,UX,Broken by RDR,D,,,RDR Med Max Green,RDR Max+ Red
+03/05/2022,Tuesday,Low ODR,High RDR,Min Med Red,Med Max Green,UX,Broken by ODR,U,Broken by ODR,RX,,,ODR Min Med Red,RDR Med Max Green
+04/05/2022,Wednesday,,,,,,,,,,,,,
+05/05/2022,Thursday,High ODR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by ADR,DXP,Intact,DXP,,,ODR Min Med Green,RDR Max+ Red
+06/05/2022,Friday,,,,,,,,,,,,,
+09/05/2022,Monday,High ODR,Low RDR,Min Med Green,Max+ Red,RC,Broken by ADR,RX,Intact,DXP,,,ODR Min Med Green,RDR Max+ Red
+10/05/2022,Tuesday,High RDR,Low RDR,Max+ Green,Med Max Red,DXP,Broken by RDR,UXP,Broken by RDR,UX,,,RDR Max+ Green,RDR Med Max Red
+11/05/2022,Wednesday,,,,,,,,,,,,,
+12/05/2022,Thursday,,,,,,,,,,,,,
+13/05/2022,Friday,Low ODR,High RDR,Zero Min Red,Max+ Green,UX,Intact,UXP,Broken by RDR,UX,,,ODR Zero Min Red,RDR Max+ Green
+16/05/2022,Monday,Low RDR,High RDR,Max+ Red,Min Med Green,UXP,Broken by RDR,DXP,Broken by RDR,RX,,,RDR Max+ Red,RDR Min Med Green
+17/05/2022,Tuesday,,,,,,,,,,,,,
+18/05/2022,Wednesday,,,,,,,,,,,,,
+19/05/2022,Thursday,Low ODR,High RDR,Med Max Red,Max+ Green,DXP,Broken by ODR,RX,Broken by ODR,RC,,,ODR Med Max Red,RDR Max+ Green
+20/05/2022,Friday,High ODR,Low RDR,Med Max Green,Max+ Red,UX,Broken by RDR,UXP,Broken by ODR,D,,,ODR Med Max Green,RDR Max+ Red
+23/05/2022,Monday,Low RDR,High RDR,Med Max Red,Max+ Green,UX,Broken by ODR,U,Broken by ODR,D,,,RDR Med Max Red,RDR Max+ Green
+24/05/2022,Tuesday,Low ODR,High RDR,Med Max Red,Max+ Green,UXP,Broken by ADR,U,Broken by RDR,RX,,,ODR Med Max Red,RDR Max+ Green
+25/05/2022,Wednesday,,,,,,,,,,,,,
+26/05/2022,Thursday,Low ODR,High RDR,Min Med Red,Max+ Green,UXP,Broken by ADR,U,Intact,UXP,,,ODR Min Med Red,RDR Max+ Green
+27/05/2022,Friday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ADR,D,Intact,UXP,,,ODR Zero Min Red,RDR Max+ Green
+30/05/2022,Monday,High ODR,Low RDR,Med Max Green,Zero Min Red,UXP,Broken by RDR,UXP,Intact,DXP,,,ODR Med Max Green,RDR Zero Min Red
+31/05/2022,Tuesday,Low RDR,High RDR,Max+ Red,Zero Min Green,U,Intact,DXP,Broken by ODR,DXP,,,RDR Max+ Red,RDR Zero Min Green
+01/06/2022,Wednesday,High RDR,Low RDR,Med Max Green,Max+ Red,UXP,Broken by ADR,D,Broken by RDR,RX,,,RDR Med Max Green,RDR Max+ Red
+02/06/2022,Thursday,Low RDR,High RDR,Max+ Red,Max+ Green,DXP,Broken by ODR,UXP,Broken by ODR,DXP,,Yes,RDR Max+ Red,RDR Max+ Green
+03/06/2022,Friday,,,,,,,,,,,,,
+06/06/2022,Monday,High RDR,Low RDR,Med Max Green,Med Max Red,DXP,Broken by RDR,UXP,Broken by ODR,UX,,,RDR Med Max Green,RDR Med Max Red
+07/06/2022,Tuesday,Low TRN,High RDR,Min Med Red,Max+ Green,DXP,Broken by RDR,DXP,Broken by RDR,RX,,,TRN Min Med Red,RDR Max+ Green
+08/06/2022,Wednesday,High RDR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by ADR,DXP,Broken by ODR,RX,,,RDR Min Med Green,RDR Med Max Red
+09/06/2022,Thursday,High ODR,Low RDR,Med Max Green,Max+ Red,DXP,Broken by ODR,DX,Broken by ODR,RX,,,ODR Med Max Green,RDR Max+ Red
+10/06/2022,Friday,,,,,,,,,,,,,
+13/06/2022,Monday,High ODR,Low RDR,Zero Min Red,Max+ Red,DXP,Intact,DXP,Intact,DXP,,,ODR Zero Min Red,RDR Max+ Red
+14/06/2022,Tuesday,,,,,,,,,,,,,
+15/06/2022,Wednesday,,,,,,,,,,,,,
+16/06/2022,Thursday,High ODR,Low RDR,Med Max Red,Max+ Red,UXP,Intact,DXP,Intact,DXP,,,ODR Med Max Red,RDR Max+ Red
+17/06/2022,Friday,,,,,,,,,,,,,
+20/06/2022,Monday,Low ODR,High RDR,Med Max Red,Med Max Green,RC,Broken by ODR,DX,Intact,UXP,,,ODR Med Max Red,RDR Med Max Green
+21/06/2022,Tuesday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Intact,UXP,Broken by ODR,UX,,,ODR Zero Min Red,RDR Max+ Green
+22/06/2022,Wednesday,,,,,,,,,,,,,
+23/06/2022,Thursday,,,,,,,,,,,,,
+24/06/2022,Friday,Low ODR,High RDR,Min Med Green,Max+ Green,UX,Intact,UXP,Intact,UXP,,,ODR Min Med Green,RDR Max+ Green
+27/06/2022,Monday,High ODR,Low RDR,Med Max Green,Med Max Red,UXP,Broken by RDR,UXP,Intact,DXP,,,ODR Med Max Green,RDR Med Max Red
+28/06/2022,Tuesday,High RDR,Low RDR,Med Max Green,Max+ Red,UX,Broken by ADR,U,Broken by ODR,U,,,RDR Med Max Green,RDR Max+ Red
+29/06/2022,Wednesday,,,,,,,,,,,,,
+30/06/2022,Thursday,Low RDR,High RDR,Max+ Red,Med Max Green,RC,Broken by RDR,DXP,Broken by ODR,DX,,,RDR Max+ Red,RDR Med Max Green
+01/07/2022,Friday,,,,,,,,,,,,,
+04/07/2022,Monday,,,,,,,,,,,,,
+05/07/2022,Tuesday,High ODR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by ADR,DXP,Broken by RDR,DXP,,,ODR Min Med Green,RDR Max+ Red
+06/07/2022,Wednesday,,,,,,,,,,,,,
+07/07/2022,Thursday,Low ODR,High RDR,Min Med Red,Max+ Green,UX,Intact,UXP,Broken by ODR,UXP,,,ODR Min Med Red,RDR Max+ Green
+08/07/2022,Friday,,,,,,,,,,,,,
+11/07/2022,Monday,High ODR,Low RDR,Zero Min Red,Med Max Red,RC,Intact,DXP,Broken by ODR,RX,,,ODR Zero Min Red,RDR Med Max Red
+12/07/2022,Tuesday,High RDR,Low RDR,Med Max Green,Max+ Red,DX,Broken by RDR,DXP,Broken by RDR,UXP,,,RDR Med Max Green,RDR Max+ Red
+13/07/2022,Wednesday,,,,,,,,,,,,,
+14/07/2022,Thursday,,,,,,,,,,,,,
+15/07/2022,Friday,Low ODR,High RDR,Med Max Red,Max+ Green,UXP,Broken by ODR,DX,Broken by ODR,UXP,Yes,,ODR Med Max Red,RDR Max+ Green
+18/07/2022,Monday,High ODR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by RDR,UXP,Broken by ODR,U,,,ODR Min Med Green,RDR Max+ Red
+19/07/2022,Tuesday,Low ODR,High RDR,Min Med Red,Max+ Green,DXP,Broken by ADR,RX,Intact,UXP,,,ODR Min Med Red,RDR Max+ Green
+20/07/2022,Wednesday,,,,,,,,,,,,,
+21/07/2022,Thursday,Low RDR,High RDR,Min Med Red,Max+ Green,UXP,Broken by ODR,U,Broken by ODR,RX,,,RDR Min Med Red,RDR Max+ Green
+22/07/2022,Friday,High RDR,Low RDR,Med Max Green,Max+ Red,UXP,Broken by ADR,U,Broken by RDR,UX,,,RDR Med Max Green,RDR Max+ Red
+25/07/2022,Monday,High ODR,Low RDR,Med Max Green,Med Max Red,DXP,Broken by ADR,RC,Broken by RDR,RX,,,ODR Med Max Green,RDR Med Max Red
+26/07/2022,Tuesday,High ODR,Low RDR,Min Med Green,Med Max Red,DXP,Broken by ODR,UX,Broken by ODR,DXP,,,ODR Min Med Green,RDR Med Max Red
+27/07/2022,Wednesday,,,,,,,,,,,,,
+28/07/2022,Thursday,Low RDR,High RDR,Min Med Red,Max+ Green,UXP,Broken by ADR,RC,Broken by ODR,RX,,,RDR Min Med Red,RDR Max+ Green
+29/07/2022,Friday,Low RDR,High RDR,Min Med Red,Med Max Green,UXP,Broken by ODR,UXP,Broken by RDR,RX,Yes,,RDR Min Med Red,RDR Med Max Green
+01/08/2022,Monday,Low RDR,High RDR,Max+ Red,Min Med Green,UX,Broken by ADR,UXP,Broken by RDR,RX,,,RDR Max+ Red,RDR Min Med Green
+02/08/2022,Tuesday,Low RDR,High RDR,Min Med Red,Max+ Green,RC,Broken by RDR,DXP,Broken by ODR,RX,,,RDR Min Med Red,RDR Max+ Green
+03/08/2022,Wednesday,,,,,,,,,,,,,
+04/08/2022,Thursday,High ODR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by ADR,U,Broken by ODR,RX,,,ODR Min Med Green,RDR Med Max Red
+05/08/2022,Friday,,,,,,,,,,,,,
+08/08/2022,Monday,High RDR,Low RDR,Med Max Green,Med Max Red,RC,Broken by RDR,UXP,Broken by RDR,UXP,,,RDR Med Max Green,RDR Med Max Red
+09/08/2022,Tuesday,High ODR,Low RDR,Zero Min Green,Med Max Red,DXP,Broken by ODR,DX,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+10/08/2022,Wednesday,,,,,,,,,,,,,
+11/08/2022,Thursday,,,,,,,,,,,,,
+12/08/2022,Friday,Low ODR,High RDR,Min Med Red,Med Max Green,DXP,Intact,UXP,Broken by RDR,UX,,,ODR Min Med Red,RDR Med Max Green
+15/08/2022,Monday,Low TRN,High RDR,Min Med Red,Max+ Green,UXP,Broken by ADR,DX,Broken by RDR,U,,,TRN Min Med Red,RDR Max+ Green
+16/08/2022,Tuesday,,,,,,,,,,,,,
+17/08/2022,Wednesday,,,,,,,,,,,,,
+18/08/2022,Thursday,Low RDR,High RDR,Zero Min Red,Med Max Green,DXP,Broken by ADR,DXP,Intact,UXP,,,RDR Zero Min Red,RDR Med Max Green
+19/08/2022,Friday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by RDR,DXP,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+22/08/2022,Monday,High ODR,Low RDR,Zero Min Green,Max+ Red,DXP,Broken by ODR,DX,Intact,DXP,,,ODR Zero Min Green,RDR Max+ Red
+23/08/2022,Tuesday,Low ODR,High RDR,Min Med Red,Min Med Green,DXP,Broken by ODR,DXP,Broken by ODR,U,,,ODR Min Med Red,RDR Min Med Green
+24/08/2022,Wednesday,Low ODR,High RDR,Med Max Red,Med Max Green,DXP,Broken by ADR,DX,Intact,UX,,,ODR Med Max Red,RDR Med Max Green
+25/08/2022,Thursday,Low RDR,High RDR,Zero Min Red,Max+ Green,UXP,Intact,UXP,Broken by RDR,DX,,,RDR Zero Min Red,RDR Max+ Green
+26/08/2022,Friday,,,,,,,,,,,,,
+29/08/2022,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,DXP,Intact,UXP,Broken by ODR,UX,,,ODR Zero Min Red,RDR Med Max Green
+30/08/2022,Tuesday,,,,,,,,,,,,,
+31/08/2022,Wednesday,High RDR,Low RDR,Med Max Green,Med Max Red,DXP,Broken by ODR,UXP,Broken by ODR,RX,Yes,,RDR Med Max Green,RDR Med Max Red
+01/09/2022,Thursday,,,,,,,,,,,,,
+02/09/2022,Friday,,,,,,,,,,,,,
+05/09/2022,Monday,High ODR,Low ODR,Min Med Green,Zero Min Red,DXP,Broken by ADR,RX,Broken by ODR,RC,,,ODR Min Med Green,ODR Zero Min Red
+06/09/2022,Tuesday,High ODR,Low RDR,Med Max Green,Max+ Red,UX,Broken by ADR,UXP,Intact,DXP,,,ODR Med Max Green,RDR Max+ Red
+07/09/2022,Wednesday,Low ODR,High RDR,Min Med Red,Max+ Green,DX,Broken by ADR,UX,Broken by ODR,UXP,,,ODR Min Med Red,RDR Max+ Green
+08/09/2022,Thursday,,,,,,,,,,,,,
+09/09/2022,Friday,Low ODR,High RDR,Min Med Red,Med Max Green,UXP,Broken by ADR,UXP,Broken by ODR,UX,,,ODR Min Med Red,RDR Med Max Green
+12/09/2022,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ADR,U,Broken by ODR,UXP,,,ODR Zero Min Red,RDR Med Max Green
+13/09/2022,Tuesday,,,,,,,,,,,,,
+14/09/2022,Wednesday,,,,,,,,,,,,,
+15/09/2022,Thursday,High ODR,Low RDR,Zero Min Green,Med Max Red,UX,Broken by ODR,RX,Broken by RDR,DX,,,ODR Zero Min Green,RDR Med Max Red
+16/09/2022,Friday,Low RDR,High RDR,Med Max Red,Zero Min Green,DXP,Intact,DXP,Broken by RDR,DXP,,,RDR Med Max Red,RDR Zero Min Green
+19/09/2022,Monday,Low ODR,High RDR,Med Max Red,Max+ Green,UXP,Broken by RDR,DXP,Broken by ODR,UX,,,ODR Med Max Red,RDR Max+ Green
+20/09/2022,Tuesday,,,,,,,,,,,,,
+21/09/2022,Wednesday,,,,,,,,,,,,,
+22/09/2022,Thursday,High ODR,Low RDR,Med Max Green,Med Max Red,DXP,Broken by ADR,RX,Broken by ODR,DX,,,ODR Med Max Green,RDR Med Max Red
+23/09/2022,Friday,,,,,,,,,,,,,
+26/09/2022,Monday,High RDR,Low RDR,Max+ Green,Med Max Red,DX,Broken by ODR,RX,Broken by ODR,U,,,RDR Max+ Green,RDR Med Max Red
+27/09/2022,Tuesday,,,,,,,,,,,,,
+28/09/2022,Wednesday,Low ODR,High RDR,Med Max Red,Max+ Green,DXP,Broken by ODR,DXP,Intact,UXP,,Yes,ODR Med Max Red,RDR Max+ Green
+29/09/2022,Thursday,High ODR,Low RDR,Zero Min Red,Max+ Red,UXP,Intact,DXP,Broken by ODR,DX,,,ODR Zero Min Red,RDR Max+ Red
+30/09/2022,Friday,High ODR,Low RDR,Med Max Green,Max+ Red,RC,Broken by ADR,UX,Broken by RDR,DXP,,,ODR Med Max Green,RDR Max+ Red
+03/10/2022,Monday,,,,,,,,,,,,,
+04/10/2022,Tuesday,Low ODR,High RDR,Min Med Green,Max+ Green,UXP,Intact,UXP,Intact,UXP,,,ODR Min Med Green,RDR Max+ Green
+05/10/2022,Wednesday,Low RDR,High RDR,Med Max Red,Max+ Green,UX,Broken by RDR,DXP,Broken by RDR,DXP,,,RDR Med Max Red,RDR Max+ Green
+06/10/2022,Thursday,High RDR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by ADR,DXP,Broken by ODR,RX,,,RDR Min Med Green,RDR Med Max Red
+07/10/2022,Friday,,,,,,,,,,,,,
+10/10/2022,Monday,High TRN,Low RDR,Med Max Green,Max+ Red,DXP,Broken by ADR,UXP,Broken by RDR,RX,,,TRN Med Max Green,RDR Max+ Red
+11/10/2022,Tuesday,High ODR,Low RDR,Med Max Green,Max+ Red,DX,Broken by ODR,DXP,Broken by ODR,D,,Yes,ODR Med Max Green,RDR Max+ Red
+12/10/2022,Wednesday,,,,,,,,,,,,,
+13/10/2022,Thursday,,,,,,,,,,,,,
+14/10/2022,Friday,High TRN,Low RDR,Max+ Green,Max+ Red,UXP,Broken by ODR,UXP,Broken by ODR,RX,Yes,,TRN Max+ Green,RDR Max+ Red
+17/10/2022,Monday,,,,,,,,,,,,,
+18/10/2022,Tuesday,High RDR,Low RDR,Max+ Green,Med Max Red,UXP,Broken by RDR,UXP,Broken by RDR,U,,,RDR Max+ Green,RDR Med Max Red
+19/10/2022,Wednesday,,,,,,,,,,,,,
+20/10/2022,Thursday,High RDR,Low RDR,Max+ Green,Med Max Red,DXP,Broken by ADR,DX,Broken by RDR,UX,,,RDR Max+ Green,RDR Med Max Red
+21/10/2022,Friday,Low TRN,High RDR,Med Max Red,Max+ Green,DXP,Broken by ADR,UX,Broken by ODR,U,,,TRN Med Max Red,RDR Max+ Green
+24/10/2022,Monday,Low ODR,High RDR,Med Max Red,Med Max Green,UXP,Broken by ODR,DXP,Broken by RDR,U,Yes,,ODR Med Max Red,RDR Med Max Green
+25/10/2022,Tuesday,Low ODR,High RDR,Min Med Red,Max+ Green,UXP,Broken by ADR,U,Broken by ODR,UXP,,,ODR Min Med Red,RDR Max+ Green
+26/10/2022,Wednesday,,,,,,,,,,,,,
+27/10/2022,Thursday,High RDR,Low RDR,Med Max Green,Med Max Red,RC,Broken by ADR,DXP,Broken by ODR,RX,,,RDR Med Max Green,RDR Med Max Red
+28/10/2022,Friday,Low ODR,High RDR,Min Med Red,Max+ Green,DXP,Broken by ODR,DXP,Intact,UXP,Yes,,ODR Min Med Red,RDR Max+ Green
+31/10/2022,Monday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ADR,DX,Broken by RDR,DXP,,,ODR Zero Min Green,RDR Med Max Red
+01/11/2022,Tuesday,High TRN,Low RDR,Med Max Green,Max+ Red,UX,Broken by RDR,UXP,Broken by RDR,RX,,,TRN Med Max Green,RDR Max+ Red
+02/11/2022,Wednesday,,,,,,,,,,,,,
+03/11/2022,Thursday,,,,,,,,,,,,,
+04/11/2022,Friday,,,,,,,,,,,,,
+07/11/2022,Monday,Low ODR,High RDR,Zero Min Red,Max+ Green,RC,Broken by ODR,UX,Broken by RDR,UX,,,ODR Zero Min Red,RDR Max+ Green
+08/11/2022,Tuesday,High RDR,Low RDR,Max+ Green,Med Max Red,UXP,Broken by ODR,DXP,Broken by RDR,UXP,Yes,,RDR Max+ Green,RDR Med Max Red
+09/11/2022,Wednesday,High ODR,Low RDR,Min Med Green,Max+ Red,UX,Broken by ADR,U,Intact,DXP,,,ODR Min Med Green,RDR Max+ Red
+10/11/2022,Thursday,,,,,,,,,,,,,
+11/11/2022,Friday,Low RDR,High RDR,Med Max Red,Med Max Green,UXP,Broken by RDR,UXP,Broken by RDR,DX,,,RDR Med Max Red,RDR Med Max Green
+14/11/2022,Monday,High RDR,Low RDR,Max+ Green,Med Max Red,UXP,Broken by ADR,RC,Broken by ODR,RX,,,RDR Max+ Green,RDR Med Max Red
+15/11/2022,Tuesday,,,,,,,,,,,,,
+16/11/2022,Wednesday,,,,,,,,,,,,,
+17/11/2022,Thursday,High ODR,Low TRN,Min Med Green,Max+ Red,DX,Broken by ODR,U,Intact,DXP,,,ODR Min Med Green,TRN Max+ Red
+18/11/2022,Friday,High ODR,Low RDR,Med Max Green,Med Max Red,UXP,Broken by ODR,D,Broken by RDR,UXP,,,ODR Med Max Green,RDR Med Max Red
+21/11/2022,Monday,High RDR,Low RDR,Med Max Green,Min Med Red,DX,Broken by ODR,DX,Broken by ODR,RX,Yes,,RDR Med Max Green,RDR Min Med Red
+22/11/2022,Tuesday,Low ODR,High RDR,Min Med Red,Max+ Green,RC,Broken by ADR,DXP,Intact,UXP,,,ODR Min Med Red,RDR Max+ Green
+23/11/2022,Wednesday,,,,,,,,,,,,,
+24/11/2022,Thursday,Low ODR,High ODR,Zero Min Red,Zero Min Green,UXP,Broken by ADR,RX,Broken by ODR,UX,,,ODR Zero Min Red,ODR Zero Min Green
+25/11/2022,Friday,High ODR,Low RDR,Zero Min Green,Zero Min Red,DX,Broken by ADR,RX,Intact,DXP,,,ODR Zero Min Green,RDR Zero Min Red
+28/11/2022,Monday,High ODR,Low RDR,Min Med Green,Med Max Red,DXP,Broken by ADR,U,Broken by RDR,D,,,ODR Min Med Green,RDR Med Max Red
+29/11/2022,Tuesday,High ODR,Low RDR,Min Med Green,Med Max Red,DXP,Broken by ODR,UXP,Intact,DXP,Yes,,ODR Min Med Green,RDR Med Max Red
+30/11/2022,Wednesday,,,,,,,,,,,,,
+01/12/2022,Thursday,,,,,,,,,,,,,
+02/12/2022,Friday,,,,,,,,,,,,,
+05/12/2022,Monday,High ODR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by ADR,DXP,Intact,DXP,,,ODR Min Med Green,RDR Max+ Red
+06/12/2022,Tuesday,High ODR,Low RDR,Min Med Green,Max+ Red,DXP,Broken by ADR,D,Broken by ODR,DX,,,ODR Min Med Green,RDR Max+ Red
+07/12/2022,Wednesday,Low ODR,High RDR,Min Med Red,Med Max Green,DXP,Broken by ADR,D,Broken by RDR,RX,,,ODR Min Med Red,RDR Med Max Green
+08/12/2022,Thursday,Low ODR,High RDR,Zero Min Red,Med Max Green,DXP,Intact,UXP,Broken by RDR,U,,,ODR Zero Min Red,RDR Med Max Green
+09/12/2022,Friday,,,,,,,,,,,,,
+12/12/2022,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,DXP,Intact,UX,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+13/12/2022,Tuesday,,,,,,,,,,,,,
+14/12/2022,Wednesday,,,,,,,,,,,,,
+15/12/2022,Thursday,High ODR,Low RDR,Min Med Red,Max+ Red,DXP,Intact,DXP,Intact,DXP,,,ODR Min Med Red,RDR Max+ Red
+16/12/2022,Friday,High ODR,Low RDR,Zero Min Green,Med Max Red,DXP,Broken by ADR,DXP,Broken by RDR,D,,,ODR Zero Min Green,RDR Med Max Red
+19/12/2022,Monday,High ODR,Low RDR,Min Med Green,Max+ Green,RC,Broken by ADR,UXP,Intact,DXP,,,ODR Min Med Green,RDR Max+ Green
+20/12/2022,Tuesday,Low ODR,High RDR,Med Max Red,Min Med Green,DXP,Broken by RDR,DXP,Broken by RDR,U,,,ODR Med Max Red,RDR Min Med Green
+21/12/2022,Wednesday,,,,,,,,,,,,,
+22/12/2022,Thursday,High ODR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by ADR,U,Intact,DXP,,,ODR Min Med Green,RDR Max+ Red
+23/12/2022,Friday,Low RDR,High RDR,Max+ Red,Min Med Green,RC,Broken by RDR,UXP,Broken by RDR,RX,,,RDR Max+ Red,RDR Min Med Green
+26/12/2022,Monday,,,,,,,,,,,,,
+27/12/2022,Tuesday,High ODR,Low RDR,Med Max Green,Med Max Red,UXP,Broken by ADR,UX,Intact,DXP,,,ODR Med Max Green,RDR Med Max Red
+28/12/2022,Wednesday,High RDR,Low RDR,Med Max Green,Max+ Red,RC,Broken by ODR,UXP,Broken by RDR,RX,Yes,,RDR Med Max Green,RDR Max+ Red
+29/12/2022,Thursday,Low ODR,High RDR,Zero Min Red,Max+ Green,DXP,Intact,UX,Intact,UXP,,,ODR Zero Min Red,RDR Max+ Green
+30/12/2022,Friday,High ODR,Low RDR,Min Med Green,Med Max Red,UX,Intact,DXP,Broken by RDR,DX,,,ODR Min Med Green,RDR Med Max Red
+02/01/2023,Monday,,,,,,,,,,,,,
+03/01/2023,Tuesday,High ODR,Low RDR,Med Max Green,Max+ Red,UX,Broken by RDR,UXP,Broken by ODR,D,,,ODR Med Max Green,RDR Max+ Red
+04/01/2023,Wednesday,,,,,,,,,,,,,
+05/01/2023,Thursday,High ODR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by ODR,DXP,Broken by ODR,DXP,Yes,,ODR Min Med Green,RDR Med Max Red
+06/01/2023,Friday,,,,,,,,,,,,,
+09/01/2023,Monday,High RDR,Low RDR,Max+ Green,Min Med Red,UXP,Broken by ADR,DXP,Broken by RDR,UXP,,,RDR Max+ Green,RDR Min Med Red
+10/01/2023,Tuesday,,,,,,,,,,,,,
+11/01/2023,Wednesday,,,,,,,,,,,,,
+12/01/2023,Thursday,,,,,,,,,,,,,
+13/01/2023,Friday,Low TRN,High RDR,Med Max Red,Med Max Green,UX,Broken by ODR,DX,Broken by RDR,DX,Yes,,TRN Med Max Red,RDR Med Max Green
+16/01/2023,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by RDR,DXP,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+17/01/2023,Tuesday,,,,,,,,,,,,,
+18/01/2023,Wednesday,,,,,,,,,,,,,
+19/01/2023,Thursday,High RDR,Low RDR,Zero Min Green,Med Max Red,DXP,Broken by ODR,RX,Broken by RDR,DX,,,RDR Zero Min Green,RDR Med Max Red
+20/01/2023,Friday,Low ODR,High RDR,Zero Min Red,Max+ Green,RC,Broken by ADR,RX,Broken by ODR,RX,,,ODR Zero Min Red,RDR Max+ Green
+23/01/2023,Monday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ADR,UX,Broken by ODR,U,,,ODR Zero Min Red,RDR Max+ Green
+24/01/2023,Tuesday,,,,,,,,,,,,,
+25/01/2023,Wednesday,,,,,,,,,,,,,
+26/01/2023,Thursday,Low RDR,High RDR,Min Med Red,Med Max Green,UXP,Broken by ODR,UXP,Broken by ODR,RX,Yes,,RDR Min Med Red,RDR Med Max Green
+27/01/2023,Friday,Low ODR,High RDR,Zero Min Red,Max+ Green,UX,Broken by ADR,DXP,Broken by ODR,UXP,,,ODR Zero Min Red,RDR Max+ Green
+30/01/2023,Monday,High RDR,Low RDR,Min Med Green,Med Max Red,RC,Broken by RDR,DXP,Broken by ODR,UXP,,,RDR Min Med Green,RDR Med Max Red
+31/01/2023,Tuesday,Low ODR,High RDR,Med Max Red,Max+ Green,DXP,Broken by ADR,D,Broken by ODR,UX,,,ODR Med Max Red,RDR Max+ Green
+01/02/2023,Wednesday,,,,,,,,,,,,,
+02/02/2023,Thursday,Low ODR,High RDR,Min Med Red,Max+ Green,UXP,Broken by ADR,U,Intact,UX,,,ODR Min Med Red,RDR Max+ Green
+03/02/2023,Friday,,,,,,,,,,,,,
+06/02/2023,Monday,Low RDR,High RDR,Min Med Red,Min Med Green,DXP,Intact,DXP,Broken by RDR,D,,,RDR Min Med Red,RDR Min Med Green
+07/02/2023,Tuesday,,,,,,,,,,,,,
+08/02/2023,Wednesday,,,,,,,,,,,,,
+09/02/2023,Thursday,High ODR,Low RDR,Min Med Green,Max+ Red,DXP,Broken by RDR,UXP,Broken by RDR,D,,,ODR Min Med Green,RDR Max+ Red
+10/02/2023,Friday,Low ODR,High RDR,Min Med Red,Min Med Green,DXP,Broken by ADR,RX,Broken by RDR,RX,,,ODR Min Med Red,RDR Min Med Green
+13/02/2023,Monday,,,,,,,,,,,,,
+14/02/2023,Tuesday,,,,,,,,,,,,,
+15/02/2023,Wednesday,,,,,,,,,,,,,
+16/02/2023,Thursday,,,,,,,,,,,,,
+17/02/2023,Friday,Low ODR,High RDR,Med Max Red,Zero Min Green,DXP,Intact,DXP,Broken by RDR,RX,,,ODR Med Max Red,RDR Zero Min Green
+20/02/2023,Monday,High ODR,Low RDR,Zero Min Green,Zero Min Red,UX,Broken by ODR,UX,Broken by ODR,DXP,,,ODR Zero Min Green,RDR Zero Min Red
+21/02/2023,Tuesday,,,,,,,,,,,,,
+22/02/2023,Wednesday,,,,,,,,,,,,,
+23/02/2023,Thursday,High RDR,Low RDR,Med Max Green,Med Max Red,RC,Broken by ODR,UXP,Broken by ODR,UX,Yes,,RDR Med Max Green,RDR Med Max Red
+24/02/2023,Friday,High ODR,Low RDR,Zero Min Green,Med Max Red,DX,Intact,DXP,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+27/02/2023,Monday,High RDR,Low RDR,Med Max Green,Min Med Red,UXP,Broken by ADR,UXP,Broken by RDR,UXP,,,RDR Med Max Green,RDR Min Med Red
+28/02/2023,Tuesday,Low ODR,High ODR,Min Med Red,Min Med Green,DXP,Broken by ODR,DXP,Broken by RDR,U,,,ODR Min Med Red,ODR Min Med Green
+01/03/2023,Wednesday,,,,,,,,,,,,,
+02/03/2023,Thursday,Low ODR,High RDR,Med Max Red,Max+ Green,D,Broken by RDR,DXP,Broken by ODR,UX,,,ODR Med Max Red,RDR Max+ Green
+03/03/2023,Friday,Low ODR,High RDR,Min Med Red,Max+ Green,UXP,Broken by ADR,U,Broken by ODR,UXP,,,ODR Min Med Red,RDR Max+ Green
+06/03/2023,Monday,,,,,,,,,,,,,
+07/03/2023,Tuesday,,,,,,,,,,,,,
+08/03/2023,Wednesday,,,,,,,,,,,,,
+09/03/2023,Thursday,High RDR,Low RDR,Max+ Green,Max+ Red,RC,Broken by ADR,DX,Broken by ODR,UXP,,,RDR Max+ Green,RDR Max+ Red
+10/03/2023,Friday,,,,,,,,,,,,,
+13/03/2023,Monday,High ODR,Low TRN,Med Max Green,Max+ Red,UXP,Broken by ODR,UX,Intact,DXP,Yes,,ODR Med Max Green,TRN Max+ Red
+14/03/2023,Tuesday,,,,,,,,,,,,,
+15/03/2023,Wednesday,,,,,,,,,,,,,
+16/03/2023,Thursday,Low RDR,High RDR,Med Max Red,Max+ Green,UXP,Broken by ODR,U,Broken by RDR,DXP,,,RDR Med Max Red,RDR Max+ Green
+17/03/2023,Friday,High ODR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by ODR,UXP,Intact,DXP,Yes,,ODR Min Med Green,RDR Max+ Red
+20/03/2023,Monday,Low ODR,High RDR,Max+ Red,Max+ Green,RC,Broken by RDR,DXP,Intact,UXP,,,ODR Max+ Red,RDR Max+ Green
+21/03/2023,Tuesday,,,,,,,,,,,,,
+22/03/2023,Wednesday,,,,,,,,,,,,,
+23/03/2023,Thursday,High RDR,Low RDR,Med Max Green,Med Max Red,DXP,Broken by RDR,UXP,Broken by ODR,UXP,,,RDR Med Max Green,RDR Med Max Red
+24/03/2023,Friday,Low ODR,High RDR,Max+ Red,Med Max Green,DXP,Broken by ODR,UXP,Broken by RDR,DXP,Yes,,ODR Max+ Red,RDR Med Max Green
+27/03/2023,Monday,Low ODR,High RDR,Med Max Red,Min Med Green,UXP,Broken by ADR,D,Broken by RDR,UX,,,ODR Med Max Red,RDR Min Med Green
+28/03/2023,Tuesday,High ODR,Low RDR,Min Med Green,Med Max Red,DXP,Broken by ODR,RX,Intact,DXP,,,ODR Min Med Green,RDR Med Max Red
+29/03/2023,Wednesday,,,,,,,,,,,,,
+30/03/2023,Thursday,,,,,,,,,,,,,
+31/03/2023,Friday,Low ODR,High RDR,Zero Min Red,Max+ Green,UX,Broken by ADR,DX,Broken by ODR,UXP,,,ODR Zero Min Red,RDR Max+ Green
+03/04/2023,Monday,,,,,,,,,,,,,
+04/04/2023,Tuesday,High ODR,Low RDR,Min Med Green,Max+ Red,RC,Broken by ADR,U,Broken by RDR,RX,,,ODR Min Med Green,RDR Max+ Red
+05/04/2023,Wednesday,High ODR,Low RDR,Min Med Green,Min Med Red,DXP,Intact,DXP,Broken by RDR,DX,,,ODR Min Med Green,RDR Min Med Red
+06/04/2023,Thursday,Low RDR,High RDR,Min Med Red,Min Med Green,DX,Broken by ADR,UX,Broken by ODR,DXP,,,RDR Min Med Red,RDR Min Med Green
+07/04/2023,Friday,,,,,,,,,,,,,
+10/04/2023,Monday,Low RDR,High RDR,Min Med Red,Min Med Green,UXP,Broken by ODR,DXP,Broken by RDR,DXP,Yes,,RDR Min Med Red,RDR Min Med Green
+11/04/2023,Tuesday,Low RDR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ADR,DX,Broken by ODR,D,,,RDR Zero Min Red,RDR Min Med Green
+12/04/2023,Wednesday,,,,,,,,,,,,,
+13/04/2023,Thursday,,,,,,,,,,,,,
+14/04/2023,Friday,High RDR,Low RDR,Zero Min Green,Max+ Red,UXP,Broken by ADR,D,Broken by ODR,RX,,,RDR Zero Min Green,RDR Max+ Red
+17/04/2023,Monday,Low RDR,High RDR,Min Med Red,Zero Min Green,RC,Broken by ADR,U,Broken by RDR,DXP,,,RDR Min Med Red,RDR Zero Min Green
+18/04/2023,Tuesday,,,,,,,,,,,,,
+19/04/2023,Wednesday,,,,,,,,,,,,,
+20/04/2023,Thursday,High RDR,Low RDR,Min Med Green,Min Med Red,UX,Broken by ADR,DX,Broken by RDR,RC,,,RDR Min Med Green,RDR Min Med Red
+21/04/2023,Friday,Low RDR,High RDR,Min Med Red,Min Med Green,RC,Broken by ADR,DXP,Broken by RDR,RX,,,RDR Min Med Red,RDR Min Med Green
+24/04/2023,Monday,Low ODR,High RDR,Zero Min Red,Min Med Green,RC,Broken by ODR,DXP,Intact,UXP,Yes,,ODR Zero Min Red,RDR Min Med Green
+25/04/2023,Tuesday,High ODR,Low RDR,Zero Min Green,Med Max Red,DX,Intact,DXP,Broken by ODR,D,,,ODR Zero Min Green,RDR Med Max Red
+26/04/2023,Wednesday,,,,,,,,,,,,,
+27/04/2023,Thursday,Low ODR,High RDR,Min Med Red,Max+ Green,DX,Intact,UXP,Broken by ODR,UXP,,,ODR Min Med Red,RDR Max+ Green
+28/04/2023,Friday,,,,,,,,,,,,,
+01/05/2023,Monday,Low TRN,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,UXP,Broken by RDR,RX,Yes,,TRN Zero Min Red,RDR Min Med Green
+02/05/2023,Tuesday,High ODR,Low RDR,Zero Min Green,Max+ Red,DXP,Broken by ODR,UXP,Intact,DXP,Yes,,ODR Zero Min Green,RDR Max+ Red
+03/05/2023,Wednesday,,,,,,,,,,,,,
+04/05/2023,Thursday,High ODR,Low RDR,Min Med Green,Med Max Red,DXP,Broken by ODR,UXP,Intact,DXP,Yes,,ODR Min Med Green,RDR Med Max Red
+05/05/2023,Friday,,,,,,,,,,,,,
+08/05/2023,Monday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ADR,UX,Broken by RDR,D,,,ODR Zero Min Green,RDR Med Max Red
+09/05/2023,Tuesday,High ODR,Low RDR,Min Med Green,Zero Min Red,RC,Broken by ADR,DXP,Intact,DXP,,,ODR Min Med Green,RDR Zero Min Red
+10/05/2023,Wednesday,,,,,,,,,,,,,
+11/05/2023,Thursday,,,,,,,,,,,,,
+12/05/2023,Friday,High ODR,Low RDR,Zero Min Green,Max+ Red,UXP,Broken by RDR,UXP,Broken by ODR,D,,,ODR Zero Min Green,RDR Max+ Red
+15/05/2023,Monday,High ODR,Low RDR,Min Med Green,Med Max Red,DXP,Broken by RDR,UXP,Broken by RDR,DXP,,,ODR Min Med Green,RDR Med Max Red
+16/05/2023,Tuesday,,,,,,,,,,,,,
+17/05/2023,Wednesday,Low ODR,High RDR,Zero Min Red,Med Max Green,DX,Broken by ADR,RX,Broken by ODR,UX,,,ODR Zero Min Red,RDR Med Max Green
+18/05/2023,Thursday,Low TRN,High RDR,Med Max Red,Med Max Green,UXP,Broken by ADR,UX,Broken by ODR,RX,,,TRN Med Max Red,RDR Med Max Green
+19/05/2023,Friday,,,,,,,,,,,,,
+22/05/2023,Monday,High RDR,Low RDR,Min Med Green,Min Med Red,DXP,Broken by ADR,D,Broken by RDR,RX,,,RDR Min Med Green,RDR Min Med Red
+23/05/2023,Tuesday,High ODR,Low RDR,Zero Min Green,Med Max Red,RC,Intact,DXP,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+24/05/2023,Wednesday,,,,,,,,,,,,,
+25/05/2023,Thursday,Low ODR,High RDR,Min Med Red,Min Med Green,UXP,Broken by ADR,RX,Broken by RDR,U,,,ODR Min Med Red,RDR Min Med Green
+26/05/2023,Friday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ADR,RX,Intact,UXP,,,ODR Zero Min Red,RDR Max+ Green
+29/05/2023,Monday,High ODR,Low TRN,Zero Min Green,Zero Min Red,UXP,Broken by ADR,D,Intact,DXP,,,ODR Zero Min Green,TRN Zero Min Red
+30/05/2023,Tuesday,High ODR,Low RDR,Min Med Green,Med Max Red,RC,Broken by ODR,U,Broken by RDR,RX,,,ODR Min Med Green,RDR Med Max Red
+31/05/2023,Wednesday,High ODR,Low RDR,Zero Min Green,Min Med Red,DXP,Intact,DXP,Broken by RDR,DX,,,ODR Zero Min Green,RDR Min Med Red
+01/06/2023,Thursday,,,,,,,,,,,,,
+02/06/2023,Friday,,,,,,,,,,,,,
+05/06/2023,Monday,,,,,,,,,,,,,
+06/06/2023,Tuesday,Low RDR,High RDR,Min Med Red,Min Med Green,DXP,Broken by ADR,UXP,Broken by RDR,D,,,RDR Min Med Red,RDR Min Med Green
+07/06/2023,Wednesday,High RDR,Low RDR,Min Med Green,Min Med Red,UXP,Broken by ODR,DXP,Broken by ODR,UXP,Yes,,RDR Min Med Green,RDR Min Med Red
+08/06/2023,Thursday,Low RDR,High RDR,Min Med Red,Med Max Green,DXP,Broken by ODR,DX,Broken by RDR,RX,Yes,,RDR Min Med Red,RDR Med Max Green
+09/06/2023,Friday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ADR,DXP,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+12/06/2023,Monday,Low RDR,High RDR,Zero Min Red,Med Max Green,RC,Broken by ODR,UXP,Broken by ODR,DX,Yes,,RDR Zero Min Red,RDR Med Max Green
+13/06/2023,Tuesday,,,,,,,,,,,,,
+14/06/2023,Wednesday,,,,,,,,,,,,,
+15/06/2023,Thursday,Low TRN,High RDR,Min Med Red,Max+ Green,RC,Broken by RDR,DXP,Broken by RDR,U,,,TRN Min Med Red,RDR Max+ Green
+16/06/2023,Friday,High TRN,Low RDR,Min Med Green,Min Med Red,UXP,Broken by ADR,RX,Broken by RDR,UXP,,,TRN Min Med Green,RDR Min Med Red
+19/06/2023,Monday,High ODR,Low RDR,Min Med Green,Zero Min Red,DXP,Broken by ODR,RC,Intact,DXP,,,ODR Min Med Green,RDR Zero Min Red
+20/06/2023,Tuesday,Low ODR,High RDR,Zero Min Green,Min Med Red,RC,Broken by ODR,D,Broken by RDR,DX,,,ODR Zero Min Green,RDR Min Med Red
+21/06/2023,Wednesday,,,,,,,,,,,,,
+22/06/2023,Thursday,,,,,,,,,,,,,
+23/06/2023,Friday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Intact,DXP,Broken by RDR,DXP,,,ODR Zero Min Green,RDR Med Max Red
+26/06/2023,Monday,High RDR,Low RDR,Med Max Green,Min Med Red,UX,Broken by ADR,DXP,Broken by ODR,UX,,,RDR Med Max Green,RDR Min Med Red
+27/06/2023,Tuesday,,,,,,,,,,,,,
+28/06/2023,Wednesday,,,,,,,,,,,,,
+29/06/2023,Thursday,,,,,,,,,,,,,
+30/06/2023,Friday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Intact,UX,Intact,UXP,,,ODR Zero Min Red,RDR Max+ Green
+03/07/2023,Monday,,,,,,,,,,,,,
+04/07/2023,Tuesday,High ODR,Low ODR,Zero Min Red,Zero Min Red,UX,Broken by ODR,UXP,Intact,DX,Yes,,ODR Zero Min Red,ODR Zero Min Red
+05/07/2023,Wednesday,,,,,,,,,,,,,
+06/07/2023,Thursday,High ODR,Low RDR,Zero Min Green,Med Max Red,RC,Intact,DXP,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+07/07/2023,Friday,,,,,,,,,,,,,
+10/07/2023,Monday,Low ODR,High RDR,Min Med Red,Min Med Green,DXP,Broken by ODR,DXP,Intact,UXP,Yes,,ODR Min Med Red,RDR Min Med Green
+11/07/2023,Tuesday,Low ODR,High RDR,Zero Min Red,Min Med Green,UX,Broken by ODR,UX,Broken by RDR,RX,,,ODR Zero Min Red,RDR Min Med Green
+12/07/2023,Wednesday,,,,,,,,,,,,,
+13/07/2023,Thursday,,,,,,,,,,,,,
+14/07/2023,Friday,High RDR,Low RDR,Min Med Green,Min Med Red,UXP,Broken by ADR,UX,Broken by RDR,UXP,,,RDR Min Med Green,RDR Min Med Red
+17/07/2023,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,DXP,Broken by ODR,UXP,Broken by ODR,UXP,Yes,,ODR Zero Min Red,RDR Med Max Green
+18/07/2023,Tuesday,,,,,,,,,,,,,
+19/07/2023,Wednesday,,,,,,,,,,,,,
+20/07/2023,Thursday,High RDR,Low RDR,Zero Min Green,Med Max Red,DXP,Broken by ADR,U,Broken by ODR,RX,,,RDR Zero Min Green,RDR Med Max Red
+21/07/2023,Friday,High TRN,Low RDR,Min Med Green,Min Med Red,DXP,Broken by RDR,UXP,Broken by RDR,RX,,,TRN Min Med Green,RDR Min Med Red
+24/07/2023,Monday,Low ODR,High RDR,Min Med Red,Min Med Green,DXP,Broken by ADR,UXP,Broken by RDR,UX,,,ODR Min Med Red,RDR Min Med Green
+25/07/2023,Tuesday,Low TRN,High RDR,Min Med Red,Min Med Green,UX,Broken by ADR,U,Broken by ODR,U,,,TRN Min Med Red,RDR Min Med Green
+26/07/2023,Wednesday,,,,,,,,,,,,,
+27/07/2023,Thursday,High TRN,Low RDR,Min Med Green,Max+ Red,UXP,Broken by RDR,UXP,Broken by RDR,UX,,,TRN Min Med Green,RDR Max+ Red
+28/07/2023,Friday,Low ODR,High RDR,Zero Min Red,Med Max Green,DXP,Intact,UXP,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+31/07/2023,Monday,High RDR,Low RDR,Zero Min Green,Zero Min Red,UXP,Broken by ODR,DXP,Broken by RDR,UX,Yes,,RDR Zero Min Green,RDR Zero Min Red
+01/08/2023,Tuesday,High ODR,Low RDR,Min Med Green,Zero Min Green,UX,Intact,DXP,Intact,DXP,,,ODR Min Med Green,RDR Zero Min Green
+02/08/2023,Wednesday,High ODR,Low RDR,Zero Min Green,Med Max Red,DXP,Intact,DXP,Broken by ODR,DX,,,ODR Zero Min Green,RDR Med Max Red
+03/08/2023,Thursday,,,,,,,,,,,,,
+04/08/2023,Friday,,,,,,,,,,,,,
+07/08/2023,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,DXP,Broken by ODR,UXP,Broken by ODR,U,Yes,,ODR Zero Min Red,RDR Med Max Green
+08/08/2023,Tuesday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Intact,DXP,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+09/08/2023,Wednesday,,,,,,,,,,,,,
+10/08/2023,Thursday,,,,,,,,,,,,,
+11/08/2023,Friday,,,,,,,,,,,,,
+14/08/2023,Monday,Low RDR,High RDR,Min Med Red,Min Med Green,RC,Broken by ODR,RX,Broken by RDR,DX,,,RDR Min Med Red,RDR Min Med Green
+15/08/2023,Tuesday,,,,,,,,,,,,,
+16/08/2023,Wednesday,,,,,,,,,,,,,
+17/08/2023,Thursday,High TRN,Low RDR,Zero Min Green,Max+ Red,DXP,Broken by RDR,UX,Broken by RDR,U,,,TRN Zero Min Green,RDR Max+ Red
+18/08/2023,Friday,Low RDR,High RDR,Min Med Red,Min Med Green,DXP,Broken by ODR,RX,Broken by RDR,DXP,,,RDR Min Med Red,RDR Min Med Green
+21/08/2023,Monday,Low RDR,High RDR,Min Med Red,Med Max Green,UXP,Broken by ODR,RX,Broken by RDR,U,,,RDR Min Med Red,RDR Med Max Green
+22/08/2023,Tuesday,High ODR,Low RDR,Min Med Green,Med Max Red,UX,Broken by RDR,UXP,Broken by RDR,RX,,,ODR Min Med Green,RDR Med Max Red
+23/08/2023,Wednesday,Low ODR,High RDR,Zero Min Red,Med Max Green,DXP,Broken by ODR,UXP,Broken by RDR,RX,Yes,,ODR Zero Min Red,RDR Med Max Green
+24/08/2023,Thursday,High ODR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by ODR,UXP,Intact,DXP,,,ODR Min Med Green,RDR Max+ Red
+25/08/2023,Friday,,,,,,,,,,,,,
+28/08/2023,Monday,Low ODR,High RDR,Min Med Red,Med Max Green,UXP,Broken by ODR,U,Intact,UXP,,,ODR Min Med Red,RDR Med Max Green
+29/08/2023,Tuesday,Low TRN,High RDR,Zero Min Red,Max+ Green,RC,Broken by ODR,U,Broken by RDR,U,,,TRN Zero Min Red,RDR Max+ Green
+30/08/2023,Wednesday,,,,,,,,,,,,,
+31/08/2023,Thursday,High TRN,Low RDR,Zero Min Green,Min Med Green,RC,Broken by ADR,U,Broken by ODR,UX,,,TRN Zero Min Green,RDR Min Med Green
+01/09/2023,Friday,,,,,,,,,,,,,
+04/09/2023,Monday,High ODR,Low RDR,Zero Min Red,Med Max Red,DXP,Broken by RDR,UXP,Broken by ODR,D,,,ODR Zero Min Red,RDR Med Max Red
+05/09/2023,Tuesday,Low ODR,High RDR,Zero Min Red,Min Med Green,DX,Broken by ODR,DXP,Broken by ODR,RX,,Yes,ODR Zero Min Red,RDR Min Med Green
+06/09/2023,Wednesday,High ODR,Low RDR,Min Med Green,Med Max Red,DXP,Intact,DXP,Broken by ODR,DX,,,ODR Min Med Green,RDR Med Max Red
+07/09/2023,Thursday,High ODR,Low RDR,Zero Min Red,Med Max Red,DX,Intact,DXP,Broken by RDR,DXP,,,ODR Zero Min Red,RDR Med Max Red
+08/09/2023,Friday,Low ODR,High RDR,Min Med Red,Min Med Green,UXP,Broken by ODR,UXP,Broken by RDR,UX,Yes,,ODR Min Med Red,RDR Min Med Green
+11/09/2023,Monday,High RDR,Low RDR,Min Med Green,Zero Min Red,DX,Intact,UXP,Broken by RDR,RX,,,RDR Min Med Green,RDR Zero Min Red
+12/09/2023,Tuesday,High RDR,Low RDR,Min Med Green,Min Med Red,RC,Broken by ADR,D,Broken by ODR,DX,,,RDR Min Med Green,RDR Min Med Red
+13/09/2023,Wednesday,,,,,,,,,,,,,
+14/09/2023,Thursday,,,,,,,,,,,,,
+15/09/2023,Friday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ODR,U,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+18/09/2023,Monday,Low ODR,High RDR,Zero Min Red,Min Med Green,DXP,Broken by ADR,RX,Broken by RDR,DXP,,,ODR Zero Min Red,RDR Min Med Green
+19/09/2023,Tuesday,,,,,,,,,,,,,
+20/09/2023,Wednesday,,,,,,,,,,,,,
+21/09/2023,Thursday,High ODR,Low RDR,Min Med Green,Med Max Red,DXP,Intact,DXP,Intact,DXP,,,ODR Min Med Green,RDR Med Max Red
+22/09/2023,Friday,High RDR,Low RDR,Min Med Green,Med Max Red,DXP,Broken by RDR,UXP,Broken by RDR,RX,,,RDR Min Med Green,RDR Med Max Red
+25/09/2023,Monday,High ODR,Low TRN,Min Med Green,Med Max Red,DXP,Broken by ODR,UXP,Broken by RDR,DXP,Yes,,ODR Min Med Green,TRN Med Max Red
+26/09/2023,Tuesday,High ODR,Low RDR,Zero Min Red,Max+ Red,UXP,Intact,DXP,Broken by ODR,D,,,ODR Zero Min Red,RDR Max+ Red
+27/09/2023,Wednesday,,,,,,,,,,,,,
+28/09/2023,Thursday,,,,,,,,,,,,,
+29/09/2023,Friday,High RDR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by RDR,UXP,Broken by RDR,UX,,,RDR Min Med Green,RDR Max+ Red
+02/10/2023,Monday,,,,,,,,,,,,,
+03/10/2023,Tuesday,,,,,,,,,,,,,
+04/10/2023,Wednesday,Low ODR,High RDR,Med Max Red,Med Max Green,DXP,Broken by ODR,DXP,Intact,UXP,Yes,,ODR Med Max Red,RDR Med Max Green
+05/10/2023,Thursday,High ODR,Low RDR,Med Max Green,Med Max Red,UXP,Broken by ADR,DX,Broken by ODR,RX,,,ODR Med Max Green,RDR Med Max Red
+06/10/2023,Friday,,,,,,,,,,,,,
+09/10/2023,Monday,Low ODR,High RDR,Min Med Red,Max+ Green,UXP,Broken by ADR,D,Intact,UXP,,,ODR Min Med Red,RDR Max+ Green
+10/10/2023,Tuesday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ADR,UX,Broken by ODR,UX,,,ODR Zero Min Red,RDR Max+ Green
+11/10/2023,Wednesday,,,,,,,,,,,,,
+12/10/2023,Thursday,,,,,,,,,,,,,
+13/10/2023,Friday,,,,,,,,,,,,,
+16/10/2023,Monday,,,,,,,,,,,,,
+17/10/2023,Tuesday,,,,,,,,,,,,,
+18/10/2023,Wednesday,,,,,,,,,,,,,
+19/10/2023,Thursday,,,,,,,,,,,,,
+20/10/2023,Friday,High ODR,Low RDR,Zero Min Green,Max+ Red,DXP,Broken by ADR,RX,Broken by ODR,RX,,,ODR Zero Min Green,RDR Max+ Red
+23/10/2023,Monday,Low RDR,High RDR,Med Max Red,Max+ Green,DXP,Broken by ADR,DX,Broken by RDR,D,,,RDR Med Max Red,RDR Max+ Green
+24/10/2023,Tuesday,High RDR,Low RDR,Med Max Green,Min Med Red,UX,Broken by ODR,UX,Broken by RDR,UXP,,,RDR Med Max Green,RDR Min Med Red
+25/10/2023,Wednesday,,,,,,,,,,,,,
+26/10/2023,Thursday,High RDR,Low RDR,Min Med Green,Med Max Red,DXP,Broken by ODR,DXP,Broken by ODR,U,,,RDR Min Med Green,RDR Med Max Red
+27/10/2023,Friday,High ODR,Low RDR,Min Med Green,Max+ Red,DX,Broken by ODR,RC,Broken by ODR,DXP,,Yes,ODR Min Med Green,RDR Max+ Red
+30/10/2023,Monday,,,,,,,,,,,,,
+31/10/2023,Tuesday,Low RDR,High RDR,Zero Min Red,Med Max Green,UX,Broken by ODR,DX,Broken by ODR,RX,Yes,,RDR Zero Min Red,RDR Med Max Green
+01/11/2023,Wednesday,,,,,,,,,,,,,
+02/11/2023,Thursday,,,,,,,,,,,,,
+03/11/2023,Friday,,,,,,,,,,,,,
+06/11/2023,Monday,High RDR,Low RDR,Zero Min Red,Med Max Red,UX,Broken by RDR,UXP,Broken by ODR,RX,,,RDR Zero Min Red,RDR Med Max Red
+07/11/2023,Tuesday,Low ODR,High RDR,Min Med Red,Min Med Green,DX,Broken by ODR,RX,Broken by RDR,U,,,ODR Min Med Red,RDR Min Med Green
+08/11/2023,Wednesday,,,,,,,,,,,,,
+09/11/2023,Thursday,,,,,,,,,,,,,
+10/11/2023,Friday,Low ODR,High RDR,Min Med Red,Max+ Green,DXP,Broken by ODR,UXP,Broken by RDR,UX,Yes,,ODR Min Med Red,RDR Max+ Green
+13/11/2023,Monday,Low RDR,High RDR,Min Med Red,Min Med Green,UXP,Broken by ODR,D,Broken by ODR,DX,,,RDR Min Med Red,RDR Min Med Green
+14/11/2023,Tuesday,,,,,,,,,,,,,
+15/11/2023,Wednesday,,,,,,,,,,,,,
+16/11/2023,Thursday,High RDR,Low RDR,Min Med Green,Min Med Red,DXP,Broken by ADR,RC,Broken by ODR,RX,,,RDR Min Med Green,RDR Min Med Red
+17/11/2023,Friday,High ODR,Low RDR,Zero Min Red,Med Max Red,UXP,Broken by ADR,UXP,Broken by ODR,DXP,,,ODR Zero Min Red,RDR Med Max Red
+20/11/2023,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ODR,RX,Broken by ODR,UXP,,,ODR Zero Min Red,RDR Med Max Green
+21/11/2023,Tuesday,,,,,,,,,,,,,
+22/11/2023,Wednesday,Low ODR,High RDR,Zero Min Red,Med Max Green,RC,Broken by ADR,UX,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+23/11/2023,Thursday,Low ODR,High RDR,Zero Min Red,Zero Min Green,RC,Intact,UXP,Broken by ODR,RC,,,ODR Zero Min Red,RDR Zero Min Green
+24/11/2023,Friday,High ODR,Low RDR,Zero Min Green,Zero Min Red,UX,Broken by ODR,DXP,Broken by ODR,D,Yes,,ODR Zero Min Green,RDR Zero Min Red
+27/11/2023,Monday,Low ODR,High RDR,Zero Min Red,Zero Min Green,DXP,Broken by ODR,RC,Broken by ODR,RX,,,ODR Zero Min Red,RDR Zero Min Green
+28/11/2023,Tuesday,Low ODR,High RDR,Zero Min Red,Med Max Green,RC,Broken by ADR,DXP,Broken by ODR,RX,,,ODR Zero Min Red,RDR Med Max Green
+29/11/2023,Wednesday,,,,,,,,,,,,,
+30/11/2023,Thursday,High TRN,Low RDR,Zero Min Green,Min Med Red,DXP,Broken by ODR,RX,Broken by RDR,D,,,TRN Zero Min Green,RDR Min Med Red
+01/12/2023,Friday,,,,,,,,,,,,,
+04/12/2023,Monday,,,,,,,,,,,,,
+05/12/2023,Tuesday,Low ODR,High RDR,Zero Min Green,Med Max Green,RC,Broken by ODR,DXP,Broken by ODR,RX,,,ODR Zero Min Green,RDR Med Max Green
+06/12/2023,Wednesday,High TRN,Low RDR,Min Med Green,Med Max Red,UXP,Broken by ADR,U,Broken by RDR,RX,,,TRN Min Med Green,RDR Med Max Red
+07/12/2023,Thursday,Low ODR,High RDR,Zero Min Red,Med Max Green,DXP,Broken by ADR,RX,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+08/12/2023,Friday,,,,,,,,,,,,,
+11/12/2023,Monday,Low ODR,High RDR,Zero Min Green,Med Max Green,UX,Broken by ODR,DXP,Broken by ODR,U,Yes,,ODR Zero Min Green,RDR Med Max Green
+12/12/2023,Tuesday,,,,,,,,,,,,,
+13/12/2023,Wednesday,,,,,,,,,,,,,
+14/12/2023,Thursday,High RDR,Low RDR,Min Med Green,Min Med Red,UXP,Broken by ADR,RX,Broken by ODR,U,,,RDR Min Med Green,RDR Min Med Red
+15/12/2023,Friday,High ODR,Low RDR,Zero Min Green,Min Med Red,DXP,Broken by ODR,UXP,Broken by ODR,DXP,,Yes,ODR Zero Min Green,RDR Min Med Red
+18/12/2023,Monday,Low ODR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,D,Intact,UXP,,,ODR Zero Min Red,RDR Min Med Green
+19/12/2023,Tuesday,,,,,,,,,,,,,
+20/12/2023,Wednesday,,,,,,,,,,,,,
+21/12/2023,Thursday,Low RDR,High RDR,Med Max Red,Min Med Green,DXP,Broken by RDR,UXP,Broken by ODR,UX,,,RDR Med Max Red,RDR Min Med Green
+22/12/2023,Friday,High RDR,Low RDR,Med Max Green,Zero Min Red,UX,Broken by ODR,D,Broken by ODR,UXP,,,RDR Med Max Green,RDR Zero Min Red
+25/12/2023,Monday,,,,,,,,,,,,,
+26/12/2023,Tuesday,Low ODR,High TRN,Zero Min Red,Med Max Green,DXP,Broken by ODR,UXP,Broken by RDR,RX,Yes,,ODR Zero Min Red,TRN Med Max Green
+27/12/2023,Wednesday,High RDR,Low RDR,Zero Min Green,Min Med Red,UXP,Broken by ODR,RX,Broken by ODR,RX,,,RDR Zero Min Green,RDR Min Med Red
+28/12/2023,Thursday,High ODR,Low RDR,Zero Min Green,Zero Min Red,UXP,Broken by ODR,RX,Broken by RDR,DX,,,ODR Zero Min Green,RDR Zero Min Red
+29/12/2023,Friday,High ODR,Low RDR,Zero Min Green,Med Max Red,RC,Broken by ODR,UXP,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+01/01/2024,Monday,,,,,,,,,,,,,
+02/01/2024,Tuesday,High ODR,Low RDR,Zero Min Green,Max+ Red,DXP,Broken by ADR,UXP,Intact,DXP,,,ODR Zero Min Green,RDR Max+ Red
+03/01/2024,Wednesday,,,,,,,,,,,,,
+04/01/2024,Thursday,High RDR,Low RDR,Min Med Green,Min Med Red,DXP,Broken by ODR,RX,Broken by RDR,RX,,,RDR Min Med Green,RDR Min Med Red
+05/01/2024,Friday,,,,,,,,,,,,,
+08/01/2024,Monday,,,,,,,,,,,,,
+09/01/2024,Tuesday,Low RDR,High RDR,Min Med Red,Med Max Green,UXP,Broken by RDR,DXP,Broken by RDR,DXP,,,RDR Min Med Red,RDR Med Max Green
+10/01/2024,Wednesday,,,,,,,,,,,,,
+11/01/2024,Thursday,,,,,,,,,,,,,
+12/01/2024,Friday,,,,,,,,,,,,,
+15/01/2024,Monday,High ODR,Low ODR,Min Med Green,Zero Min Red,DX,Broken by ODR,U,Broken by RDR,DX,,,ODR Min Med Green,ODR Zero Min Red
+16/01/2024,Tuesday,,,,,,,,,,,,,
+17/01/2024,Wednesday,,,,,,,,,,,,,
+18/01/2024,Thursday,Low RDR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ADR,UX,Broken by RDR,UXP,,,RDR Zero Min Red,RDR Med Max Green
+19/01/2024,Friday,Low RDR,High RDR,Min Med Red,Med Max Green,UXP,Intact,UXP,Broken by ODR,RX,,,RDR Min Med Red,RDR Med Max Green
+22/01/2024,Monday,High RDR,Low RDR,Min Med Green,Min Med Red,UXP,Broken by ODR,RC,Broken by RDR,UXP,,,RDR Min Med Green,RDR Min Med Red
+23/01/2024,Tuesday,,,,,,,,,,,,,
+24/01/2024,Wednesday,High RDR,Low RDR,Min Med Green,Med Max Red,UXP,Broken by RDR,UXP,Broken by RDR,RX,,,RDR Min Med Green,RDR Med Max Red
+25/01/2024,Thursday,Low TRN,High RDR,Zero Min Green,Med Max Green,DXP,Broken by ODR,U,Broken by ODR,UXP,,,TRN Zero Min Green,RDR Med Max Green
+26/01/2024,Friday,Low ODR,High RDR,Zero Min Red,Med Max Green,DX,Broken by ODR,DXP,Intact,UXP,Yes,,ODR Zero Min Red,RDR Med Max Green
+29/01/2024,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,DXP,Intact,UXP,Broken by ODR,UX,,,ODR Zero Min Red,RDR Med Max Green
+30/01/2024,Tuesday,Low ODR,High RDR,Zero Min Green,Min Med Green,UXP,Broken by RDR,DXP,Broken by RDR,U,,,ODR Zero Min Green,RDR Min Med Green
+31/01/2024,Wednesday,,,,,,,,,,,,,
+01/02/2024,Thursday,Low ODR,High RDR,Min Med Red,Med Max Green,DXP,Broken by ADR,UX,Broken by ODR,UXP,,,ODR Min Med Red,RDR Med Max Green
+02/02/2024,Friday,,,,,,,,,,,,,
+05/02/2024,Monday,,,,,,,,,,,,,
+06/02/2024,Tuesday,Low ODR,High RDR,Min Med Red,Min Med Green,RC,Broken by ODR,UXP,Broken by ODR,RX,,,ODR Min Med Red,RDR Min Med Green
+07/02/2024,Wednesday,Low ODR,High RDR,Zero Min Green,Max+ Green,UX,Broken by ODR,DX,Intact,UXP,Yes,,ODR Zero Min Green,RDR Max+ Green
+08/02/2024,Thursday,Low ODR,High RDR,Zero Min Red,Zero Min Green,RC,Broken by ODR,RX,Broken by RDR,D,,,ODR Zero Min Red,RDR Zero Min Green
+09/02/2024,Friday,Low RDR,High TRN,Min Med Red,Min Med Green,UX,Broken by ADR,UXP,Broken by ODR,UX,,,RDR Min Med Red,TRN Min Med Green
+12/02/2024,Monday,High RDR,Low RDR,Min Med Green,Min Med Red,UXP,Broken by ADR,D,Broken by ODR,U,,,RDR Min Med Green,RDR Min Med Red
+13/02/2024,Tuesday,,,,,,,,,,,,,
+14/02/2024,Wednesday,,,,,,,,,,,,,
+15/02/2024,Thursday,Low RDR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by RDR,UXP,Broken by ODR,RX,,,RDR Zero Min Red,RDR Med Max Green
+16/02/2024,Friday,,,,,,,,,,,,,
+19/02/2024,Monday,Low ODR,High RDR,Zero Min Red,Zero Min Green,RC,Broken by RDR,DXP,Intact,UXP,,,ODR Zero Min Red,RDR Zero Min Green
+20/02/2024,Tuesday,,,,,,,,,,,,,
+21/02/2024,Wednesday,,,,,,,,,,,,,
+22/02/2024,Thursday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Intact,UXP,Intact,UX,,,ODR Zero Min Red,RDR Med Max Green
+23/02/2024,Friday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ODR,U,Broken by RDR,UXP,,,ODR Zero Min Red,RDR Med Max Green
+26/02/2024,Monday,High RDR,Low RDR,Min Med Green,Min Med Red,DXP,Broken by ADR,RC,Broken by RDR,UXP,,,RDR Min Med Green,RDR Min Med Red
+27/02/2024,Tuesday,Low RDR,High RDR,Med Max Red,Zero Min Green,DXP,Broken by ADR,U,Broken by RDR,RC,,,RDR Med Max Red,RDR Zero Min Green
+28/02/2024,Wednesday,,,,,,,,,,,,,
+29/02/2024,Thursday,,,,,,,,,,,,,
+01/03/2024,Friday,Low ODR,High RDR,Min Med Red,Med Max Green,RC,Broken by ODR,UXP,Broken by RDR,RX,Yes,,ODR Min Med Red,RDR Med Max Green
+04/03/2024,Monday,,,,,,,,,,,,,
+05/03/2024,Tuesday,High ODR,Low RDR,Min Med Green,Med Max Red,DXP,Intact,DXP,Intact,DXP,,,ODR Min Med Green,RDR Med Max Red
+06/03/2024,Wednesday,,,,,,,,,,,,,
+07/03/2024,Thursday,,,,,,,,,,,,,
+08/03/2024,Friday,,,,,,,,,,,,,
+11/03/2024,Monday,Low RDR,High RDR,Min Med Red,Zero Min Green,DXP,Broken by ODR,D,Intact,DXP,,,RDR Min Med Red,RDR Zero Min Green
+12/03/2024,Tuesday,,,,,,,,,,,,,
+13/03/2024,Wednesday,High ODR,Low RDR,Zero Min Green,Min Med Red,UXP,Broken by ADR,UX,Intact,DXP,,,ODR Zero Min Green,RDR Min Med Red
+14/03/2024,Thursday,,,,,,,,,,,,,
+15/03/2024,Friday,High ODR,Low RDR,Zero Min Green,Max+ Red,RC,Broken by ADR,U,Broken by ODR,DXP,,,ODR Zero Min Green,RDR Max+ Red
+18/03/2024,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,RC,Intact,UXP,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+19/03/2024,Tuesday,,,,,,,,,,,,,
+20/03/2024,Wednesday,,,,,,,,,,,,,
+21/03/2024,Thursday,Low ODR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,UXP,Broken by ODR,RX,Yes,,ODR Zero Min Red,RDR Min Med Green
+22/03/2024,Friday,,,,,,,,,,,,,
+25/03/2024,Monday,High ODR,Low RDR,Min Med Green,Zero Min Red,DXP,Intact,DXP,Broken by RDR,DX,,,ODR Min Med Green,RDR Zero Min Red
+26/03/2024,Tuesday,High ODR,Low RDR,Zero Min Red,Med Max Red,UX,Broken by RDR,UXP,Broken by ODR,RC,,,ODR Zero Min Red,RDR Med Max Red
+27/03/2024,Wednesday,,,,,,,,,,,,,
+28/03/2024,Thursday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ADR,RC,Broken by ODR,UXP,,,ODR Zero Min Red,RDR Med Max Green
+29/03/2024,Friday,,,,,,,,,,,,,
+01/04/2024,Monday,High ODR,Low RDR,Zero Min Green,Max+ Red,UXP,Broken by ODR,RC,Intact,DXP,,,ODR Zero Min Green,RDR Max+ Red
+02/04/2024,Tuesday,,,,,,,,,,,,,
+03/04/2024,Wednesday,,,,,,,,,,,,,
+04/04/2024,Thursday,,,,,,,,,,,,,
+05/04/2024,Friday,,,,,,,,,,,,,
+08/04/2024,Monday,Low ODR,High RDR,Zero Min Green,Med Max Green,UXP,Broken by ODR,D,Broken by RDR,U,,,ODR Zero Min Green,RDR Med Max Green
+09/04/2024,Tuesday,High RDR,Low RDR,Med Max Green,Med Max Red,RC,Broken by ADR,D,Broken by RDR,RX,,,RDR Med Max Green,RDR Med Max Red
+10/04/2024,Wednesday,,,,,,,,,,,,,
+11/04/2024,Thursday,,,,,,,,,,,,,
+12/04/2024,Friday,High ODR,Low RDR,Zero Min Green,Max+ Red,UXP,Broken by ADR,UX,Intact,DXP,,,ODR Zero Min Green,RDR Max+ Red
+15/04/2024,Monday,High TRN,Low RDR,Min Med Green,Max+ Red,DXP,Broken by RDR,UXP,Broken by ODR,RX,,,TRN Min Med Green,RDR Max+ Red
+16/04/2024,Tuesday,,,,,,,,,,,,,
+17/04/2024,Wednesday,,,,,,,,,,,,,
+18/04/2024,Thursday,High RDR,Low RDR,Med Max Green,Med Max Red,DXP,Broken by ODR,UXP,Broken by RDR,DXP,Yes,,RDR Med Max Green,RDR Med Max Red
+19/04/2024,Friday,High RDR,Low RDR,Min Med Green,Med Max Red,DXP,Broken by ODR,DXP,Broken by RDR,UXP,,,RDR Min Med Green,RDR Med Max Red
+22/04/2024,Monday,Low RDR,High RDR,Zero Min Red,Max+ Green,DXP,Broken by ODR,U,Broken by RDR,RX,,,RDR Zero Min Red,RDR Max+ Green
+23/04/2024,Tuesday,Low ODR,High RDR,Min Med Red,Med Max Green,UXP,Broken by ADR,UXP,Intact,UXP,,,ODR Min Med Red,RDR Med Max Green
+24/04/2024,Wednesday,,,,,,,,,,,,,
+25/04/2024,Thursday,Low RDR,High RDR,Max+ Red,Med Max Green,DXP,Broken by ADR,D,Broken by ODR,DXP,,,RDR Max+ Red,RDR Med Max Green
+26/04/2024,Friday,Low RDR,High RDR,Min Med Red,Med Max Green,UXP,Broken by ODR,UX,Broken by ODR,RX,,,RDR Min Med Red,RDR Med Max Green
+29/04/2024,Monday,,,,,,,,,,,,,
+30/04/2024,Tuesday,High ODR,Low RDR,Zero Min Green,Max+ Red,RC,Broken by ADR,DX,Broken by ODR,DXP,,,ODR Zero Min Green,RDR Max+ Red
+01/05/2024,Wednesday,,,,,,,,,,,,,
+02/05/2024,Thursday,,,,,,,,,,,,,
+03/05/2024,Friday,,,,,,,,,,,,,
+06/05/2024,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,UX,Broken by ADR,U,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+07/05/2024,Tuesday,Low ODR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,RX,Broken by RDR,UXP,,,ODR Zero Min Red,RDR Min Med Green
+08/05/2024,Wednesday,High ODR,Low ODR,Zero Min Green,Min Med Red,RC,Broken by ODR,U,Broken by RDR,DXP,,,ODR Zero Min Green,ODR Min Med Red
+09/05/2024,Thursday,Low ODR,High RDR,Zero Min Red,Med Max Green,UX,Broken by ODR,DXP,Intact,UXP,,Yes,ODR Zero Min Red,RDR Med Max Green
+10/05/2024,Friday,High RDR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ADR,UXP,Broken by ODR,RX,,,RDR Zero Min Green,RDR Med Max Red
+13/05/2024,Monday,High TRN,Low RDR,Zero Min Green,Med Max Red,DXP,Broken by RDR,UXP,Broken by RDR,RX,,,TRN Zero Min Green,RDR Med Max Red
+14/05/2024,Tuesday,,,,,,,,,,,,,
+15/05/2024,Wednesday,,,,,,,,,,,,,
+16/05/2024,Thursday,High RDR,Low RDR,Max+ Green,Min Med Red,UXP,Broken by ADR,D,Broken by ODR,RX,,,RDR Max+ Green,RDR Min Med Red
+17/05/2024,Friday,High TRN,Low RDR,Zero Min Green,Zero Min Red,DXP,Broken by ODR,U,Broken by ODR,RX,,,TRN Zero Min Green,RDR Zero Min Red
+20/05/2024,Monday,Low RDR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ADR,DXP,Broken by ODR,UXP,,,RDR Zero Min Red,RDR Med Max Green
+21/05/2024,Tuesday,,,,,,,,,,,,,
+22/05/2024,Wednesday,,,,,,,,,,,,,
+23/05/2024,Thursday,High TRN,Low RDR,Zero Min Green,Max+ Red,D,Broken by RDR,UXP,Broken by RDR,DXP,,,TRN Zero Min Green,RDR Max+ Red
+24/05/2024,Friday,Low ODR,High RDR,Zero Min Red,Min Med Green,DXP,Broken by ADR,RX,Intact,UXP,,,ODR Zero Min Red,RDR Min Med Green
+27/05/2024,Monday,Low ODR,High RDR,Zero Min Red,Min Med Green,UXP,Intact,UXP,Broken by ODR,U,,,ODR Zero Min Red,RDR Min Med Green
+28/05/2024,Tuesday,High ODR,Low RDR,Zero Min Green,Med Max Red,UX,Broken by ADR,UX,Broken by ODR,DX,,,ODR Zero Min Green,RDR Med Max Red
+29/05/2024,Wednesday,,,,,,,,,,,,,
+30/05/2024,Thursday,High RDR,Low RDR,Min Med Green,Min Med Red,DXP,Broken by ODR,DXP,Broken by RDR,UXP,Yes,,RDR Min Med Green,RDR Min Med Red
+31/05/2024,Friday,,,,,,,,,,,,,
+03/06/2024,Monday,High RDR,Low RDR,Zero Min Green,Min Med Red,UXP,Broken by ODR,D,Broken by RDR,RX,,,RDR Zero Min Green,RDR Min Med Red
+04/06/2024,Tuesday,,,,,,,,,,,,,
+05/06/2024,Wednesday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ADR,DX,Broken by RDR,UX,,,ODR Zero Min Red,RDR Med Max Green
+06/06/2024,Thursday,High RDR,Low RDR,Zero Min Green,Zero Min Red,UXP,Broken by ADR,D,Broken by ODR,RX,,,RDR Zero Min Green,RDR Zero Min Red
+07/06/2024,Friday,,,,,,,,,,,,,
+10/06/2024,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,RC,Broken by ADR,DXP,Broken by ODR,RX,,,ODR Zero Min Red,RDR Med Max Green
+11/06/2024,Tuesday,Low RDR,High RDR,Med Max Red,Min Med Green,UXP,Broken by ODR,UXP,Broken by RDR,DXP,,,RDR Med Max Red,RDR Min Med Green
+12/06/2024,Wednesday,,,,,,,,,,,,,
+13/06/2024,Thursday,,,,,,,,,,,,,
+14/06/2024,Friday,Low ODR,High RDR,Zero Min Red,Min Med Green,RC,Broken by ADR,DXP,Broken by RDR,DXP,,,ODR Zero Min Red,RDR Min Med Green
+17/06/2024,Monday,Low RDR,High RDR,Min Med Red,Med Max Green,UXP,Broken by ADR,UXP,Broken by RDR,DXP,,,RDR Min Med Red,RDR Med Max Green
+18/06/2024,Tuesday,Low ODR,High RDR,Zero Min Green,Min Med Green,UXP,Broken by ODR,DXP,Broken by ODR,UX,,Yes,ODR Zero Min Green,RDR Min Med Green
+19/06/2024,Wednesday,,,,,,,,,,,,,
+20/06/2024,Thursday,High ODR,Low RDR,Min Med Green,Max+ Red,RC,Broken by RDR,UXP,Broken by ODR,DX,,,ODR Min Med Green,RDR Max+ Red
+21/06/2024,Friday,High ODR,Low RDR,Med Max Green,Zero Min Red,DXP,Broken by ODR,DXP,Broken by ODR,DXP,,,ODR Med Max Green,RDR Zero Min Red
+24/06/2024,Monday,High RDR,Low RDR,Min Med Green,Min Med Red,UXP,Broken by ADR,U,Broken by ODR,RX,,,RDR Min Med Green,RDR Min Med Red
+25/06/2024,Tuesday,,,,,,,,,,,,,
+26/06/2024,Wednesday,,,,,,,,,,,,,
+27/06/2024,Thursday,Low ODR,High RDR,Min Med Red,Min Med Green,RC,Intact,UXP,Broken by ODR,UXP,,,ODR Min Med Red,RDR Min Med Green
+28/06/2024,Friday,High RDR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by ODR,UXP,Broken by ODR,RX,,Yes,RDR Min Med Green,RDR Max+ Red
+01/07/2024,Monday,High ODR,Low RDR,Min Med Green,Min Med Red,DXP,Broken by ODR,RX,Broken by ODR,D,,,ODR Min Med Green,RDR Min Med Red
+02/07/2024,Tuesday,,,,,,,,,,,,,
+03/07/2024,Wednesday,,,,,,,,,,,,,
+04/07/2024,Thursday,,,,,,,,,,,,,
+05/07/2024,Friday,,,,,,,,,,,,,
+08/07/2024,Monday,High RDR,Low RDR,Min Med Green,Zero Min Red,UXP,Broken by ADR,RX,Intact,UXP,,,RDR Min Med Green,RDR Zero Min Red
+09/07/2024,Tuesday,,,,,,,,,,,,,
+10/07/2024,Wednesday,,,,,,,,,,,,,
+11/07/2024,Thursday,,,,,,,,,,,,,
+12/07/2024,Friday,,,,,,,,,,,,,
+15/07/2024,Monday,,,,,,,,,,,,,
+16/07/2024,Tuesday,,,,,,,,,,,,,
+17/07/2024,Wednesday,,,,,,,,,,,,,
+18/07/2024,Thursday,High ODR,Low RDR,Zero Min Green,Max+ Red,RC,Broken by ADR,RX,Broken by ODR,U,,,ODR Zero Min Green,RDR Max+ Red
+19/07/2024,Friday,High RDR,Low RDR,Zero Min Green,Med Max Red,DXP,Broken by ADR,DXP,Broken by RDR,U,,,RDR Zero Min Green,RDR Med Max Red
+22/07/2024,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,DXP,Broken by ADR,D,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+23/07/2024,Tuesday,Low ODR,High RDR,Min Med Red,Med Max Green,UX,Broken by ODR,DX,Broken by RDR,UXP,Yes,,ODR Min Med Red,RDR Med Max Green
+24/07/2024,Wednesday,High ODR,Low RDR,Zero Min Green,Med Max Red,DXP,Intact,DXP,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+25/07/2024,Thursday,Low RDR,High RDR,Min Med Red,Max+ Green,DXP,Broken by RDR,DXP,Broken by ODR,DX,,,RDR Min Med Red,RDR Max+ Green
+26/07/2024,Friday,Low ODR,High RDR,Zero Min Red,Med Max Green,RC,Intact,UXP,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+29/07/2024,Monday,High TRN,Low RDR,Min Med Green,Med Max Red,UXP,Broken by ODR,RX,Broken by ODR,D,,,TRN Min Med Green,RDR Med Max Red
+30/07/2024,Tuesday,,,,,,,,,,,,,
+31/07/2024,Wednesday,,,,,,,,,,,,,
+01/08/2024,Thursday,High RDR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by ADR,DXP,Broken by ODR,RX,,,RDR Min Med Green,RDR Max+ Red
+02/08/2024,Friday,,,,,,,,,,,,,
+05/08/2024,Monday,Low TRN,High RDR,Max+ Red,Min Med Red,DX,Intact,DXP,Broken by RDR,D,,,TRN Max+ Red,RDR Min Med Red
+06/08/2024,Tuesday,Low RDR,High RDR,Med Max Red,Max+ Green,UXP,Broken by ODR,U,Broken by RDR,RX,,,RDR Med Max Red,RDR Max+ Green
+07/08/2024,Wednesday,High RDR,Low RDR,Max+ Green,Max+ Red,RC,Broken by RDR,UXP,Broken by RDR,UXP,,,RDR Max+ Green,RDR Max+ Red
+08/08/2024,Thursday,Low ODR,High RDR,Zero Min Red,Max+ Green,DXP,Intact,UX,Intact,UXP,,,ODR Zero Min Red,RDR Max+ Green
+09/08/2024,Friday,Low TRN,High RDR,Max+ Red,Med Max Green,UXP,Broken by ADR,RC,Broken by RDR,RX,,,TRN Max+ Red,RDR Med Max Green
+12/08/2024,Monday,Low RDR,High RDR,Med Max Red,Min Med Green,UXP,Broken by ADR,UX,Broken by RDR,RX,,,RDR Med Max Red,RDR Min Med Green
+13/08/2024,Tuesday,,,,,,,,,,,,,
+14/08/2024,Wednesday,,,,,,,,,,,,,
+15/08/2024,Thursday,Low ODR,High RDR,Min Med Red,Max+ Green,UXP,Broken by ODR,UXP,Intact,UXP,,,ODR Min Med Red,RDR Max+ Green
+16/08/2024,Friday,Low TRN,High RDR,Min Med Red,Min Med Green,UXP,Broken by ODR,U,Broken by RDR,DXP,,,TRN Min Med Red,RDR Min Med Green
+19/08/2024,Monday,Low ODR,High RDR,Min Med Red,Max+ Green,UXP,Broken by ODR,DXP,Broken by RDR,U,,Yes,ODR Min Med Red,RDR Max+ Green
+20/08/2024,Tuesday,,,,,,,,,,,,,
+21/08/2024,Wednesday,,,,,,,,,,,,,
+22/08/2024,Thursday,High RDR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by ODR,DX,Broken by RDR,RX,,,RDR Min Med Green,RDR Max+ Red
+23/08/2024,Friday,,,,,,,,,,,,,
+26/08/2024,Monday,High RDR,Low RDR,Zero Min Green,Max+ Red,RC,Broken by RDR,UXP,Broken by ODR,RX,,,RDR Zero Min Green,RDR Max+ Red
+27/08/2024,Tuesday,Low RDR,High RDR,Min Med Red,Zero Min Green,DXP,Broken by ODR,UXP,Broken by RDR,D,Yes,,RDR Min Med Red,RDR Zero Min Green
+28/08/2024,Wednesday,,,,,,,,,,,,,
+29/08/2024,Thursday,High RDR,Low RDR,Med Max Green,Zero Min Green,DXP,Intact,UXP,Broken by RDR,UXP,,,RDR Med Max Green,RDR Zero Min Green
+30/08/2024,Friday,Low RDR,High RDR,Med Max Red,Min Med Green,DXP,Broken by RDR,UXP,Broken by ODR,UX,,,RDR Med Max Red,RDR Min Med Green
+02/09/2024,Monday,Low ODR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ADR,DXP,Intact,UXP,,,ODR Zero Min Red,RDR Min Med Green
+03/09/2024,Tuesday,,,,,,,,,,,,,
+04/09/2024,Wednesday,Low ODR,High RDR,Min Med Red,Med Max Green,DXP,Broken by RDR,DXP,Broken by ODR,UXP,,,ODR Min Med Red,RDR Med Max Green
+05/09/2024,Thursday,High RDR,Low RDR,Max+ Green,Med Max Red,DX,Broken by ADR,U,Broken by ODR,U,,,RDR Max+ Green,RDR Med Max Red
+06/09/2024,Friday,,,,,,,,,,,,,
+09/09/2024,Monday,Low RDR,High RDR,Zero Min Green,Med Max Green,DXP,Intact,UXP,Broken by ODR,UXP,,,RDR Zero Min Green,RDR Med Max Green
+10/09/2024,Tuesday,Low RDR,High RDR,Med Max Red,Zero Min Green,UX,Broken by ODR,D,Broken by RDR,U,,,RDR Med Max Red,RDR Zero Min Green
+11/09/2024,Wednesday,,,,,,,,,,,,,
+12/09/2024,Thursday,,,,,,,,,,,,,
+13/09/2024,Friday,Low ODR,High RDR,Zero Min Green,Min Med Green,UXP,Broken by ODR,U,Broken by ODR,UXP,,,ODR Zero Min Green,RDR Min Med Green
+16/09/2024,Monday,Low RDR,High RDR,Zero Min Red,Min Med Green,RC,Broken by ODR,D,Broken by RDR,RX,,,RDR Zero Min Red,RDR Min Med Green
+17/09/2024,Tuesday,,,,,,,,,,,,,
+18/09/2024,Wednesday,,,,,,,,,,,,,
+19/09/2024,Thursday,Low ODR,High RDR,Zero Min Green,Med Max Green,U,Intact,UXP,Intact,UXP,,,ODR Zero Min Green,RDR Med Max Green
+20/09/2024,Friday,Low RDR,High RDR,Med Max Red,Min Med Green,RC,Broken by ADR,RC,Broken by ODR,DXP,,,RDR Med Max Red,RDR Min Med Green
+23/09/2024,Monday,Low ODR,High RDR,Med Max Red,Zero Min Green,UX,Broken by ADR,DX,Intact,UXP,,,ODR Med Max Red,RDR Zero Min Green
+24/09/2024,Tuesday,Low RDR,High RDR,Min Med Red,Zero Min Green,RC,Broken by ODR,UXP,Broken by ODR,DX,Yes,,RDR Min Med Red,RDR Zero Min Green
+25/09/2024,Wednesday,,,,,,,,,,,,,
+26/09/2024,Thursday,,,,,,,,,,,,,
+27/09/2024,Friday,High RDR,Low RDR,Min Med Green,Min Med Red,DX,Broken by ADR,DXP,Broken by RDR,UXP,,,RDR Min Med Green,RDR Min Med Red
+30/09/2024,Monday,,,,,,,,,,,,,
+01/10/2024,Tuesday,,,,,,,,,,,,,
+02/10/2024,Wednesday,Low RDR,High RDR,Min Med Red,Med Max Green,RC,Broken by ODR,D,Broken by ODR,RX,,,RDR Min Med Red,RDR Med Max Green
+03/10/2024,Thursday,,,,,,,,,,,,,
+04/10/2024,Friday,,,,,,,,,,,,,
+07/10/2024,Monday,High RDR,Low RDR,Zero Min Green,Min Med Red,UXP,Intact,DXP,Broken by RDR,D,,,RDR Zero Min Green,RDR Min Med Red
+08/10/2024,Tuesday,Low ODR,High RDR,Min Med Red,Max+ Green,DXP,Broken by ODR,D,Intact,UXP,,,ODR Min Med Red,RDR Max+ Green
+09/10/2024,Wednesday,,,,,,,,,,,,,
+10/10/2024,Thursday,,,,,,,,,,,,,
+11/10/2024,Friday,,,,,,,,,,,,,
+14/10/2024,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,RC,Broken by ADR,UX,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+15/10/2024,Tuesday,,,,,,,,,,,,,
+16/10/2024,Wednesday,,,,,,,,,,,,,
+17/10/2024,Thursday,High TRN,Low RDR,Min Med Green,Zero Min Red,UXP,Intact,UXP,Broken by RDR,U,,,TRN Min Med Green,RDR Zero Min Red
+18/10/2024,Friday,Low RDR,High RDR,Zero Min Red,Min Med Green,DXP,Intact,UX,Broken by RDR,RX,,,RDR Zero Min Red,RDR Min Med Green
+21/10/2024,Monday,High RDR,Low RDR,Min Med Green,Min Med Red,UXP,Intact,DXP,Broken by RDR,RX,,,RDR Min Med Green,RDR Min Med Red
+22/10/2024,Tuesday,Low TRN,High RDR,Zero Min Red,Med Max Green,DXP,Broken by RDR,DXP,Broken by RDR,DXP,,,TRN Zero Min Red,RDR Med Max Green
+23/10/2024,Wednesday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ODR,U,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+24/10/2024,Thursday,High TRN,Low RDR,Zero Min Green,Med Max Red,DXP,Broken by RDR,UXP,Broken by ODR,DXP,,,TRN Zero Min Green,RDR Med Max Red
+25/10/2024,Friday,High RDR,Low RDR,Med Max Green,Med Max Red,RC,Broken by ADR,UX,Broken by RDR,UXP,,,RDR Med Max Green,RDR Med Max Red
+28/10/2024,Monday,High ODR,Low RDR,Zero Min Green,Zero Min Red,DX,Broken by ADR,UX,Broken by ODR,D,,,ODR Zero Min Green,RDR Zero Min Red
+29/10/2024,Tuesday,Low RDR,High RDR,Min Med Red,Min Med Green,DXP,Broken by ODR,UXP,Broken by RDR,RX,Yes,,RDR Min Med Red,RDR Min Med Green
+30/10/2024,Wednesday,,,,,,,,,,,,,
+31/10/2024,Thursday,High ODR,Low RDR,Zero Min Red,Max+ Red,DXP,Intact,DXP,Broken by ODR,DXP,,,ODR Zero Min Red,RDR Max+ Red
+01/11/2024,Friday,,,,,,,,,,,,,
+04/11/2024,Monday,High ODR,Low RDR,Zero Min Green,Max+ Red,DXP,Broken by RDR,UXP,Broken by ODR,RX,,,ODR Zero Min Green,RDR Max+ Red
+05/11/2024,Tuesday,Low ODR,High RDR,Min Med Red,Med Max Green,DXP,Intact,UXP,Broken by ODR,UXP,,,ODR Min Med Red,RDR Med Max Green
+06/11/2024,Wednesday,Low RDR,High RDR,Med Max Green,Max+ Green,UXP,Intact,UXP,Broken by ODR,D,,,RDR Med Max Green,RDR Max+ Green
+07/11/2024,Thursday,,,,,,,,,,,,,
+08/11/2024,Friday,Low ODR,High RDR,Min Med Red,Med Max Green,UXP,Broken by ADR,UX,Broken by ODR,UX,,,ODR Min Med Red,RDR Med Max Green
+11/11/2024,Monday,High ODR,Low RDR,Zero Min Red,Med Max Red,UXP,Broken by RDR,UXP,Broken by ODR,D,,,ODR Zero Min Red,RDR Med Max Red
+12/11/2024,Tuesday,High RDR,Low RDR,Min Med Green,Min Med Red,DXP,Broken by ODR,D,Broken by ODR,U,,,RDR Min Med Green,RDR Min Med Red
+13/11/2024,Wednesday,,,,,,,,,,,,,
+14/11/2024,Thursday,,,,,,,,,,,,,
+15/11/2024,Friday,High TRN,Low RDR,Zero Min Red,Max+ Red,DXP,Intact,DXP,Broken by ODR,D,,,TRN Zero Min Red,RDR Max+ Red
+18/11/2024,Monday,Low ODR,High RDR,Min Med Red,Med Max Green,RC,Broken by ADR,DX,Broken by ODR,RX,,,ODR Min Med Red,RDR Med Max Green
+19/11/2024,Tuesday,,,,,,,,,,,,,
+20/11/2024,Wednesday,,,,,,,,,,,,,
+21/11/2024,Thursday,Low ODR,High RDR,Zero Min Red,Max+ Green,RC,Broken by ADR,D,Broken by RDR,RX,,,ODR Zero Min Red,RDR Max+ Green
+22/11/2024,Friday,Low ODR,High RDR,Min Med Red,Min Med Green,UXP,Broken by ODR,UX,Broken by RDR,U,,,ODR Min Med Red,RDR Min Med Green
+25/11/2024,Monday,High RDR,Low RDR,Min Med Green,Med Max Red,UX,Broken by ADR,RC,Broken by RDR,RX,,,RDR Min Med Green,RDR Med Max Red
+26/11/2024,Tuesday,,,,,,,,,,,,,
+27/11/2024,Wednesday,,,,,,,,,,,,,
+28/11/2024,Thursday,,,,,,,,,,,,,
+29/11/2024,Friday,Low TRN,High RDR,Zero Min Red,Min Med Green,DXP,Broken by ODR,UXP,Broken by RDR,RX,,Yes,TRN Zero Min Red,RDR Min Med Green
+02/12/2024,Monday,Low ODR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,DXP,Intact,UXP,Yes,,ODR Zero Min Red,RDR Min Med Green
+03/12/2024,Tuesday,,,,,,,,,,,,,
+04/12/2024,Wednesday,,,,,,,,,,,,,
+05/12/2024,Thursday,High TRN,Low RDR,Zero Min Green,Min Med Green,UXP,Broken by RDR,UXP,Broken by ODR,RX,,,TRN Zero Min Green,RDR Min Med Green
+06/12/2024,Friday,,,,,,,,,,,,,
+09/12/2024,Monday,High ODR,Low RDR,Zero Min Green,Med Max Red,DXP,Broken by ADR,UXP,Intact,DXP,,,ODR Zero Min Green,RDR Med Max Red
+10/12/2024,Tuesday,High RDR,Low RDR,Min Med Green,Min Med Red,DXP,Broken by ADR,D,Broken by ODR,UX,,,RDR Min Med Green,RDR Min Med Red
+11/12/2024,Wednesday,,,,,,,,,,,,,
+12/12/2024,Thursday,,,,,,,,,,,,,
+13/12/2024,Friday,High ODR,Low RDR,Zero Min Red,Max+ Red,DXP,Broken by ADR,UXP,Broken by ODR,RX,,,ODR Zero Min Red,RDR Max+ Red
+16/12/2024,Monday,Low ODR,High RDR,Zero Min Green,Min Med Green,DXP,Broken by ADR,U,Intact,UXP,,,ODR Zero Min Green,RDR Min Med Green
+17/12/2024,Tuesday,,,,,,,,,,,,,
+18/12/2024,Wednesday,,,,,,,,,,,,,
+19/12/2024,Thursday,High RDR,Low RDR,Med Max Green,Med Max Red,DXP,Broken by ADR,UX,Broken by RDR,UX,,,RDR Med Max Green,RDR Med Max Red
+20/12/2024,Friday,Low ODR,High TRN,Med Max Red,Max+ Green,DXP,Broken by ADR,DX,Broken by ODR,UX,,,ODR Med Max Red,TRN Max+ Green
+23/12/2024,Monday,Low RDR,High RDR,Med Max Red,Med Max Green,UXP,Broken by ODR,U,Broken by RDR,DXP,,,RDR Med Max Red,RDR Med Max Green
+24/12/2024,Tuesday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ODR,U,Intact,UXP,,,ODR Zero Min Red,RDR Max+ Green
+25/12/2024,Wednesday,,,,,,,,,,,,,
+26/12/2024,Thursday,Low RDR,High RDR,Min Med Red,Min Med Green,UXP,Broken by ODR,DX,Broken by RDR,DXP,,,RDR Min Med Red,RDR Min Med Green
+27/12/2024,Friday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Intact,DXP,Intact,DX,,,ODR Zero Min Green,RDR Med Max Red
+30/12/2024,Monday,High RDR,Low RDR,Min Med Green,Med Max Red,RC,Intact,DXP,Intact,DXP,,,RDR Min Med Green,RDR Med Max Red
+31/12/2024,Tuesday,High ODR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by ADR,U,Broken by RDR,UXP,,,ODR Min Med Green,RDR Max+ Red
+01/01/2025,Wednesday,,,,,,,,,,,,,
+02/01/2025,Thursday,High ODR,Low RDR,Med Max Green,Max+ Red,DXP,Broken by RDR,UXP,Broken by ODR,RX,,,ODR Med Max Green,RDR Max+ Red
+03/01/2025,Friday,Low ODR,High RDR,Zero Min Red,Max+ Green,DXP,Broken by ADR,RX,Broken by ODR,UXP,,,ODR Zero Min Red,RDR Max+ Green
+06/01/2025,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Intact,UXP,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+07/01/2025,Tuesday,,,,,,,,,,,,,
+08/01/2025,Wednesday,,,,,,,,,,,,,
+09/01/2025,Thursday,High ODR,Low TRN,Zero Min Green,Zero Min Red,RC,Broken by ADR,RX,Broken by ODR,D,,,ODR Zero Min Green,TRN Zero Min Red
+10/01/2025,Friday,,,,,,,,,,,,,
+13/01/2025,Monday,Low ODR,High RDR,Min Med Red,Max+ Green,DX,Broken by RDR,DXP,Broken by ODR,D,,,ODR Min Med Red,RDR Max+ Green
+14/01/2025,Tuesday,,,,,,,,,,,,,
+15/01/2025,Wednesday,,,,,,,,,,,,,
+16/01/2025,Thursday,High ODR,Low RDR,Zero Min Green,Min Med Red,UXP,Broken by ADR,UXP,Intact,DXP,,,ODR Zero Min Green,RDR Min Med Red
+17/01/2025,Friday,Low ODR,High RDR,Zero Min Red,Med Max Green,DXP,Intact,UXP,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+20/01/2025,Monday,Low TRN,High RDR,Min Med Red,Med Max Green,U,Broken by ODR,UXP,Broken by ODR,UXP,Yes,,TRN Min Med Red,RDR Med Max Green
+21/01/2025,Tuesday,,,,,,,,,,,,,
+22/01/2025,Wednesday,Low ODR,High RDR,Min Med Red,Min Med Green,UXP,Broken by ADR,UXP,Intact,UXP,,,ODR Min Med Red,RDR Min Med Green
+23/01/2025,Thursday,Low ODR,High RDR,Zero Min Red,Med Max Green,RC,Broken by ODR,DXP,Intact,UXP,,Yes,ODR Zero Min Red,RDR Med Max Green
+24/01/2025,Friday,High RDR,Low RDR,Min Med Green,Zero Min Red,UXP,Broken by ODR,DX,Broken by ODR,UXP,Yes,,RDR Min Med Green,RDR Zero Min Red
+27/01/2025,Monday,Low ODR,High RDR,Max+ Red,Min Med Red,DXP,Intact,DXP,Broken by RDR,U,,,ODR Max+ Red,RDR Min Med Red
+28/01/2025,Tuesday,Low RDR,High RDR,Med Max Red,Med Max Green,UXP,Broken by ADR,U,Broken by ODR,RX,,,RDR Med Max Red,RDR Med Max Green
+29/01/2025,Wednesday,,,,,,,,,,,,,
+30/01/2025,Thursday,Low RDR,High RDR,Med Max Red,Med Max Green,RC,Broken by ODR,UXP,Broken by RDR,RX,Yes,,RDR Med Max Red,RDR Med Max Green
+31/01/2025,Friday,High RDR,Low RDR,Min Med Green,Max+ Red,UX,Broken by RDR,UXP,Broken by ODR,UX,,,RDR Min Med Green,RDR Max+ Red
+03/02/2025,Monday,Low RDR,High RDR,Min Med Red,Max+ Green,DXP,Broken by ADR,UX,Broken by ODR,RX,,,RDR Min Med Red,RDR Max+ Green
+04/02/2025,Tuesday,Low ODR,High RDR,Med Max Red,Med Max Green,UXP,Broken by RDR,DXP,Intact,UXP,,,ODR Med Max Red,RDR Med Max Green
+05/02/2025,Wednesday,Low ODR,High RDR,Min Med Red,Med Max Green,RC,Broken by ODR,DXP,Broken by RDR,U,,Yes,ODR Min Med Red,RDR Med Max Green
+06/02/2025,Thursday,Low RDR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,UX,Broken by ODR,D,,,RDR Zero Min Red,RDR Min Med Green
+07/02/2025,Friday,,,,,,,,,,,,,
+10/02/2025,Monday,Low ODR,High RDR,Zero Min Red,Min Med Green,DXP,Broken by ADR,RC,Intact,UXP,,,ODR Zero Min Red,RDR Min Med Green
+11/02/2025,Tuesday,,,,,,,,,,,,,
+12/02/2025,Wednesday,,,,,,,,,,,,,
+13/02/2025,Thursday,,,,,,,,,,,,,
+14/02/2025,Friday,Low ODR,High TRN,Zero Min Red,Zero Min Green,UXP,Broken by ODR,RX,Broken by RDR,U,,,ODR Zero Min Red,TRN Zero Min Green
+17/02/2025,Monday,High TRN,Low RDR,Zero Min Red,Zero Min Red,DX,Intact,UX,Broken by ODR,DX,,,TRN Zero Min Red,RDR Zero Min Red
+18/02/2025,Tuesday,,,,,,,,,,,,,
+19/02/2025,Wednesday,,,,,,,,,,,,,
+20/02/2025,Thursday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ODR,DXP,Broken by ODR,D,Yes,,ODR Zero Min Green,RDR Med Max Red
+21/02/2025,Friday,High TRN,Low RDR,Zero Min Green,Max+ Red,RC,Broken by ADR,DX,Broken by ODR,DXP,,,TRN Zero Min Green,RDR Max+ Red
+24/02/2025,Monday,High ODR,Low RDR,Zero Min Green,Max+ Red,DXP,Broken by ADR,RX,Broken by ODR,D,,,ODR Zero Min Green,RDR Max+ Red
+25/02/2025,Tuesday,High TRN,Low RDR,Zero Min Green,Med Max Red,RC,Broken by ODR,DXP,Broken by ODR,RX,Yes,,TRN Zero Min Green,RDR Med Max Red
+26/02/2025,Wednesday,,,,,,,,,,,,,
+27/02/2025,Thursday,High ODR,Low RDR,Min Med Green,Max+ Red,DXP,Broken by RDR,UXP,Broken by ODR,D,,,ODR Min Med Green,RDR Max+ Red
+28/02/2025,Friday,,,,,,,,,,,,,
+03/03/2025,Monday,High ODR,Low RDR,Min Med Green,Max+ Red,UXP,Broken by ODR,UXP,Broken by RDR,RX,,,ODR Min Med Green,RDR Max+ Red
+04/03/2025,Tuesday,High ODR,Low RDR,Zero Min Green,Max+ Red,DXP,Broken by ADR,RX,Broken by RDR,DXP,,,ODR Zero Min Green,RDR Max+ Red
+05/03/2025,Wednesday,,,,,,,,,,,,,
+06/03/2025,Thursday,High ODR,Low RDR,Zero Min Green,Med Max Red,UXP,Broken by ADR,DXP,Broken by RDR,DXP,,,ODR Zero Min Green,RDR Med Max Red
+07/03/2025,Friday,,,,,,,,,,,,,
+10/03/2025,Monday,High ODR,Low RDR,Min Med Green,Max+ Red,DXP,Broken by ODR,UXP,Intact,DXP,Yes,,ODR Min Med Green,RDR Max+ Red
+11/03/2025,Tuesday,High ODR,Low RDR,Min Med Green,Max+ Red,DXP,Broken by RDR,UXP,Broken by ODR,D,,,ODR Min Med Green,RDR Max+ Red
+12/03/2025,Wednesday,,,,,,,,,,,,,
+13/03/2025,Thursday,,,,,,,,,,,,,
+14/03/2025,Friday,Low ODR,High TRN,Zero Min Red,Max+ Green,DXP,Broken by ODR,U,Intact,UXP,,,ODR Zero Min Red,TRN Max+ Green
+17/03/2025,Monday,Low ODR,High RDR,Zero Min Red,Max+ Green,UXP,Broken by ADR,DX,Intact,UXP,,,ODR Zero Min Red,RDR Max+ Green
+18/03/2025,Tuesday,,,,,,,,,,,,,
+19/03/2025,Wednesday,,,,,,,,,,,,,
+20/03/2025,Thursday,Low ODR,High RDR,Med Max Red,Zero Min Green,UXP,Broken by ODR,UX,Broken by RDR,D,Yes,,ODR Med Max Red,RDR Zero Min Green
+21/03/2025,Friday,Low TRN,High RDR,Med Max Red,Min Med Green,RC,Broken by ODR,DX,Broken by RDR,DXP,,,TRN Med Max Red,RDR Min Med Green
+24/03/2025,Monday,Low ODR,High RDR,Zero Min Red,Med Max Green,UXP,Broken by ADR,UXP,Intact,UXP,,,ODR Zero Min Red,RDR Med Max Green
+25/03/2025,Tuesday,Low ODR,High RDR,Zero Min Red,Min Med Green,UXP,Broken by ODR,D,Broken by RDR,UXP,,,ODR Zero Min Red,RDR Min Med Green
+26/03/2025,Wednesday,,,,,,,,,,,,,
+27/03/2025,Thursday,Low RDR,High RDR,Med Max Red,Min Med Green,DXP,Broken by ODR,UXP,Broken by ODR,RX,Yes,,RDR Med Max Red,RDR Min Med Green
+28/03/2025,Friday,High ODR,Low RDR,Zero Min Red,Max+ Red,RC,Broken by ADR,DX,Broken by ODR,D,,,ODR Zero Min Red,RDR Max+ Red
+31/03/2025,Monday,Low RDR,High RDR,Med Max Red,Max+ Green,DXP,Broken by ADR,D,Broken by RDR,DX,,,RDR Med Max Red,RDR Max+ Green
+01/04/2025,Tuesday,Low RDR,High RDR,Med Max Red,Med Max Green,UXP,Broken by ADR,UXP,Broken by RDR,DX,,,RDR Med Max Red,RDR Med Max Green
+02/04/2025,Wednesday,Low RDR,High RDR,Med Max Red,Max+ Green,UXP,Broken by RDR,DXP,Broken by RDR,RX,,,RDR Med Max Red,RDR Max+ Green
+03/04/2025,Thursday,,,,,,,,,,,,,
+04/04/2025,Friday,,,,,,,,,,,,,
+07/04/2025,Monday,Low ODR,High RDR,Max+ Red,Max+ Green,DXP,Broken by ADR,DX,Broken by RDR,UXP,,,ODR Max+ Red,RDR Max+ Green
+08/04/2025,Tuesday,High RDR,Low RDR,Max+ Green,Max+ Red,RC,Broken by ADR,UX,Broken by RDR,UXP,,,RDR Max+ Green,RDR Max+ Red
+09/04/2025,Wednesday,,,,,,,,,,,,,
+10/04/2025,Thursday,,,,,,,,,,,,,
+11/04/2025,Friday,,,,,,,,,,,,,
+14/04/2025,Monday,High TRN,Low RDR,Med Max Green,Max+ Red,UXP,Broken by RDR,UXP,Broken by RDR,UX,,,TRN Med Max Green,RDR Max+ Red
+15/04/2025,Tuesday,,,,,,,,,,,,,
+16/04/2025,Wednesday,,,,,,,,,,,,,
+17/04/2025,Thursday,High ODR,Low RDR,Max+ Green,Min Med Red,DXP,Broken by RDR,UXP,Intact,DXP,,,ODR Max+ Green,RDR Min Med Red
+18/04/2025,Friday,,,,,,,,,,,,,
+21/04/2025,Monday,High ODR,Low RDR,Zero Min Red,Max+ Red,DX,Intact,DXP,Broken by RDR,DXP,,,ODR Zero Min Red,RDR Max+ Red
+22/04/2025,Tuesday,Low ODR,High RDR,Min Med Green,Max+ Green,DX,Intact,UXP,Broken by ODR,UX,,,ODR Min Med Green,RDR Max+ Green
+23/04/2025,Wednesday,High RDR,Low RDR,Max+ Green,Med Max Red,UXP,Broken by ADR,RX,Broken by RDR,UXP,,,RDR Max+ Green,RDR Med Max Red
+24/04/2025,Thursday,Low ODR,High RDR,Med Max Red,Max+ Green,DXP,Broken by RDR,DXP,Intact,UXP,,,ODR Med Max Red,RDR Max+ Green
+25/04/2025,Friday,Low RDR,High RDR,Med Max Red,Med Max Green,UXP,Broken by ODR,RX,Broken by RDR,DXP,,,RDR Med Max Red,RDR Med Max Green
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
