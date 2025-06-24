@@ -23,7 +23,7 @@ st.markdown("""
 
 st.markdown("""
 <div class="center">
-    <h1>Welcome to Subin's 5000 Sequence Analyzer version 4.0 😊</h1>
+    <h1>Welcome to Subin's 5000 Sequence Analyzer version 5.0 😊</h1>
 </div>
 """, unsafe_allow_html=True)
 
